@@ -1,0 +1,1001 @@
+customerNumber,cardLast4Digits,transactionDate,transactionTime,transactionAmount,transactionType,merchantName,merchantCity,merchantState,merchantZip,merchantCountry
+00aac2d1-7e01-42c5-855b-42b7c32dfb58,**0875******3834,05/30/2021,0:40:39,$149.06,Tap,Ledner Inc,Philadelphia,PA,19151,United States
+7480d13f-522a-4046-885c-4895190d685e,**4837******6436,06/09/2021,21:49:56,$49.75,Tap,Keeling and Sons,Huntington,WV,25775,United States
+29cb8de6-5f60-4bd8-a33c-d99d55bec916,**0875******5659,03/14/2021,6:36:36,$166.43,Tap,Crona-Baumbach,Boston,MA,02114,United States
+65a3ddb0-b6fb-4716-81c8-1cd54614a7b6,**0875******2280,10/28/2021,12:16:50,$129.83,Swipe,Hoppe-Reichel,Atlanta,GA,30301,United States
+899d435e-3615-4f19-864a-c35055af8818,**4837******2578,12/26/2020,20:46:04,$191.98,Tap,Padberg-Hilpert,Orlando,FL,32868,United States
+134c3740-77d4-433a-97d0-755e492e8f75,**4837******9454,06/04/2021,17:15:44,$242.49,Tap,Lang-Greenfelder,Sioux Falls,SD,57193,United States
+0f2f86af-3b00-4df5-90cc-196cf591db6e,**4837******1008,12/16/2020,23:42:49,$126.17,Swipe,Graham Inc,Boston,MA,02208,United States
+b0f554ae-db22-46df-9502-63a7ecb50128,**0875******4890,04/11/2021,14:03:50,$40.07,Tap,,Newark,NJ,07195,United States
+ddc5ad25-c573-46f7-a491-5b4157db388d,**4837******9666,03/21/2021,4:26:07,,Tap,Bartoletti and Sons,Simi Valley,CA,93094,United States
+79f8daa7-e8be-429a-be73-84cf3819a1e6,**0875******0707,03/06/2021,11:15:34,$63.07,Tap,Hane Group,Harrisburg,PA,17126,United States
+2679edb5-12e1-448b-bd1a-b3c30dc10bdd,**4837******9288,11/16/2021,5:51:02,$11.99,Swipe,"Kutch, Douglas and Kihn",Roanoke,VA,24040,United States
+6c0254f7-16f8-4ab4-b048-9b519c15cf51,**0875******1414,05/19/2021,7:21:33,$217.99,Tap,Mayert-Hilpert,Atlanta,GA,30306,United States
+7711c7fc-ded6-422a-a02c-bf4d0d3b3dcb,**0875******1338,09/17/2021,18:43:38,$120.69,Swipe,Marks-Monahan,New Castle,PA,16107,United States
+272a8c78-89bd-4819-93fd-7f675ca253ae,**0875******5854,02/05/2021,1:15:30,$133.59,Swipe,Johns Inc,Lake Worth,FL,33462,United States
+1df79d34-4b5a-4602-9ee8-fddac7c63a2b,**0875******9999,09/18/2021,6:23:31,$26.21,Tap,"Olson, Howe and Moore",Chicago,IL,60624,United States
+c12850bd-1f1e-4a1d-8f8a-980d097d3d1f,**0875******3706,07/23/2021,20:05:26,,Tap,Kuhn-Rolfson,Aurora,CO,80044,United States
+f3356328-e619-4350-9d31-5b738f48e51b,**4837******4732,02/18/2021,10:46:12,$128.07,Tap,"Schmeler, McCullough and Legros",Sacramento,CA,95818,United States
+6669b7fd-49d3-41be-a43d-71eaf4f5aff6,**0875******8592,01/17/2021,12:53:24,$224.95,Swipe,Bayer and Sons,Albuquerque,NM,87110,United States
+880fafdd-988b-4b26-8880-3476c0d99675,**0875******0527,01/15/2021,9:57:41,$72.16,Swipe,Kiehn-Blick,Sarasota,FL,34276,United States
+82345873-58fe-4e89-b905-249dbd379000,**0875******3369,03/19/2021,17:34:31,$57.92,Tap,Bogan-Konopelski,Jersey City,NJ,07310,United States
+7614adf7-e8c2-4f0e-bfee-a5c80deaf913,**0875******3984,10/18/2021,21:35:43,$197.83,Tap,"Block, Oberbrunner and Hane",Sioux Falls,SD,57198,United States
+db23b272-09df-4510-8b3f-3dd6e8dd9445,**4837******9316,10/13/2021,8:52:35,$73.48,Tap,Collins-McGlynn,El Paso,TX,79989,United States
+eb01d319-67d8-4300-bfb5-4cb878d1cf07,**4837******3541,10/03/2021,20:31:34,$115.41,Swipe,Durgan-Flatley,Silver Spring,MD,20910,United States
+8cc69da0-c627-4097-ba57-badd02c09352,**4837******0385,06/17/2021,19:08:31,$187.02,Swipe,Walsh LLC,Baltimore,MD,21290,United States
+6f4e1c35-d33c-4f14-8951-f11704a07ae3,**0875******0811,05/20/2021,15:49:27,$26.24,Tap,"Marquardt, Berge and Nienow",Memphis,TN,38126,United States
+883ff8c9-b599-4e47-95ec-ca5ba70612e7,**4837******0437,09/23/2021,12:38:07,$110.97,Tap,"Carter, O'Reilly and Toy",Virginia Beach,VA,23454,United States
+ee379140-2b5f-4e2b-9a40-f28d311f9d18,**4837******7940,12/26/2020,6:58:23,$183.78,Tap,Krajcik Group,Baton Rouge,LA,70826,United States
+89f9611e-c9e8-4233-a82f-b78efb53d8e5,**4837******9076,02/18/2021,6:40:56,$44.22,Swipe,Bradtke-Krajcik,Champaign,IL,61825,United States
+137346f8-ecf3-4a97-9d8d-b7f7c08fb0da,**4837******6586,07/25/2021,18:25:13,$239.70,Tap,"Kessler, DuBuque and Aufderhar",Chicago,IL,60624,United States
+3714513c-a0bd-44c1-9958-cda4d2cc5523,**0875******4442,08/29/2021,17:46:42,$212.22,Swipe,Bahringer LLC,Jamaica,NY,11436,United States
+f027ebbc-b200-401f-bae6-240d23304d11,**0875******1231,10/04/2021,21:18:22,$73.10,Tap,Rice-Walter,Brooklyn,NY,11231,United States
+67d15bc4-60e2-4d52-b55a-b609d9ab264f,**0875******5394,03/01/2021,1:54:30,$205.17,Tap,,Evansville,IN,47719,United States
+8a9f9dbf-6751-453b-ace8-aac0009b7139,**4837******9381,10/13/2021,20:39:36,$121.12,Swipe,"Stanton, Barrows and Rippin",Glendale,AZ,85311,United States
+c00944b6-9058-4eb1-9117-d80a90a16a32,**0875******2172,04/09/2021,8:52:15,$45.45,Tap,Kuhic-Batz,Saint Louis,MO,63136,United States
+8ba8577c-e038-4aeb-967a-caded5e18bc2,**0875******1817,01/05/2021,20:54:36,$191.01,Tap,McCullough Group,Baltimore,MD,21275,United States
+4adad475-c0ef-4976-8c82-937066358efe,**4837******6478,03/04/2021,6:47:56,$232.73,Swipe,"Bahringer, Torp and Schumm",Austin,TX,78754,United States
+533aafea-25dc-4f8f-8bb8-df5b2b4e0d34,**0875******7705,,,$69.51,Tap,Corkery-Ward,Las Vegas,NV,89145,United States
+715d9fad-aa69-4d8a-af49-9cce7438443c,**0875******8666,12/16/2020,22:44:15,$196.03,Swipe,Bernhard-Harvey,Amarillo,TX,79116,United States
+636bb2e7-8433-4595-9a98-d56acbd2c056,**4837******4004,10/26/2021,12:03:26,$177.90,Swipe,Bailey-Bartoletti,Albany,NY,12205,United States
+8b085837-032e-44ad-9a58-dc791c375236,**4837******4596,12/10/2020,1:06:08,,Swipe,Nolan-O'Hara,Phoenix,AZ,85010,United States
+dad2bb7e-2068-4b39-a753-b00496e2be73,**4837******3074,07/28/2021,4:10:55,$161.38,Swipe,"Kunde, Dach and Trantow",Brooklyn,NY,11231,United States
+65dd701a-0f9d-41e3-aa76-c689d28c9c5c,**0875******5699,11/24/2021,20:51:05,$206.93,Swipe,"Cartwright, Schmidt and Gutmann",Albany,NY,12262,United States
+4576eed8-333f-4793-a5e6-890ec7995ed1,**4837******9779,04/11/2021,23:44:12,$85.40,Tap,Mueller LLC,Stockton,CA,95298,United States
+6ba8b281-c5bc-460c-8c9a-2053b0bea117,**4837******6532,11/29/2020,15:13:42,$86.78,Swipe,Oberbrunner-Kreiger,Arlington,TX,76004,United States
+c3658ac1-6ec9-424b-827d-577b3be4e811,**4837******8310,01/29/2021,21:22:42,$181.11,Tap,"Parker, Oberbrunner and Terry",Milwaukee,WI,53234,United States
+f7a59214-1b4a-433f-abda-3f4abe376ddf,**4837******9353,09/23/2021,10:44:59,$202.80,Swipe,Brakus-Sauer,Melbourne,FL,32919,United States
+f1ac4d63-f054-4d04-ad62-4190180a5094,**4837******4494,01/29/2021,22:23:20,$74.98,Tap,Swift-Brakus,Round Rock,TX,78682,United States
+17baf125-f097-4040-998a-6dfc0fc8f233,**0875******4401,05/30/2021,21:32:24,$217.37,Tap,"Lang, Fisher and Stiedemann",Houston,TX,77075,United States
+e4e44825-d333-4cf0-86ce-b587a58bd91b,**0875******2502,06/15/2021,17:44:43,$149.23,Tap,Wintheiser Group,Nashville,TN,37215,United States
+23dadb47-d730-499b-ae81-9ffb2bd7132d,**4837******1986,10/31/2021,1:34:36,$147.04,Swipe,Kuvalis and Sons,Los Angeles,CA,90087,United States
+0f6cbac4-dc2c-47db-b08c-94dfdc01ec11,**4837******9649,05/20/2021,11:40:38,$25.91,Tap,Padberg and Sons,Mobile,AL,36605,United States
+a9c33208-d897-42f0-a244-63aaba7c63c3,**0875******4163,12/07/2020,10:55:41,$230.45,Tap,"Romaguera, Botsford and Leffler",Austin,TX,78759,United States
+87655d3c-7c5c-4985-b613-b9d960ea38c1,**4837******9220,11/15/2021,5:43:57,$176.16,Swipe,"White, Quigley and Corkery",Atlanta,GA,30386,United States
+541952ad-57ad-4879-80ee-902e71443469,**0875******4130,02/24/2021,15:50:25,$81.89,Tap,Blanda Inc,Aurora,CO,80045,United States
+b301a004-374a-4e0c-b2d2-3b0970e17fe3,**0875******2619,09/22/2021,15:53:40,$12.64,Tap,Cole Inc,Terre Haute,IN,47812,United States
+dabbf656-92d8-4cd0-b44c-ce5ec3a50ceb,**0875******0964,10/02/2021,23:36:57,$190.92,Swipe,Beatty Group,Columbia,SC,29240,United States
+1f397e8a-8edc-4734-a045-dc7bcd4326a7,**4837******8135,06/01/2021,7:31:30,$246.60,Swipe,Luettgen LLC,El Paso,TX,79911,United States
+e5e7878a-aac8-4c5e-8877-c34603ab86a6,**0875******8422,05/24/2021,21:13:55,$101.33,Tap,"Trantow, Bernhard and Brakus",Hagerstown,MD,21747,United States
+146d8870-61d1-4101-8b28-e30282be2ae1,**4837******1871,02/02/2021,5:10:47,$61.83,Tap,Mayer-Ondricka,Orange,CA,92867,United States
+b76336ca-8595-4ace-a42c-23ae075c4508,**0875******1298,02/14/2021,22:13:46,$226.88,Tap,"Cartwright, Spencer and Greenholt",Columbia,MO,65218,United States
+695d46ab-476a-4edf-9e6d-be95cba5e56c,**0875******3734,06/03/2021,19:48:17,$185.59,Tap,"Rodriguez, Howell and Wintheiser",Pittsburgh,PA,15215,United States
+9c131fdd-7e62-4330-bcbb-bcdf875054b7,**0875******3004,02/07/2021,23:40:58,$142.02,Tap,Cronin-Runolfsson,Garden Grove,CA,92645,United States
+4c7c1930-c4ab-4c5b-b00e-a65e423ef3da,**0875******2462,10/31/2021,0:21:40,,Swipe,Macejkovic and Sons,Houston,TX,77050,United States
+630c745f-062f-47f5-835e-007d366cb150,**4837******1395,05/20/2021,14:57:06,$64.51,Tap,"Botsford, Mann and Marks",Lees Summit,MO,64082,United States
+502b8114-fcc2-4e8a-b988-1384d4c411e4,**4837******0739,05/26/2021,15:21:36,,Tap,Krajcik Inc,Portland,OR,97255,United States
+7d325553-bc8f-418c-9862-3d670ff46bd8,**4837******9132,02/03/2021,14:13:46,$100.22,Tap,Ryan-Ledner,Washington,DC,20310,United States
+ffce16ff-2735-4792-8cc3-0d2b76b714c6,**4837******2882,11/06/2021,7:28:59,$215.88,Tap,Jerde-Bosco,Bronx,NY,10464,United States
+942d9ce4-cc3d-483b-ae88-d2e34563880d,**0875******9360,09/03/2021,1:42:55,$208.93,Swipe,Conn LLC,Miami,FL,33153,United States
+3de9765f-d941-4ad1-8d2d-fe2d72763823,**4837******0120,03/09/2021,3:59:44,$51.21,Tap,"Schmitt, Gibson and Heathcote",New York City,NY,10079,United States
+70f1e6af-fab7-4efd-a331-41ac26ba7faf,**4837******0824,04/13/2021,4:17:24,$217.80,Swipe,Ankunding Inc,Sacramento,CA,94237,United States
+d921b87b-6f0b-407d-90e6-9e94d4c890b7,**0875******4260,05/29/2021,1:50:20,$151.93,Tap,"McClure, Heidenreich and Abernathy",Vancouver,WA,98687,United States
+c4eaf87a-9f86-4818-a1c6-4f5dccdae60c,**4837******3060,12/25/2020,5:51:18,$210.22,Tap,"Wolff, Braun and Murphy",Houston,TX,77250,United States
+2b162ba5-0603-4403-bdb5-ebaf8a6d2645,**0875******9323,03/15/2021,22:43:51,$139.52,Swipe,Vandervort-Kiehn,Memphis,TN,38109,United States
+e867f544-c796-4038-ba12-515936d68604,**0875******7045,05/28/2021,23:20:11,$23.30,Tap,Hagenes LLC,New York City,NY,10009,United States
+5a399bec-0d62-4d02-83ad-1b1b549bb23e,**4837******0758,04/01/2021,22:19:10,$233.36,Swipe,"Halvorson, Stamm and O'Conner",Washington,DC,20546,United States
+3ce5b00d-647d-4ebd-8b28-81768709b8ec,**0875******3235,06/19/2021,19:54:09,$112.31,Swipe,Weissnat Inc,Corpus Christi,TX,78410,United States
+fbefafb4-12e3-47f0-940d-72b8f76190fd,**4837******8634,05/21/2021,22:17:35,$185.40,Tap,Weimann-Huels,Corpus Christi,TX,78475,United States
+b653ca1f-e1c5-43fb-bcae-dc3d5a5c2888,**0875******4361,07/05/2021,10:48:58,$25.10,Swipe,"Wuckert, Medhurst and Crooks",Denver,CO,80243,United States
+856474b2-c10e-45b9-b052-693189b95d44,**0875******4428,11/15/2021,17:55:44,$10.08,Tap,Durgan-Armstrong,Chicago,IL,60630,United States
+848ca332-b86b-48dd-844a-c84d33ce606b,**4837******7497,03/10/2021,11:23:27,$155.93,Tap,Hoeger Group,Lubbock,TX,79405,United States
+35b92fb0-4d1d-45ca-beaf-d1d3e6c928fb,**0875******7966,08/14/2021,14:19:07,$209.30,Tap,"Tillman, Carroll and Wilkinson",Pasadena,TX,77505,United States
+c977d3f5-4b47-4a69-bda5-8786544409d5,**4837******6857,11/03/2021,4:03:12,$156.38,Tap,"Hoeger, Stehr and Gleason",Tucson,AZ,85720,United States
+59a48d18-9026-4499-8f6c-accb83c06a3a,**0875******4943,10/19/2021,19:04:48,$177.17,Tap,"Batz, Rutherford and Koelpin",Los Angeles,CA,90087,United States
+13e03ed4-2a86-4afc-994a-858cb1b8b048,**4837******2150,,,$74.64,Tap,Roob LLC,Hollywood,FL,33023,United States
+205e0b0d-7471-4fe9-ac31-6df366982653,**0875******2404,11/15/2021,12:32:07,$142.43,Tap,"Ullrich, Hettinger and Mohr",Oklahoma City,OK,73167,United States
+a078fb9d-c722-4d97-ab19-7f276244033e,**4837******4599,03/05/2021,15:08:01,$140.65,Tap,"Zieme, Koelpin and Padberg",New Haven,CT,06533,United States
+9fd33576-e281-4275-902b-59c0cd3067f5,**0875******3019,05/07/2021,10:44:13,$138.34,Swipe,Schuster-Runte,Oakland,CA,94627,United States
+1db9aecf-a3f1-4713-8e5b-d46bd497a933,**4837******7607,01/10/2021,12:06:13,$167.27,Tap,Mueller-Anderson,Louisville,KY,40220,United States
+671f6577-fb16-4be5-acca-af7638f9d2be,**4837******3375,02/15/2021,21:19:00,$158.59,Swipe,Block-Goyette,Tulsa,OK,74156,United States
+f50ce15c-fcfb-49a8-a632-3201ecf36944,**4837******9587,03/19/2021,15:33:31,$44.36,Tap,Leuschke-Corkery,Lynchburg,VA,24515,United States
+d82e0d21-8ab0-4f2a-a813-4b301f95bd02,**0875******3050,12/23/2020,1:04:23,$202.59,Swipe,Treutel-Wiegand,Dallas,TX,75372,United States
+2fcade3a-75c9-47b5-afdf-9e19aa9e5b59,**0875******8628,09/11/2021,18:26:19,$98.34,Tap,"Schroeder, O'Kon and Ryan",Greenville,SC,29615,United States
+007fdb22-7f0c-4c38-8445-c142f7558a62,**4837******1549,02/04/2021,12:28:01,$138.71,Tap,"Lubowitz, Gislason and Witting",Dallas,TX,75287,United States
+89178cd7-955b-4440-a0c5-4fe77001fc96,**4837******9985,09/12/2021,17:51:38,$197.37,Swipe,Bins and Sons,Atlanta,GA,30336,United States
+86abce6f-a63b-4a4f-b4a7-77428d97e91b,**0875******1874,08/26/2021,8:58:28,$174.58,Swipe,"Luettgen, Auer and Murray",Salt Lake City,UT,84140,United States
+e1c834d3-10db-4dc0-a0b2-3cbc8fe74b93,**0875******7458,10/03/2021,13:35:03,$55.60,Tap,Willms LLC,Fort Lauderdale,FL,33310,United States
+8b85c0c0-7313-4bb3-ae42-814e22c998e4,**0875******2884,04/03/2021,11:02:31,$192.50,Swipe,"Stiedemann, Auer and Breitenberg",Roanoke,VA,24004,United States
+db8dc751-964e-41c7-b861-ee13bc88b8e0,**0875******1983,01/09/2021,18:33:07,$24.44,Tap,"Rice, Turner and Goodwin",Huntsville,AL,35805,United States
+a4e1814c-2e7d-40d8-b9bb-1ee7ff9ba751,**0875******8236,09/29/2021,12:06:37,$192.69,Tap,Nikolaus and Sons,Trenton,NJ,08650,United States
+bc71d2fa-9310-40d0-8bdd-0362c718eafe,**4837******2545,02/05/2021,1:24:59,$182.86,Swipe,"Simonis, Ullrich and Raynor",Fort Worth,TX,76162,United States
+71e02e14-ace8-4361-913a-d14db603c99c,**4837******7939,03/22/2021,14:03:39,$103.99,Swipe,Hudson-Robel,Van Nuys,CA,91499,United States
+40acf28b-6563-4a27-be77-e536d2904c3a,**4837******9432,02/13/2021,18:54:34,$22.88,Swipe,"Durgan, Buckridge and Hills",Mesquite,TX,75185,United States
+f90587c5-331c-4880-865d-6ddf90f5c1a8,**0875******4170,08/19/2021,23:54:05,$64.62,Tap,Goldner Inc,Syracuse,NY,13224,United States
+0d84ed29-7e0f-40d2-b146-40e94fabf28f,**0875******5555,04/27/2021,13:33:04,$222.61,Tap,Ziemann-Price,Chico,CA,95973,United States
+f066a728-15ab-4548-ae3d-b09192f45af3,**4837******3407,02/10/2021,1:25:03,$128.58,Tap,Graham and Sons,Laredo,TX,78044,United States
+d65db82b-3036-491c-9376-56e99883f7ec,**0875******6753,11/25/2020,9:13:03,$68.25,Tap,Borer Group,Houston,TX,77276,United States
+989f01e5-12b8-4f9d-8857-3bfa1fe12ff5,**4837******7274,12/17/2020,17:20:49,$11.87,Swipe,"Kassulke, Schumm and Mohr",Kansas City,MO,64193,United States
+013f9b39-46a2-4b4d-9925-7d6934db5079,**0875******9045,12/16/2020,2:41:10,$22.40,Swipe,"Koch, Waelchi and Dibbert",New York City,NY,10280,United States
+84276842-8f17-44e3-8a25-cd4cd4b8f711,**4837******6527,06/26/2021,6:06:07,$250.58,Swipe,Blick-Stracke,Atlanta,GA,30340,United States
+f180e14c-942f-4542-afa0-ae9c6e9e1434,**0875******9870,12/19/2020,5:46:47,$36.39,Tap,"Kohler, Kohler and Heathcote",Springfield,MO,65805,United States
+af97ef19-3027-4fc5-bfc9-64db8fa2fc6e,**4837******1520,05/16/2021,20:48:10,$134.78,Swipe,"Schinner, Feest and Abshire",Rochester,NY,14624,United States
+0831d44a-2fe1-45fc-9aa0-3cecfb9147f8,**0875******8285,07/12/2021,16:00:14,$153.22,Tap,Bartell-Howell,Minneapolis,MN,55407,United States
+60ebfffb-3fcf-4e2b-87d3-636b93954c71,**4837******3005,08/03/2021,14:26:27,$35.37,Swipe,Cole and Sons,Bronx,NY,10454,United States
+95ca5d96-a996-4539-94f1-b07584d8bb6f,**0875******8318,01/10/2021,5:07:18,$124.01,Tap,Torphy-Batz,Houston,TX,77234,United States
+baf59c74-04fe-4e30-b413-bb06cdfa41b0,**0875******9578,12/31/2020,20:11:22,$149.23,Tap,"Keebler, Cummerata and Bahringer",Milwaukee,WI,53263,United States
+ab7f6ce4-940e-4f1e-a497-f155246deeb9,**4837******6821,04/11/2021,22:48:40,$113.62,Tap,Kohler-Brakus,Charleston,WV,25326,United States
+571c9555-ebee-4e52-bc5a-ad402e18b791,**4837******9877,03/05/2021,13:35:37,$229.67,Swipe,"Feil, Labadie and Boehm",Philadelphia,PA,19146,United States
+5d53450a-a8d8-4cad-99bf-43e331fa9e6b,**0875******6976,05/11/2021,7:11:31,$37.02,Swipe,Olson-Ratke,Dayton,OH,45490,United States
+5fbae34e-a6a8-465e-bafe-9b9da41856c6,**4837******1694,07/07/2021,20:54:09,,Swipe,Leffler-Wyman,Fayetteville,NC,28314,United States
+6e5b3bde-ce42-4804-ad77-cd364fd3df6c,**4837******1752,01/30/2021,10:41:33,$241.75,Swipe,"Gusikowski, Jakubowski and Walter",Worcester,MA,01610,United States
+4e42db9b-68e5-443d-b9c1-c14b031b5d74,**0875******6866,02/01/2021,0:10:32,$60.11,Tap,Bogisich-Conroy,Trenton,NJ,08619,United States
+91a61a44-bb3f-4851-a370-3c79908acfd1,**0875******1577,02/20/2021,23:47:59,$98.26,Tap,Nitzsche-Altenwerth,Colorado Springs,CO,80940,United States
+330a7ba3-f934-4227-b5c5-758cab8c1b5f,**0875******3118,02/17/2021,3:08:19,$123.33,Tap,Towne and Sons,Reno,NV,89505,United States
+3ba52e0a-8e84-4271-acd8-e0ab4c793755,**4837******8665,07/23/2021,16:23:31,$97.04,Swipe,"Corkery, Keebler and Haag",New York City,NY,10115,United States
+258b8dde-93fa-4c95-bbb9-ce916762f1ad,**4837******5009,01/22/2021,8:41:41,,Swipe,"Lesch, Kautzer and Gutkowski",San Diego,CA,92191,United States
+83d784e5-83d4-4a70-9ef1-030fc958de31,**4837******7392,08/09/2021,5:58:46,$61.95,Swipe,Koepp-Sawayn,Austin,TX,78749,United States
+ad7d9ba7-8538-40d5-9491-b307772ebeca,**4837******5044,05/02/2021,2:27:55,$202.00,Swipe,,Columbus,GA,31998,United States
+be1f8cb6-0253-4342-9a2d-c1ba76e20194,**4837******8503,06/12/2021,2:48:47,$84.97,Swipe,Lynch and Sons,Apache Junction,AZ,85219,United States
+c71bb8e3-955b-4e2c-8ed1-55c4cb931103,**0875******9003,09/22/2021,9:09:40,$247.00,Tap,Crist-Stoltenberg,Garland,TX,75044,United States
+9f67b666-3ed3-4e88-9454-f9efa3d564b2,**0875******3046,07/07/2021,15:25:30,$68.99,Swipe,"Hermann, Bednar and Nikolaus",Bozeman,MT,59771,United States
+1191343e-d222-4eec-8f84-83bad4444ca3,**4837******3949,08/14/2021,6:38:21,$114.45,Tap,Watsica-Osinski,Charleston,WV,25305,United States
+58108ac0-6aa5-4384-832e-dd5feb17d3be,**0875******6300,01/21/2021,23:58:51,$117.86,Swipe,"Watsica, Medhurst and Predovic",Columbia,SC,29240,United States
+13d1c518-3cc0-4456-8440-33641277b9c8,**4837******8074,07/27/2021,19:45:30,$63.80,Tap,Sipes-Barrows,Irvine,CA,92717,United States
+06befffc-f3ce-465f-ad3f-7dd5fa541fc9,**0875******1358,04/29/2021,8:29:40,$30.73,Tap,Kilback and Sons,Washington,DC,20530,United States
+ecbcd2fe-b138-4624-9faa-cf9656629624,**0875******7088,01/12/2021,11:03:14,$123.24,Tap,Baumbach-D'Amore,Austin,TX,78703,United States
+efb5b2f6-6199-4b71-87b4-bff301511177,**0875******3539,12/08/2020,20:16:15,$194.52,Tap,Brekke-Stanton,Pensacola,FL,32505,United States
+6c363578-4c78-42ef-a00d-c7b82924473c,**0875******9011,07/16/2021,23:08:47,$229.02,Swipe,Ullrich-Hettinger,Greenville,SC,29615,United States
+700eda41-0d07-405d-85db-0cf25e3be4a6,**4837******1768,,,$35.22,Swipe,Bergstrom-Spinka,San Jose,CA,95133,United States
+d0af43e0-32ce-44b7-937b-89193d84768c,**4837******4392,12/18/2020,23:03:19,$243.12,Tap,Wolff-Becker,Newport News,VA,23605,United States
+7f31dda1-4e7d-4bd1-9e97-0dadde7dafec,**0875******3243,03/09/2021,9:01:28,$19.05,Swipe,Maggio-Prohaska,Sterling,VA,20167,United States
+e7ec98d2-fd5e-4fe8-b7e7-57002cd3a712,**0875******3527,10/01/2021,10:02:48,$114.28,Tap,Welch-Rowe,Hartford,CT,06105,United States
+823d514d-523c-4081-836c-ef2eb5bae4b0,**0875******4926,02/21/2021,9:03:03,$24.70,Swipe,Shanahan-Ruecker,Madison,WI,53705,United States
+687a888f-eeee-4049-b7b5-37524edc2e20,**4837******9185,03/13/2021,8:35:03,$186.49,Swipe,Brekke-Erdman,San Diego,CA,92160,United States
+0632c048-0b1a-45a9-81d3-2dce74bd985b,**0875******8393,06/09/2021,18:46:11,$129.81,Swipe,Donnelly Group,Lynn,MA,01905,United States
+39a8b70c-8271-4cb2-b485-2e71bd6dbfbe,**4837******9213,11/23/2021,7:00:03,$87.44,Swipe,Kshlerin and Sons,Amarillo,TX,79165,United States
+6c0196b5-4039-4b42-8143-22b789c4f72b,**0875******7540,11/03/2021,10:23:20,$160.85,Swipe,Lehner-Cremin,Houston,TX,77299,United States
+325e7aa5-4fc2-4e1d-8377-fccbc73bdd8b,**4837******1430,03/10/2021,9:16:04,$207.11,Tap,Gerlach LLC,Portland,OR,97201,United States
+55f15802-4979-4533-87b5-98bc231a89e7,**4837******8860,10/05/2021,5:34:12,$254.30,Swipe,Beatty Inc,Lansing,MI,48912,United States
+be265f84-c512-418a-8edd-404882d76417,**4837******9384,07/28/2021,11:24:42,$131.53,Tap,Leffler Inc,Memphis,TN,38109,United States
+f72d1c57-ad36-459c-ae2b-91eb6028dbee,**4837******5122,04/20/2021,16:51:34,$236.84,Tap,Ferry Group,Fort Wayne,IN,46805,United States
+5e5c85b8-3819-4dce-ae72-fa3930d75e35,**4837******3320,06/13/2021,0:58:31,$133.65,Swipe,"Schumm, Daugherty and Weissnat",Irving,TX,75037,United States
+2801dd23-465d-498a-82a9-7ed6abb1ab8d,**4837******3150,01/24/2021,12:33:55,$187.25,Swipe,"Schmidt, Turner and Hagenes",Jackson,MS,39296,United States
+f84ba152-08d2-4aaa-9288-3b7a055c597f,**4837******2845,11/08/2021,16:14:12,$91.48,Tap,"Johnson, Murray and O'Reilly",Columbia,SC,29215,United States
+9e7e4478-099e-4366-a9a9-386531b7a9c5,**4837******8029,07/17/2021,15:41:18,$65.42,Swipe,Trantow Group,Arvada,CO,80005,United States
+97e85e01-e0e9-4d0d-9b66-b9197ac3e1fa,**0875******5636,07/01/2021,18:47:23,$201.94,Tap,Gottlieb LLC,Clearwater,FL,33758,United States
+cfa8fc81-d6eb-4f0d-a443-d22e120434cf,**4837******9447,06/18/2021,11:07:12,$58.52,Swipe,Predovic-Cremin,Huntington,WV,25705,United States
+324efa15-81b4-4785-a8e8-385b5bdc93b2,**4837******1062,08/24/2021,8:37:28,$188.95,Swipe,Bashirian-Bogan,Baltimore,MD,21275,United States
+141afb22-f260-4251-a91e-863ecba23c49,**4837******3227,10/17/2021,20:23:01,$38.95,Swipe,Bergstrom-Shanahan,Herndon,VA,22070,United States
+6bbe276c-16dc-4fa4-8a7c-e1c7accc9132,**4837******3226,06/08/2021,4:10:02,$254.97,Tap,"Hane, Bins and Russel",Philadelphia,PA,19115,United States
+1c7d43e4-d692-4f76-8b2e-29285040a66e,**0875******0420,09/23/2021,11:04:20,$72.75,Swipe,"Blanda, Rice and Welch",El Paso,TX,88519,United States
+611ba459-1990-4c13-a044-297e877dbc49,**4837******7387,11/04/2021,0:14:14,$160.28,Swipe,"Koelpin, Smitham and Gorczany",Saint Louis,MO,63196,United States
+44b72e46-c54c-46a4-968c-b28cc9f1dc2b,**0875******3991,12/10/2020,10:29:04,$50.73,Swipe,,Boca Raton,FL,33499,United States
+8035c688-f68e-4153-b845-914b46686c5a,**4837******0690,03/05/2021,7:31:22,$40.92,Swipe,Ritchie-Grimes,Norfolk,VA,23551,United States
+565cb085-da2c-421b-a0a2-2220f17a664f,**0875******9420,07/23/2021,0:33:35,$129.35,Swipe,"Gulgowski, Luettgen and Gerhold",Washington,DC,20299,United States
+6f168650-5054-4a60-861e-6a7c38923492,**0875******5706,07/15/2021,18:18:54,$185.90,Tap,"Reynolds, Kris and Schuster",Ridgely,MD,21684,United States
+5a86b800-d774-4fdf-9871-92c66ae7534f,**0875******0562,07/26/2021,15:36:14,$53.20,Swipe,Koepp-Homenick,Durham,NC,27705,United States
+5b729aa3-e7ea-4e66-a70f-c45845ef36dd,**4837******1325,12/05/2020,16:39:37,$187.34,Swipe,Ward-Kuhlman,Las Vegas,NV,89193,United States
+af4faad8-0c17-4761-bfaf-f3fc9f793a73,**0875******0062,06/11/2021,21:40:58,,Swipe,Mayert-Volkman,Washington,DC,20046,United States
+4a0d5cc3-3192-4285-abd8-0cdafd7edb49,**0875******5215,,,$130.57,Tap,Rohan-Marks,San Francisco,CA,94116,United States
+fe89a4b6-8bac-41a3-bd11-de2bda0077d6,**4837******7281,03/06/2021,6:25:26,$229.80,Tap,"Kutch, Rutherford and Brakus",Herndon,VA,22070,United States
+ab180036-fc07-4ca6-9142-9847b50af43a,**4837******1711,12/03/2020,7:28:27,$180.78,Tap,Konopelski-Rodriguez,Sacramento,CA,94297,United States
+78dbfbbf-5e7c-481a-9f2f-ba14ef876ad4,**4837******2306,04/22/2021,13:50:25,$19.36,Swipe,,Galveston,TX,77554,United States
+577e443a-93df-4050-9b73-ed931932cc13,**0875******7731,07/22/2021,22:03:04,$142.22,Tap,"Shanahan, Rowe and Ernser",San Diego,CA,92160,United States
+ac1724d0-b0b4-4b98-ac1b-cf2ab823ae4c,**0875******5694,05/20/2021,21:44:11,,Swipe,Lakin-Krajcik,Fredericksburg,VA,22405,United States
+3f75156c-2219-4832-914f-b81352f97aa8,**4837******5875,05/24/2021,13:33:25,$83.07,Tap,Goodwin Group,Miami,FL,33175,United States
+bb380a37-bb06-4d0d-ba22-a09cf7e0dcea,**4837******4074,,,$38.57,Swipe,"Crona, Stracke and Christiansen",Wichita Falls,TX,76305,United States
+3b5a2e81-0c5a-4b5d-ab66-efd2301a1d2e,**4837******4637,07/21/2021,12:10:33,$246.31,Swipe,"Graham, Lueilwitz and Hahn",Port Saint Lucie,FL,34985,United States
+d0545c79-6bce-48df-9b93-3cd7cc971cb9,**4837******1588,05/12/2021,17:28:57,$78.31,Swipe,Green LLC,Provo,UT,84605,United States
+9f20c069-f024-45dd-93d3-8a6a52ce1b44,**4837******5116,06/28/2021,9:26:38,$131.14,Swipe,Dare-Stamm,Memphis,TN,38197,United States
+bd862791-e62d-4d3b-bd29-fb81eb7a324e,**0875******5752,05/21/2021,19:23:45,$102.44,Swipe,"Littel, Champlin and Adams",Erie,PA,16505,United States
+dd7ec1a6-8ed0-494f-b4d2-e657d28a8c17,**0875******8711,11/01/2021,16:43:37,,Swipe,Moen Inc,San Jose,CA,95123,United States
+41c7463e-df81-4415-ac52-47c80a5e8f62,**4837******9715,08/07/2021,3:57:53,$65.28,Tap,Connelly-Bruen,Kansas City,KS,66112,United States
+6ed558a0-e2ba-4e50-a92a-8426d2200690,**0875******6975,09/21/2021,9:11:49,$91.82,Swipe,"Hoeger, Klein and Koelpin",Montgomery,AL,36114,United States
+127c6853-fa44-4ead-9bc3-cbd4fc76dc42,**0875******8709,05/27/2021,20:42:25,$167.94,Tap,Rolfson Group,Escondido,CA,92030,United States
+04c51284-ba91-4260-adc1-ddd45dbfe273,**0875******2621,08/13/2021,19:50:11,$213.18,Swipe,Marquardt-Streich,Cleveland,OH,44185,United States
+cfa7b50a-4f3a-4230-b846-a2cda3bce7bf,**0875******6667,02/07/2021,21:50:00,$19.78,Tap,O'Keefe-Franecki,Indianapolis,IN,46207,United States
+61f4c67f-c0d3-48b2-92f8-392f57416946,**0875******2593,02/05/2021,5:11:57,$211.25,Swipe,"Balistreri, Kiehn and Leannon",Harrisburg,PA,17110,United States
+9dc68b0b-c744-4d4e-a1ad-1fc1067103df,**0875******2251,04/10/2021,12:30:08,$223.60,Swipe,"Crona, Hammes and Strosin",Waterbury,CT,06721,United States
+3cab882a-49c7-42f7-b60d-a1a2610fd43f,**0875******6931,09/10/2021,6:42:09,$200.64,Swipe,Weimann-Strosin,Dallas,TX,75379,United States
+689ad97d-c35c-45c5-a133-096893d7cbbe,**4837******8789,10/09/2021,20:31:47,$184.64,Tap,Bradtke and Sons,Winston Salem,NC,27116,United States
+348dde11-bcb0-421a-b078-29d2e4021bbc,**0875******2912,11/25/2020,11:37:13,$63.28,Tap,"Gusikowski, Paucek and Predovic",Houston,TX,77223,United States
+e6ee2f61-4430-41fa-bf0e-9e6d8e26c46e,**0875******0271,03/16/2021,4:26:57,$183.54,Tap,Kilback-Johnston,Newark,NJ,07112,United States
+2681a313-1b70-4a9a-baef-7fd65a3b5194,**0875******5141,08/24/2021,11:30:03,$136.12,Swipe,Heidenreich Group,Vancouver,WA,98687,United States
+d4cd8b24-295f-4427-9b7b-fbca6a2f418e,**0875******8277,05/15/2021,15:09:12,$173.55,Tap,Hauck and Sons,Colorado Springs,CO,80940,United States
+c842e278-3e80-4743-bda8-cddf234447c8,**0875******7641,05/22/2021,3:58:58,$17.00,Swipe,"McGlynn, Berge and Emmerich",Young America,MN,55551,United States
+9ea3b09d-8a3a-4859-a2a0-db307717914c,**0875******8619,06/19/2021,13:57:28,$216.81,Tap,"Nikolaus, Huel and O'Kon",Cleveland,OH,44191,United States
+d6171730-14e2-4a72-828c-488b74a5f640,**0875******5115,08/08/2021,17:31:31,$198.56,Swipe,"Douglas, Hessel and Rau",Flint,MI,48555,United States
+3f34d477-96aa-4018-b7ac-01e6567078fb,**4837******6097,02/26/2021,22:25:20,$196.51,Swipe,Hartmann Group,Pocatello,ID,83206,United States
+ebd7d764-e3bd-43da-8b69-4d397c9394fe,**4837******5139,08/19/2021,22:24:32,$127.09,Swipe,"Olson, Cummerata and Koepp",San Antonio,TX,78240,United States
+9620c053-5642-47d3-8a30-174ba96c5ea5,**4837******6728,06/13/2021,21:37:25,$203.06,Swipe,Pagac-Russel,Tucson,AZ,85720,United States
+c43fd357-011a-470a-8c67-598ed4973541,**4837******8632,05/13/2021,23:34:54,$18.80,Swipe,"Kilback, Roberts and Bayer",Little Rock,AR,72204,United States
+a141af02-727b-4946-ba8e-40550ad9d54b,**4837******9247,01/06/2021,0:16:08,$162.21,Swipe,"Thiel, Pagac and Friesen",Laurel,MD,20709,United States
+6bf5e20d-edf7-4366-bb5f-dfc3a4b0da2d,**0875******1441,07/02/2021,21:22:31,$227.46,Swipe,Rowe Inc,Des Moines,IA,50305,United States
+fa5dbd20-be62-41c5-9fbf-b8b1c8552661,**4837******3502,,,$142.69,Tap,Gorczany-Lang,Austin,TX,78754,United States
+0800aabb-0d3d-418f-9733-289d86e16dbd,**0875******9786,01/19/2021,7:18:04,$198.94,Tap,Gaylord-Schmitt,Albuquerque,NM,87195,United States
+ead214c2-dbe1-44f2-a043-a44efacc7613,**0875******8783,11/16/2021,8:33:30,$182.53,Swipe,Toy Inc,Dallas,TX,75216,United States
+6bcd5787-8db2-45c4-9d3b-95e80f3d40ad,**0875******0648,05/21/2021,22:57:56,$98.38,Tap,"Smith, Prohaska and Yundt",South Bend,IN,46620,United States
+dec6115c-dbd8-4f8d-83a1-4a722a64b412,**4837******7383,10/01/2021,12:57:47,$107.75,Swipe,Reichert-Hane,Sioux City,IA,51110,United States
+ee6b11e8-4f0c-404f-b259-6ca11b4b7f53,**4837******9862,12/22/2020,11:01:30,,Swipe,"Reynolds, Corkery and Rowe",Port Washington,NY,11054,United States
+6a50a72b-b755-4d51-895d-e2191ce33824,**4837******1351,02/03/2021,20:02:45,$54.92,Swipe,"McDermott, Runte and Wiza",Long Beach,CA,90847,United States
+670e7166-9ae8-45fd-a862-ac3f071a152d,**0875******0826,08/03/2021,18:08:26,$236.21,Swipe,"Mayer, Bednar and Zemlak",Watertown,MA,02472,United States
+79e8af67-5778-4267-821c-0a31b0551555,**4837******1200,09/24/2021,5:52:30,$70.79,Tap,Hilll Group,Amarillo,TX,79118,United States
+def1eebf-f988-4e78-972f-209f0c5377bc,**4837******1291,12/26/2020,10:47:32,$154.23,Tap,Torphy and Sons,El Paso,TX,88558,United States
+ba4df502-f56d-471d-bee8-274e577520a0,**4837******4752,11/12/2021,3:06:02,$55.62,Tap,"Adams, Mraz and Cruickshank",Riverside,CA,92519,United States
+cc7f2319-b970-46ac-a3d7-18029d7ddc64,**0875******4879,08/30/2021,14:20:47,$200.77,Tap,"Kozey, Dare and Jaskolski",Hamilton,OH,45020,United States
+365df6ab-3ee2-4739-8e61-4c39e2761546,**4837******5381,03/04/2021,14:27:50,$207.21,Tap,Schuppe-Swift,Boston,MA,02109,United States
+e48a8b57-f9cc-40b7-a741-82dbab5964c3,**0875******7622,06/27/2021,19:08:02,$142.47,Swipe,Kautzer Inc,Moreno Valley,CA,92555,United States
+b6c35403-d593-4d1f-b90b-4c75447b03d4,**4837******4657,,,$165.20,Tap,"Pouros, Nicolas and Goodwin",Saint Louis,MO,63143,United States
+26aaf89b-8d2e-4dac-ac35-a6dce6e8f9be,**4837******6917,05/02/2021,14:24:56,$209.40,Swipe,"Hintz, O'Keefe and Mosciski",Rochester,NY,14639,United States
+7952388a-d0f5-469a-a3a1-43fb05c48070,**0875******2538,12/23/2020,8:24:32,$230.38,Swipe,"Schaefer, Abshire and Sawayn",Yakima,WA,98907,United States
+fc8be9a0-9ddb-4f3a-b92b-d743f6229b06,**0875******5084,05/06/2021,22:07:12,$94.29,Tap,"Ruecker, Stoltenberg and Klein",Lynn,MA,01905,United States
+9e65986a-241c-445f-b4c1-e38f3e70b84f,**0875******3419,07/20/2021,20:17:22,$81.11,Tap,Dooley LLC,Cincinnati,OH,45233,United States
+7768cf6a-6f7e-4a45-adbb-df88fe7657f5,**4837******7683,11/08/2021,9:10:37,$64.95,Tap,"Steuber, Breitenberg and Schowalter",Atlanta,GA,31196,United States
+6f30fb15-a376-4e45-aa43-bb4cbd020c49,**0875******4424,12/01/2020,14:56:44,$225.10,Tap,"Von, Mohr and Schinner",Amarillo,TX,79171,United States
+bb494f2b-934a-4873-a071-151d38113bbb,**0875******7453,01/13/2021,5:19:37,$79.04,Tap,Schroeder Group,Detroit,MI,48232,United States
+2c6844bc-752d-4a46-a9ea-7517d8b98e5f,**4837******9861,07/02/2021,5:16:42,$219.45,Swipe,Renner LLC,Saint Petersburg,FL,33742,United States
+ab76a7d6-b297-4c49-8ea3-25f992b67fca,**4837******6502,09/09/2021,21:50:03,$65.34,Tap,Goldner-Carter,Danbury,CT,06816,United States
+f399308f-a834-415e-9eb5-e4f6dee2b094,**0875******1683,04/04/2021,23:46:16,$90.02,Tap,"Buckridge, Farrell and Keebler",Greensboro,NC,27415,United States
+a8329266-3ac3-4e48-9eb5-aa4016372206,**4837******4152,10/24/2021,5:37:04,$179.21,Tap,Satterfield-Auer,Mount Vernon,NY,10557,United States
+569352db-5fdc-4ad0-b7f1-4e13a1a7c030,**0875******9253,07/01/2021,10:40:28,$85.37,Swipe,"Treutel, Ankunding and Krajcik",Reno,NV,89595,United States
+58e6e436-1762-44ff-81fe-a5ac08175b34,**0875******4994,07/20/2021,21:34:13,$44.03,Tap,Witting-Gorczany,Grand Rapids,MI,49518,United States
+acdc72bd-5a98-4133-97e2-bb6eac717eed,**4837******2857,06/03/2021,4:14:28,$227.71,Tap,VonRueden LLC,Orlando,FL,32859,United States
+f347a04e-4931-4b45-9e89-8189aaeae3e4,**4837******5962,10/27/2021,8:07:34,$244.12,Swipe,Davis-Thiel,Flint,MI,48555,United States
+47a96bde-fa19-4021-928b-1559e0aaeeca,**0875******7899,08/27/2021,17:31:33,$38.75,Swipe,Kessler Inc,Decatur,GA,30033,United States
+5e03cc69-4dae-4446-85f9-624334c3f0be,**0875******0050,06/14/2021,14:43:22,$25.10,Tap,"Dare, Treutel and Schoen",Columbus,OH,43268,United States
+f9b7cb29-042e-4f6b-8b11-86014c3a9b1c,**0875******2431,04/11/2021,11:09:53,$58.92,Tap,Murazik-Rath,San Jose,CA,95194,United States
+44d11f03-a5ef-40b3-97cd-3d8054a356b2,**4837******0686,01/20/2021,2:06:33,$104.80,Swipe,"Leannon, Osinski and Hackett",Austin,TX,78732,United States
+73eafeb8-b088-466e-a253-34993bb42e51,**0875******7629,03/28/2021,5:54:40,$77.98,Swipe,"Hintz, Donnelly and Walsh",Colorado Springs,CO,80915,United States
+6cb09f2f-6d7a-4d80-88e9-bde8cf7ec3a9,**0875******2038,03/11/2021,10:16:02,$181.23,Swipe,Auer and Sons,Wilmington,DE,19810,United States
+11636f04-56d9-4cdf-9efb-0a3fbacc835f,**4837******5204,06/16/2021,16:29:43,,Swipe,"Walsh, Volkman and Cole",Tuscaloosa,AL,35487,United States
+44b2bcb5-0406-48ce-93ce-bff8325c6cb2,**4837******7981,03/27/2021,20:05:29,$28.30,Tap,King Inc,Raleigh,NC,27610,United States
+c1113626-e115-4260-a66c-b5c16390bd83,**4837******8769,04/25/2021,22:26:43,$156.04,Swipe,Kuhic Group,Anchorage,AK,99522,United States
+3b670193-08d5-4f6a-9737-09b80a6e7eec,**0875******5262,01/08/2021,13:29:31,$123.14,Swipe,Beier Group,Dallas,TX,75210,United States
+485fda25-fb8f-40c0-987f-6d00345da16d,**0875******4993,,,$139.82,Tap,Smith Inc,Newton,MA,02162,United States
+d8f51c5e-593b-4644-9a92-3e442a68b097,**0875******3661,06/19/2021,9:05:33,$179.87,Tap,Kilback-Wyman,Seattle,WA,98140,United States
+4dbe5720-1c0a-4897-b763-096ef682f31c,**4837******3373,01/31/2021,8:39:49,$126.41,Swipe,McCullough Inc,Fresno,CA,93704,United States
+3739235f-1b39-4ec7-892a-4fa8cce08390,**4837******2980,05/18/2021,19:02:23,$215.00,Swipe,Ferry Group,Midland,TX,79705,United States
+d231ab44-afbc-4584-9fe4-de4e6ea803bf,**4837******2251,06/04/2021,5:57:01,$179.68,Swipe,"Rippin, Kshlerin and Ernser",Austin,TX,78737,United States
+e2657b62-9696-454a-977e-291c76d7660e,**0875******7532,09/16/2021,14:53:46,$205.12,Tap,Wilkinson Inc,Trenton,NJ,08603,United States
+4e19dce4-3d49-4683-97ba-3d0e1d1e08a5,**0875******3610,04/01/2021,0:50:56,$64.08,Swipe,Wisozk-Deckow,Brooklyn,NY,11231,United States
+cd6d72cc-69c3-4029-87e1-46874798dca4,**4837******4264,11/10/2021,10:23:11,$122.72,Tap,Walter-Gibson,Wichita,KS,67210,United States
+2b43c9e2-9bc9-4fe3-8b83-50ae1f798d6b,**0875******1841,08/25/2021,9:04:34,$184.38,Swipe,Mertz LLC,Hampton,VA,23668,United States
+53917e88-569c-4adb-912a-b11005d462a8,**0875******5570,03/15/2021,4:32:47,$101.33,Swipe,,Atlanta,GA,31106,United States
+b67f11dd-f64b-46a2-a10e-557ccc670e07,**0875******8513,06/28/2021,4:16:31,$40.15,Swipe,O'Conner-Leuschke,London,KY,40745,United States
+781dd19c-3bdc-42bd-8b85-b8ac23641ba1,**4837******8053,04/12/2021,18:39:13,$228.92,Swipe,Sipes and Sons,Toledo,OH,43605,United States
+bf9f257e-8779-40d5-81b1-3ad3cf379dbe,**4837******3508,08/06/2021,10:05:21,$104.69,Swipe,Parker-Kling,Irving,TX,75062,United States
+17262600-3c4b-4f4e-addc-aa2abe5bbd5f,**0875******6616,09/10/2021,4:59:05,$121.21,Tap,"Harvey, Legros and Turcotte",Conroe,TX,77305,United States
+296deb6b-08dc-4ee6-91fc-9c8b96e1718d,**0875******0367,11/15/2021,12:26:49,$203.64,Tap,Mohr and Sons,Omaha,NE,68164,United States
+91cef269-12b1-465b-b749-2ebd9b195b81,**0875******5257,10/18/2021,16:41:50,$27.90,Tap,"Pollich, Stiedemann and Brown",Racine,WI,53405,United States
+07cc5bbd-b531-49ba-b29b-121c7034dd16,**4837******5309,07/28/2021,7:39:22,,Tap,"Ferry, Quigley and Skiles",Cincinnati,OH,45271,United States
+e04358b6-7cec-4d68-aabf-f153471bc585,**0875******4559,02/15/2021,23:54:04,$206.36,Swipe,Dietrich-Hodkiewicz,Denver,CO,80223,United States
+dfc93734-7c43-4dca-8e3a-11f33584b59e,**4837******3160,03/21/2021,12:10:12,$53.01,Tap,"Grady, Marquardt and Herman",Phoenix,AZ,85040,United States
+2ee0f714-13ea-4f51-99af-8b01735cd4c5,**4837******0364,02/23/2021,19:06:23,$224.44,Tap,"Swaniawski, Renner and O'Conner",Sacramento,CA,94245,United States
+e2150801-09f8-4ec5-b4ed-79be8cc83f2d,**4837******4707,07/18/2021,16:28:51,$23.17,Tap,"Konopelski, Heathcote and Veum",Indianapolis,IN,46202,United States
+7627957a-bf9a-4433-a6d7-846e182925ce,**4837******5747,01/07/2021,13:35:37,$149.11,Swipe,"Abernathy, Walsh and Jones",Washington,DC,20530,United States
+eff167df-e344-4d30-adfd-40dcf12e0998,**0875******5224,04/25/2021,6:50:07,$162.96,Tap,Heller-Jenkins,Richmond,VA,23260,United States
+8dedb71e-0702-433d-a83c-b8ac04409ff7,**4837******1202,01/10/2021,13:14:26,$253.62,Swipe,Schneider-Treutel,Austin,TX,78769,United States
+a54dcdb7-8ff1-48b1-9a49-6614d52b1119,**0875******3897,05/24/2021,13:46:30,$253.45,Tap,Gottlieb LLC,Salt Lake City,UT,84199,United States
+ae0a5cf9-0678-4638-b5ea-740eca41917c,**0875******0464,04/01/2021,13:48:10,$239.83,Swipe,"Williamson, Spencer and Rowe",Waterloo,IA,50706,United States
+538bceb8-4cbd-4119-9015-868fcff45730,**4837******0400,07/19/2021,7:35:44,$80.37,Swipe,Braun-Borer,Edmond,OK,73034,United States
+a2dca64e-6905-4bcc-908b-214adb96bf20,**0875******6271,,,$133.10,Tap,"Runolfsdottir, Upton and McGlynn",Duluth,MN,55811,United States
+18155c0d-16d3-41bb-8017-f0eec92c992b,**4837******2393,07/21/2021,18:44:39,$134.48,Tap,Spencer Inc,Jacksonville,FL,32255,United States
+3a67eb5b-b143-4caf-8e2f-02eccc06a77f,**4837******3568,12/05/2020,9:11:49,$141.59,Tap,Dach-Hodkiewicz,Omaha,NE,68134,United States
+8559d30e-6aa1-4048-81d7-21e9cb14e434,**0875******5448,07/03/2021,23:27:17,$67.23,Tap,"Gottlieb, Harvey and Strosin",Orlando,FL,32813,United States
+51816eea-d13d-435c-af91-7119b95c064e,**4837******4901,01/20/2021,17:36:59,$209.34,Swipe,Funk LLC,East Saint Louis,IL,62205,United States
+cb94a121-7f7d-4290-8745-8e3fc326bc51,**4837******1912,10/23/2021,2:29:32,,Tap,Schowalter-Lowe,San Jose,CA,95155,United States
+8b6407c7-704c-477e-ac08-213170ad7acc,**4837******6819,01/12/2021,7:44:15,$18.14,Tap,"Morissette, O'Conner and Stehr",Tampa,FL,33620,United States
+8a08b7f3-598b-449c-8acb-31a6fbe603b2,**4837******6578,,,$107.90,Swipe,Bergnaum-Greenfelder,Delray Beach,FL,33448,United States
+0ac57229-6004-445a-8510-32af3a00809d,**4837******1460,06/11/2021,8:24:54,$18.27,Swipe,Gutmann-Skiles,Portland,OR,97271,United States
+d866ffcf-2a82-4ca3-bb06-a422f2de816a,**0875******4725,11/01/2021,2:08:11,$63.09,Tap,"Marks, Wiza and Balistreri",Las Vegas,NV,89193,United States
+bcb9f2cb-966d-46d9-aba7-1c5673270d5e,**4837******4968,02/05/2021,6:29:37,$24.32,Tap,O'Reilly-Friesen,Corpus Christi,TX,78470,United States
+1d729016-7704-407e-ae53-70770e3371e5,**4837******5294,11/28/2020,8:00:11,$178.97,Tap,"Gottlieb, Upton and Fadel",Miami,FL,33169,United States
+b0925602-0c42-42a0-bd3c-60581e2bb722,**0875******6332,08/20/2021,22:01:02,$238.23,Tap,"Herman, Haley and Hammes",Los Angeles,CA,90050,United States
+efee872d-b2b5-4d33-90e4-086bc58030e7,**4837******1277,04/13/2021,2:22:57,$216.15,Tap,Barrows and Sons,Mobile,AL,36670,United States
+fcce8647-44cf-4f24-9977-8b8c13455ac9,**0875******1633,12/30/2020,21:45:23,$58.37,Tap,Davis-Monahan,Houston,TX,77060,United States
+f920a296-8d23-4d4c-9105-c00578ae93dc,**0875******4501,05/30/2021,14:39:49,$211.61,Tap,Hagenes LLC,Grand Rapids,MI,49544,United States
+cd139c8e-6fa5-4479-948f-f0d98712428f,**0875******3621,12/04/2020,18:34:19,$58.78,Swipe,Prosacco LLC,Youngstown,OH,44505,United States
+d26f45d1-1fdf-439c-86e9-d90a77a7fcb6,**4837******5917,04/28/2021,0:09:35,$73.14,Tap,"Steuber, Pacocha and Heaney",Akron,OH,44310,United States
+05cea188-cfb3-48d5-abb0-3cbb05458c21,**0875******3944,04/23/2021,4:20:35,$251.37,Tap,"Tromp, Howe and Howell",Phoenix,AZ,85030,United States
+a8838e7c-e45a-477b-b0b3-fbc78be375e5,**4837******2535,02/04/2021,0:03:34,$213.68,Tap,Tremblay LLC,Lexington,KY,40586,United States
+61ad8848-f9c6-466c-91e5-02e1151b01eb,**0875******8818,06/29/2021,13:12:15,$119.76,Tap,Upton Group,Omaha,NE,68144,United States
+6bbdbb75-dc0f-4b29-a008-d5c6f814d182,**4837******5647,12/06/2020,23:58:41,$88.88,Swipe,Raynor Group,Chesapeake,VA,23324,United States
+6bf7cd0d-7fbc-49d5-be1d-39073fce45a8,**4837******7927,12/20/2020,2:52:29,,Tap,Koepp-Von,Erie,PA,16534,United States
+87793b8f-363b-4d48-aff6-2bd3cdb820e3,**4837******2957,02/16/2021,13:16:58,$51.40,Swipe,Breitenberg Group,Troy,MI,48098,United States
+2ffe91a6-48ab-42e1-9598-20badcd977b3,**4837******6092,09/21/2021,10:50:40,$56.78,Tap,"Dietrich, McLaughlin and Morissette",Phoenix,AZ,85045,United States
+5994106c-3566-4b3f-93ba-230b0bbd90bc,**4837******1934,03/01/2021,6:01:20,$231.06,Swipe,"Renner, Murphy and Will",Saint Petersburg,FL,33742,United States
+f7534c83-4366-4b7c-917c-968f967f8a46,**0875******4984,01/13/2021,12:04:32,,Swipe,"O'Kon, Mertz and Sauer",New York City,NY,10280,United States
+7826d891-63c4-4e9b-b421-f5ad4e85dfa2,**4837******6532,10/28/2021,1:45:34,$207.66,Swipe,Rau LLC,Peoria,IL,61629,United States
+85df8fe9-4e61-40b5-a5cf-8133c7a099aa,**0875******7920,,,,Tap,"Spencer, Friesen and Stoltenberg",Cincinnati,OH,45271,United States
+40c9ada0-4a14-456f-a670-a4bb47028466,**0875******6150,01/01/2021,13:30:55,$232.91,Tap,Corkery-Wintheiser,New Orleans,LA,70160,United States
+be3e713c-17de-4dde-a927-9afe175a9bd9,**0875******7884,06/23/2021,18:34:51,$20.24,Swipe,Beier-Hermiston,Richmond,VA,23220,United States
+aca56be4-6008-4779-afad-9f7ca9a1fb4b,**0875******8361,,,$129.78,Swipe,,El Paso,TX,88535,United States
+293c28c4-56a0-48b6-816a-957aa8d662ca,**4837******5724,11/03/2021,22:35:42,,Tap,Considine-Bernhard,Fort Worth,TX,76192,United States
+db5cdccc-4936-47fb-929d-a16c79b3dd92,**4837******0836,,,$131.05,Tap,Goodwin LLC,Albany,NY,12205,United States
+8893fe23-54ae-4a01-b50b-2de4a8812d2d,**4837******4986,06/21/2021,15:22:14,$247.99,Swipe,"Skiles, Witting and Abernathy",Washington,DC,20508,United States
+130d0f6c-be9b-4b0a-b195-8b7239b9fd42,**0875******3348,03/28/2021,6:06:41,$69.35,Tap,Streich-Prohaska,Jacksonville,FL,32244,United States
+e5ceafdb-cee2-4457-a43c-581a03ead7b4,**0875******7808,09/08/2021,23:40:40,$32.66,Tap,Stroman-Steuber,Portland,OR,97240,United States
+76f0ddc4-4fe5-4a5c-8a0d-160c1a54a432,**4837******3063,09/08/2021,19:30:42,,Swipe,Rippin-Braun,Washington,DC,20244,United States
+5e47da71-4f6d-4ca8-be13-28cf8739190d,**4837******6252,09/15/2021,21:46:17,$47.06,Swipe,"O'Connell, Welch and Klein",Kansas City,KS,66160,United States
+ad2f78e1-6c50-4265-b724-4bf9bbd0e1e0,**0875******8829,12/15/2020,21:21:39,$77.50,Swipe,Wehner-Larkin,Wichita,KS,67260,United States
+2f303751-39f3-4c50-ac6b-ee6451387145,**4837******6149,06/22/2021,17:25:46,$66.99,Swipe,Hegmann-Stanton,Riverside,CA,92505,United States
+078fa806-fe99-4711-b571-615280e2c223,**4837******9735,12/02/2020,20:57:23,$148.51,Swipe,"Kirlin, Krajcik and Glover",Augusta,GA,30911,United States
+50a7f8b4-0a7e-411d-8306-c03291089aef,**4837******9595,12/31/2020,11:23:55,$169.08,Tap,Schaden-Herman,Kansas City,MO,64179,United States
+907ab900-faff-4eac-ac69-e899eceb7961,**4837******2167,02/24/2021,14:45:03,$239.20,Swipe,Hoeger LLC,Alexandria,VA,22333,United States
+6648be38-49cd-4bcf-8cb5-27451f4f7afc,**4837******8481,09/13/2021,21:17:41,$17.71,Swipe,"Kihn, Senger and Kuphal",Hialeah,FL,33013,United States
+05bc944c-4d0d-49fc-b728-bea66c243d2b,**0875******7814,12/28/2020,1:17:12,$168.09,Tap,,Suffolk,VA,23436,United States
+8d17f3a7-475b-4565-aa7a-aef28df3e9a6,**0875******4233,04/20/2021,7:11:14,,Tap,Kuhic-Collins,Charleston,SC,29424,United States
+674bb1f1-5265-480b-b670-855a19cc6eea,**0875******2744,08/03/2021,5:57:35,$228.74,Swipe,Ferry-Kuhn,Sioux Falls,SD,57188,United States
+016aa33f-f6a9-459e-9713-2d929994076d,**4837******6874,03/25/2021,23:13:44,$22.74,Swipe,"Carroll, Rowe and Feeney",Riverside,CA,92513,United States
+dc6716e5-068c-41fe-b9ed-7380020ecd5d,**0875******6883,08/27/2021,3:50:56,$34.01,Swipe,Bogan-Lesch,Baton Rouge,LA,70826,United States
+d44f0d4e-f8c7-473a-be95-d6d31272082a,**0875******3128,04/21/2021,19:32:45,$137.74,Tap,Ratke and Sons,San Diego,CA,92170,United States
+e9778135-0710-4058-9c0d-e3f199930249,**0875******9556,03/06/2021,7:02:38,$216.35,Tap,"Cronin, Leuschke and Hoeger",El Paso,TX,88514,United States
+a6b548d6-40d2-4e0a-aab6-2b5bfb1c0c60,**4837******8447,,,$57.92,Tap,Zieme-Hegmann,Muskegon,MI,49444,United States
+71e2c366-9adc-4a06-b51c-cc2f48891eac,**4837******1252,,,$84.27,Tap,Wisoky-Shanahan,Grand Rapids,MI,49518,United States
+7b47b5c2-a24a-41ed-a8cd-5276a58d625e,**4837******6707,11/22/2021,9:37:26,$88.79,Swipe,Torphy and Sons,Toledo,OH,43605,United States
+1bb4d642-6a86-4fe2-a7dd-a23a9ef6a7a6,**0875******3741,09/04/2021,12:39:39,$174.86,Swipe,Hodkiewicz-Stanton,Seattle,WA,98121,United States
+33b11e76-e941-4a03-80a7-aeed55556d8e,**0875******4410,08/19/2021,23:17:55,$227.86,Swipe,Kutch-Erdman,Dallas,TX,75226,United States
+14525994-4c14-4bfe-81bf-cd8a178a7bab,**4837******2243,02/22/2021,2:20:57,$114.49,Tap,"Friesen, Nienow and Klocko",Vancouver,WA,98687,United States
+812e0b9e-0971-44b6-ac8f-ac325a1253ad,**0875******1893,01/31/2021,19:23:21,$210.24,Tap,Halvorson LLC,Syracuse,NY,13210,United States
+8b11a2a5-936e-4c3d-b550-2baab567af5c,**4837******2114,12/24/2020,13:47:49,,Swipe,Yost Group,Saint Louis,MO,63110,United States
+7353db3c-0e5c-47e0-a4ba-ff2595f63ae4,**4837******0179,04/27/2021,23:58:59,$117.24,Tap,"Murray, Willms and Dickinson",Corona,CA,92878,United States
+c6701460-8b76-4694-9cb4-47b5a3f92e6c,**4837******6106,11/20/2021,23:20:49,$237.77,Tap,"Nicolas, Howell and Schiller",Sacramento,CA,94230,United States
+b51b7cdc-fc23-4af0-9f95-2c9dc9728374,**0875******8920,06/30/2021,23:32:05,$189.96,Tap,Fisher-Zemlak,South Bend,IN,46634,United States
+44cfd569-53ba-40eb-8a15-f04aaca01660,**0875******2900,11/22/2021,13:32:51,$28.12,Tap,Kuhlman-Kohler,Tulsa,OK,74149,United States
+852d1c79-2cf7-4974-b5ad-ff97e8571ccf,**4837******9349,11/12/2021,14:41:21,$233.84,Swipe,Runte-Kuvalis,Jamaica,NY,11470,United States
+0dfe24d8-1d85-4c62-bc81-e943ccc44409,**0875******0719,12/09/2020,0:19:53,$247.98,Tap,"Gusikowski, Trantow and Lubowitz",Anchorage,AK,99507,United States
+27e3b859-6613-46fe-94a6-3d6096836eea,**0875******3203,10/11/2021,17:23:55,$156.51,Tap,Sanford-Robel,West Palm Beach,FL,33411,United States
+a20e694a-c601-44bd-8f5c-583f2089aab3,**4837******8729,09/10/2021,12:04:23,$63.16,Swipe,"Ritchie, Gislason and Schiller",Toledo,OH,43656,United States
+1029e9f4-3385-4662-8eb0-0bfe026745a7,**0875******9734,09/07/2021,7:44:59,$62.55,Swipe,"Mayer, Christiansen and Maggio",Roanoke,VA,24029,United States
+69af2b85-7ef2-4af7-b357-3b61e2bdd1ef,**0875******2070,09/30/2021,1:42:58,$140.36,Tap,Satterfield-Heaney,Saint Petersburg,FL,33737,United States
+7c46e64a-0a01-4d2e-9fc0-ef44e27a997f,**0875******9505,08/02/2021,17:06:08,$193.65,Tap,"Corkery, Haley and Murray",Stockton,CA,95205,United States
+ff7cf79f-87a4-483c-87d7-d76163e74635,**0875******5291,05/31/2021,2:07:41,$227.65,Swipe,Carter LLC,Peoria,IL,61605,United States
+9405a19c-b874-4043-ad20-3a3554dcd0bb,**0875******2024,,,$57.03,Swipe,Wintheiser LLC,Greeley,CO,80638,United States
+77c3e83c-05f5-44c9-8ffb-e97ca0974b97,**0875******9560,02/08/2021,20:01:43,,Swipe,Flatley-Padberg,Migrate,KY,41905,United States
+5ee30aed-74cc-4b2c-9f4b-1d5d47682592,**4837******6613,,,$196.51,Tap,"Gaylord, Corkery and Koch",Miami,FL,33233,United States
+7bb1d80f-09e3-4aa5-aea3-f38c54d56c48,**0875******9817,09/15/2021,18:59:31,$221.55,Tap,Thiel-Kiehn,Memphis,TN,38197,United States
+a1678f39-6dee-409e-b500-d2794b0198cf,**0875******8855,09/10/2021,11:14:24,$164.83,Swipe,"Keeling, Wintheiser and McDermott",Toledo,OH,43656,United States
+a7437dc7-70a8-4824-8fbb-de09b8db186e,**0875******6154,05/15/2021,21:35:18,$154.09,Swipe,,Amarillo,TX,79176,United States
+2af58ca5-c048-4e01-868c-8630a32dfa63,**4837******1168,07/20/2021,20:09:45,$116.99,Swipe,"O'Keefe, Erdman and Adams",New Orleans,LA,70154,United States
+a5d4d4dd-ac42-46d5-b0e8-2415f5d24ef7,**4837******6635,12/21/2020,10:03:22,$214.42,Swipe,"Schuster, Schowalter and Sauer",Cleveland,OH,44125,United States
+6e5051a7-555a-43f6-9e47-be64a33ec4f8,**4837******7530,11/05/2021,11:38:16,$180.06,Tap,Bergnaum LLC,Las Vegas,NV,89110,United States
+92eb6e80-68ea-49cf-a24c-478f20eef0e0,**0875******5175,07/03/2021,0:35:57,$238.02,Swipe,Lebsack LLC,Washington,DC,20220,United States
+a143ff59-2074-4dfc-9771-fe29c3ed829e,**0875******1267,03/28/2021,22:34:18,$174.32,Tap,"Sanford, Marquardt and Prohaska",New York City,NY,10131,United States
+6fb969db-728c-434d-968e-03536aa59fa1,**4837******2389,02/25/2021,22:24:26,$119.55,Tap,Murphy-Bergnaum,Monticello,MN,55565,United States
+a9efc384-a563-4939-8fd8-1ca797aa78cb,**4837******2618,04/08/2021,19:46:08,$168.87,Tap,Bashirian-Renner,Charleston,WV,25331,United States
+d3f760fd-ebdd-403a-bfef-c48824fe7a05,**4837******2495,02/18/2021,18:11:18,$123.86,Swipe,Effertz-Ernser,Fresno,CA,93762,United States
+bff85356-126b-4550-a280-cbd6155d87c1,**0875******8354,02/01/2021,9:01:20,$166.86,Swipe,Kuhlman-Torp,Spokane,WA,99260,United States
+dbc29fd9-1931-4abc-b810-bec0d8991a5e,**0875******2142,05/15/2021,12:48:00,$88.86,Tap,Wehner-Christiansen,Trenton,NJ,08695,United States
+9c0dff3f-ba2f-4197-bca6-5e0941ec9305,**0875******9252,06/10/2021,14:16:29,$247.96,Tap,Corkery Inc,Trenton,NJ,08638,United States
+c0c16ffb-7853-4690-95db-de736bbc65aa,**4837******4000,06/07/2021,1:51:29,$30.62,Tap,Breitenberg Group,Des Moines,IA,50320,United States
+dba82420-4fd5-4b9f-8b40-087b88c55133,**4837******2174,06/10/2021,11:37:06,$146.31,Swipe,"Mertz, King and Batz",Richmond,VA,23272,United States
+83d24a93-d1a9-43a7-858f-34d52b4cbd00,**0875******9677,11/05/2021,18:48:28,$91.48,Swipe,"Lesch, Connelly and Wiza",Cambridge,MA,02142,United States
+135dfa9e-f344-403b-b092-e2b288d28d2f,**4837******6189,09/30/2021,11:28:52,$73.04,Tap,Leffler-Ebert,Wilmington,DE,19805,United States
+9146b5ec-a89a-4cda-9f4a-91e32bf928bc,**4837******5645,09/09/2021,9:06:12,$131.78,Tap,Tremblay LLC,Berkeley,CA,94712,United States
+0fad341a-18d6-40d5-a1d7-9bd8a9d3efe6,**0875******3878,09/19/2021,17:14:11,$41.99,Swipe,Gleason-Rau,Bridgeport,CT,06606,United States
+c2e82ac6-0662-4900-8c60-11e1cbbf36fb,**0875******2515,10/26/2021,23:09:49,$160.50,Tap,Jenkins-Roberts,Washington,DC,20016,United States
+40bb2d29-2005-40dc-81da-6ecfc46bb44f,**4837******9648,10/14/2021,18:12:14,$144.63,Tap,Lebsack-Prohaska,Charleston,SC,29416,United States
+3473f7bf-a8b7-4214-835f-8eb1c81fad18,**0875******3327,09/23/2021,7:54:07,$130.67,Swipe,Rippin-Ryan,Miami,FL,33153,United States
+49107ed4-d523-4c20-be69-9098d2607f33,**4837******7877,09/12/2021,6:35:56,$51.86,Swipe,"Wisoky, West and Rohan",Silver Spring,MD,20910,United States
+f2839eef-c2de-470c-977d-4d100304af01,**4837******5054,08/27/2021,7:35:10,$187.43,Swipe,Simonis and Sons,Fort Collins,CO,80525,United States
+00585f7c-2461-4f04-9500-43dc95161753,**0875******6899,10/22/2021,1:52:49,$19.44,Tap,"Lubowitz, Connelly and Gleason",Youngstown,OH,44505,United States
+37688eff-0527-4585-b60e-b1ea23fa487c,**0875******4549,08/04/2021,3:04:42,$184.48,Swipe,Hamill LLC,Atlanta,GA,30351,United States
+57b9d392-b55c-4a6f-afa2-3980258ac733,**4837******9636,05/08/2021,7:14:49,,Tap,Larkin-Beahan,Watertown,MA,02472,United States
+f89fa7b0-ae94-432f-b1dc-3f96c951f002,**4837******3730,01/18/2021,9:25:12,$249.20,Tap,Hauck-Schuster,Southfield,MI,48076,United States
+2784c5ed-50d8-44d8-9bac-1634e92c056a,**4837******7066,09/14/2021,16:40:20,$31.58,Swipe,Franecki-Bruen,Los Angeles,CA,90035,United States
+70668b6d-1290-4091-97d3-7070f05b406c,**4837******8571,08/20/2021,21:32:57,$251.36,Tap,Bechtelar-Hintz,Lexington,KY,40576,United States
+8da15d06-969b-4405-847e-ed3cb6ce6081,**4837******6461,10/04/2021,19:34:22,$87.58,Swipe,Hessel LLC,Wilmington,NC,28410,United States
+3010698a-cbb4-4580-8e97-2e852d96d98a,**4837******3715,06/13/2021,6:12:39,$85.60,Tap,Thompson-Cummerata,Las Vegas,NV,89150,United States
+3842ab4c-93eb-4d97-bd6f-391b143cb6e7,**4837******7631,12/23/2020,19:49:41,$159.92,Swipe,Padberg LLC,Jackson,TN,38308,United States
+3aa4335d-72da-48e9-a16d-bc57cadbfa77,**0875******9776,05/23/2021,2:01:36,$15.82,Swipe,Roob-Waters,San Jose,CA,95194,United States
+06674e0e-fb97-4d6d-a32c-ea55a95f11d8,**4837******6799,11/19/2021,9:04:49,$172.70,Swipe,"McClure, Langosh and Franecki",Washington,DC,20420,United States
+087c03a8-0309-41d0-b83b-1edf4da537ef,**0875******3854,12/20/2020,14:36:27,$41.30,Tap,Koepp Group,Honolulu,HI,96835,United States
+be0ade3c-4d51-4769-8a76-f8481a07b26c,**0875******2051,07/15/2021,20:15:26,$138.30,Tap,"Kris, Cruickshank and Romaguera",Albuquerque,NM,87121,United States
+f924cf64-0d62-4487-a23f-7204f6fb7981,**0875******8449,03/23/2021,15:19:44,$222.81,Swipe,Walter Inc,Orlando,FL,32835,United States
+6815ace8-31df-4f95-b1e0-11b7bddf3e48,**4837******3588,08/27/2021,10:39:34,$244.91,Swipe,"Oberbrunner, Reynolds and Beer",Indianapolis,IN,46239,United States
+07d40102-84f1-45d9-8f31-f3b41fd17bd0,**4837******7819,02/05/2021,8:15:48,$240.79,Tap,"Breitenberg, Padberg and Senger",Spokane,WA,99220,United States
+53589465-1493-4c02-ac9a-45beb23c1532,**4837******4567,06/23/2021,22:44:58,$76.28,Swipe,Hoppe-Bode,Philadelphia,PA,19178,United States
+b8db59a6-a156-4296-b8d3-21722bd15c71,**4837******8593,01/13/2021,10:31:44,$71.34,Tap,"Cummings, Bartoletti and Walker",New York City,NY,10125,United States
+8ad75f92-f087-4c36-8279-1c7cba80a8ae,**4837******2912,03/02/2021,12:02:40,$24.79,Tap,Koelpin Inc,Norfolk,VA,23509,United States
+f457c9f6-ab45-4c5a-9227-c16f6b5e5856,**0875******7137,09/19/2021,5:34:00,$219.60,Tap,Halvorson-Crooks,Mobile,AL,36628,United States
+169ca015-7cd9-4091-aafb-19ccb05a1806,**4837******7587,09/22/2021,20:05:11,$206.73,Tap,Ziemann LLC,Oakland,CA,94616,United States
+2fec115c-6943-488f-a483-e5e5ece19ffc,**4837******6596,05/13/2021,14:27:23,$150.63,Swipe,"Schuppe, Bayer and Welch",El Paso,TX,79977,United States
+3ddccce6-4173-4733-90e1-39da3b5741c7,**4837******4523,10/23/2021,4:25:43,$34.58,Swipe,Walker and Sons,Monticello,MN,55585,United States
+741ea8fc-3bb9-4c20-92d0-b36d7bfafe32,**0875******7611,06/15/2021,23:13:41,$49.92,Swipe,O'Conner Inc,Houston,TX,77090,United States
+e009acd4-8443-4fb0-8893-ee90415e33f9,**0875******3618,02/13/2021,3:44:48,$134.18,Tap,"Denesik, Altenwerth and Tremblay",Hartford,CT,06145,United States
+060a53dd-5e08-4d2b-95c3-fe78e3980f8d,**0875******5943,08/11/2021,0:02:41,$171.09,Swipe,Reichel Inc,Shawnee Mission,KS,66215,United States
+c37b9c53-fe05-4d0e-9a78-946ffa82467c,**4837******0891,12/04/2020,19:19:25,$23.04,Swipe,"Reichel, Stehr and Wiegand",Charlottesville,VA,22903,United States
+bab973e4-e575-445e-8954-a4d8b9d3ec7c,**4837******0628,,,$204.74,Tap,Herman-Hamill,Portsmouth,NH,03804,United States
+027f33a7-3d11-4853-8907-9215034ef0bf,**0875******9010,02/04/2021,2:54:46,$133.96,Tap,,Wichita,KS,67215,United States
+b635a76f-5ac6-42c1-a05d-cbea8b583237,**4837******0659,08/10/2021,14:41:45,$190.98,Tap,Schaden Inc,Cleveland,OH,44177,United States
+4d4d94bd-1532-4ecb-92f3-ceea995c411f,**0875******4375,06/04/2021,19:05:54,$11.09,Tap,,Olympia,WA,98516,United States
+eff5897b-8cb7-47a9-af06-a4d426ea005b,**4837******7200,04/22/2021,0:52:14,$223.76,Swipe,"Spinka, Hirthe and Olson",San Diego,CA,92191,United States
+47b644e2-348f-4cab-9eee-f8e6945fc15c,**0875******7924,12/28/2020,5:01:03,,Tap,Hirthe and Sons,Washington,DC,20557,United States
+af05ab45-04ac-47b2-a845-f90860caecbe,**0875******3714,04/01/2021,2:02:25,$176.46,Tap,Lehner and Sons,Muncie,IN,47306,United States
+6ff1b6ed-9d06-44eb-b1ef-010eca6e5d3f,**0875******4236,09/13/2021,1:29:06,$154.46,Tap,Lemke-Raynor,Washington,DC,20337,United States
+4a49bdf7-aced-4358-a91c-be4704d8fdeb,**4837******2094,09/24/2021,16:31:56,$212.03,Swipe,"Cummerata, Purdy and McGlynn",Springfield,OH,45505,United States
+cd4e644d-de49-4b89-86e6-fdd39267640f,**4837******2278,11/10/2021,9:22:27,$97.82,Swipe,Schamberger-Homenick,Honolulu,HI,96835,United States
+bb37e330-4ca0-441b-bffe-df5078ce4728,**4837******0561,10/04/2021,19:09:14,$232.61,Tap,Sipes-Sawayn,New York City,NY,10249,United States
+a69441a7-8b6b-4ead-be35-d2993f83dd24,**0875******9473,05/12/2021,1:17:06,$221.53,Tap,Hayes-Brown,San Antonio,TX,78220,United States
+f3f12aa1-eb33-4ab8-a83e-56df8d686524,**4837******5162,05/17/2021,10:03:05,$54.02,Tap,"Fahey, Armstrong and Bailey",Houston,TX,77090,United States
+edd8bd5f-8af9-440b-a0af-da4f85e8fbf6,**0875******9118,11/14/2021,5:28:05,$201.61,Swipe,"Hickle, Waelchi and Thompson",Richmond,VA,23220,United States
+ec60b612-c832-4065-8b57-23cfffb9e9c1,**0875******2167,11/16/2021,17:46:39,$72.08,Swipe,"Gorczany, Stracke and O'Reilly",Denver,CO,80235,United States
+878e85ab-abc9-474f-86fe-99d07ed1d219,**0875******2849,10/31/2021,13:59:56,$140.91,Swipe,"Sporer, Lowe and Auer",Springfield,IL,62711,United States
+e5aab471-8a22-4e54-a417-6da4699f944d,**0875******2135,08/09/2021,23:11:26,$48.34,Swipe,"Fisher, Cassin and Hansen",Phoenix,AZ,85045,United States
+1afbc646-717d-446d-ada2-54fe381e77db,**0875******5285,06/26/2021,4:01:56,,Swipe,Ward Inc,Wilmington,NC,28410,United States
+af2284bd-4048-4b6a-947d-5e4579e5fb64,**0875******1625,10/27/2021,15:48:12,$112.87,Tap,Johnston and Sons,Roanoke,VA,24009,United States
+03a53bc6-ff53-4e98-9083-e44dc95b4dde,**4837******8106,02/10/2021,3:40:14,$177.22,Tap,"Hane, Gleason and Huel",Austin,TX,78710,United States
+f19273d8-93e4-46bb-885b-778240ce9536,**4837******7715,08/11/2021,5:46:49,$104.40,Swipe,"Blanda, Hintz and Kuphal",Gainesville,GA,30506,United States
+067036e7-1aa7-498a-a820-81c91097a1ca,**4837******1422,01/09/2021,15:40:49,$124.91,Tap,Schinner-Bahringer,Montpelier,VT,05609,United States
+9c473c99-6b3f-4f1d-8919-cf7acacad3ad,**0875******6160,12/16/2020,4:53:26,$188.14,Swipe,Wisoky Inc,Las Vegas,NV,89178,United States
+ea46ed3f-033d-4f6c-8287-b823484b9dde,**4837******9657,07/30/2021,22:35:32,$184.92,Tap,Nitzsche-Larkin,Austin,TX,78749,United States
+54274c50-ae54-4101-af84-9122219164e7,**4837******1541,03/06/2021,15:10:49,$100.36,Swipe,Treutel-Bergnaum,Hot Springs National Park,AR,71914,United States
+b5662096-06f7-4f39-9f1d-8db5644917a8,**4837******2337,02/03/2021,18:08:10,$244.00,Swipe,Rath-Reichert,Minneapolis,MN,55446,United States
+262d91d0-d4bc-419f-8a42-d2bd15a36d31,**4837******0393,12/20/2020,9:05:32,$57.26,Tap,"Pfannerstill, Mante and Schumm",Portland,OR,97255,United States
+fee3d9c2-2911-46e0-b1a9-d527d19c4554,**4837******5033,07/06/2021,7:08:01,$239.08,Tap,Koch LLC,Raleigh,NC,27658,United States
+d8490ed8-1355-4cd8-beb0-ac4b6ffca2fd,**0875******2670,02/07/2021,10:39:25,$137.56,Swipe,"Hintz, Mosciski and Medhurst",Katy,TX,77493,United States
+36be48cf-86c4-4627-a6f4-7f4c1de6b73a,**4837******7196,08/14/2021,7:00:42,$60.19,Tap,Schinner-Skiles,Waterbury,CT,06705,United States
+65e71b32-ead6-4d65-9b07-fb7ddb70d38c,**4837******1616,08/03/2021,5:36:55,$26.04,Tap,Gulgowski-Gutkowski,Tyler,TX,75705,United States
+32fcdb6e-61cc-4b89-8300-86311a68c436,**4837******1443,02/17/2021,1:34:01,$83.89,Swipe,Bruen and Sons,West Palm Beach,FL,33405,United States
+949bda3d-87fd-4020-9cb6-3d54fbc95c5e,**0875******6272,08/03/2021,4:04:07,$54.60,Tap,Funk-Labadie,Baltimore,MD,21265,United States
+dd6c5c59-6e50-4f8d-9bf6-c2177e5a6f87,**0875******2618,07/28/2021,0:05:16,$101.49,Tap,Reilly-Gerlach,Naples,FL,33961,United States
+0b79b9e0-af48-4f13-b67e-352413948ab8,**0875******5119,10/10/2021,7:05:59,$124.61,Tap,"Thompson, Gulgowski and Nader",Des Moines,IA,50310,United States
+f88ebb8e-df4a-4917-b491-c8cf016af817,**0875******1948,09/01/2021,9:58:02,$46.22,Tap,"McLaughlin, Ratke and Bernhard",Jackson,MS,39236,United States
+88bc770d-627f-4b56-b865-c213421c220f,**4837******7156,01/21/2021,16:33:12,$244.64,Tap,Collins LLC,Asheville,NC,28805,United States
+d482439d-7e7c-4cfb-bc14-f93418787f25,**4837******2450,12/28/2020,9:19:21,$62.41,Swipe,"Moore, Wilderman and Rohan",Macon,GA,31217,United States
+b80806b4-41da-44d2-8109-174a9285f081,**4837******4209,09/20/2021,5:52:26,$164.72,Tap,Jast-Braun,Huntington,WV,25721,United States
+29f7c303-bb5b-4b45-ba7b-4f1a633eddd4,**0875******6108,05/02/2021,11:12:49,$85.12,Tap,Kuvalis-Bednar,New Orleans,LA,70183,United States
+5cd6a53b-9a11-4272-8418-e06929e06957,**4837******5210,03/22/2021,14:52:16,$194.80,Tap,"Schmeler, Mitchell and Hoppe",Carson City,NV,89706,United States
+a015abf2-009d-4c74-960c-f9e7cb193de5,**4837******6923,03/27/2021,6:07:58,$200.03,Swipe,Collier-Towne,Greenville,SC,29610,United States
+8c061619-642f-4ae2-8375-63b693e643c2,**0875******7358,,,$109.06,Tap,Hackett Group,New Haven,CT,06520,United States
+e74817e3-c222-4edd-a72c-3acb3868f7db,**4837******9270,12/20/2020,18:48:17,$224.38,Swipe,"Reinger, Cummings and Rolfson",Bakersfield,CA,93305,United States
+2e600a2b-7ac6-4ee1-964e-bfe0a36f1855,**0875******1802,05/09/2021,10:47:06,$174.02,Swipe,Rutherford-Mayer,Vancouver,WA,98682,United States
+df5360b2-9952-48d5-9b7a-e8c759422916,**0875******1613,08/18/2021,12:15:21,$89.61,Tap,Kling Inc,Orlando,FL,32808,United States
+007e6ca2-8aa9-48cc-ae5b-ac82f3ef12a8,**4837******8358,10/03/2021,1:40:07,$44.43,Swipe,"West, Corwin and Jacobson",El Paso,TX,79940,United States
+bbb05d6a-9bb1-4379-bf97-8c08a7d9c049,**4837******7989,04/12/2021,14:02:45,$234.61,Tap,"Wilkinson, Hartmann and Kub",Richmond,VA,23293,United States
+ca2b5545-feec-4e0b-b4aa-8e7bcd8cfe63,**0875******9407,01/11/2021,7:46:55,$184.11,Tap,McClure-Leannon,Fresno,CA,93750,United States
+5f77cf3b-cc51-43e5-bba3-a6f727e7a1a3,**0875******0286,04/12/2021,0:16:08,$135.39,Tap,Conn-Marquardt,Grand Rapids,MI,49505,United States
+092ec42b-c53e-4772-9d10-d17acfb5c75f,**4837******0604,12/03/2020,18:54:58,$136.06,Swipe,"Leffler, Upton and Grady",Omaha,NE,68144,United States
+8429fe9d-4482-404b-ab70-a1f46eee3274,**4837******8588,11/13/2021,11:48:52,$216.02,Swipe,"Nolan, Kirlin and Lueilwitz",Phoenix,AZ,85062,United States
+5bcc63b8-b901-4438-a299-0ad84fc10ffc,**0875******7434,06/07/2021,18:30:26,$224.53,Tap,Beatty-Rice,Mobile,AL,36605,United States
+0ec1b559-2031-4206-89b9-d37d03afdb31,**0875******2275,03/09/2021,21:38:23,$219.53,Tap,Stehr and Sons,Hartford,CT,06145,United States
+76d0e202-148a-49a9-b2df-b54a4e7914c1,**4837******0418,11/17/2021,19:00:20,$209.60,Tap,Dickinson-Ratke,Dallas,TX,75392,United States
+832cb7d7-bf58-4171-875d-43f0dc2b17dd,**4837******8507,02/13/2021,5:43:20,$214.61,Swipe,Muller-Berge,Tulsa,OK,74184,United States
+314cd693-c54c-448e-b4e5-2da25bc27ed0,**0875******0061,07/19/2021,8:47:27,$99.84,Swipe,"Orn, Von and Upton",Oceanside,CA,92056,United States
+8f207e1c-a7a2-4f0a-9e0a-03fe4c436820,**0875******6041,,,$148.56,Tap,"Ziemann, Bauch and Fahey",Birmingham,AL,35242,United States
+3c054fe8-55f6-49e6-80ee-aeed2752b706,**4837******0450,06/16/2021,4:15:21,$143.04,Tap,Leannon Inc,Jackson,MS,39236,United States
+619fe940-8d91-47bb-80bc-c9586c427699,**4837******0300,06/26/2021,8:53:57,$68.68,Swipe,Gutkowski Group,Flint,MI,48550,United States
+c5ea2b1c-a59a-4454-839a-9673780baf89,**0875******4454,11/11/2021,13:33:39,$115.35,Tap,Johns-Hagenes,Washington,DC,20319,United States
+1291b8b7-31d1-462c-9804-65016c25d12c,**4837******4096,11/03/2021,0:15:43,$114.60,Tap,"Reichert, Kessler and Gusikowski",Chattanooga,TN,37405,United States
+6864c28b-e82d-4f65-b767-82a4b875f938,**0875******9261,04/14/2021,7:52:01,$86.61,Swipe,Goldner Inc,Knoxville,TN,37995,United States
+318933be-289d-40a7-8577-047990a557a2,**4837******9192,03/08/2021,20:45:38,$188.65,Swipe,Reichel Group,Pittsburgh,PA,15266,United States
+a9455557-fd1e-4e10-8306-285bf9a1fa7c,**4837******6045,11/01/2021,22:14:48,$235.74,Swipe,"Klocko, Pagac and Dickinson",Grand Rapids,MI,49518,United States
+5235639a-502c-41c1-959e-3bd7d4d591ca,**4837******7080,11/10/2021,21:22:26,$215.83,Tap,Sawayn Group,Sacramento,CA,95823,United States
+37a00043-ed63-4f97-adfd-e3937ac59a2f,**0875******3803,08/20/2021,4:45:25,$126.24,Tap,O'Hara Inc,Denver,CO,80241,United States
+cd455378-c094-4c48-9b22-5cec787ce2a0,**0875******2962,05/21/2021,15:44:24,$52.88,Swipe,Swaniawski-Herman,Pasadena,TX,77505,United States
+54be526b-9753-45cb-8bb8-ecdb9fd733db,**0875******1232,07/21/2021,16:43:45,$152.62,Swipe,Quigley Inc,Jacksonville,FL,32255,United States
+2811e02d-2404-4947-bc7d-446724fa54c1,**4837******3872,08/08/2021,10:06:18,$111.39,Tap,Reichert LLC,Gadsden,AL,35905,United States
+0d7ed745-c0dc-46ad-8581-7d47e50e7d75,**0875******3998,02/06/2021,18:51:53,$76.97,Tap,"Lueilwitz, Jones and Hodkiewicz",Charleston,SC,29424,United States
+32b62854-0b04-4b7c-915e-3a3af59b99c9,**4837******9790,,,$13.57,Tap,"Hintz, Bogan and Sporer",Kansas City,MO,64136,United States
+203bd8bf-1c4a-4733-894b-4c9afd922b8b,**0875******9629,01/01/2021,8:06:52,$192.96,Tap,Zulauf Group,Charlotte,NC,28220,United States
+f7981e10-145a-4395-8115-e61dcd7e5d73,**4837******0032,01/21/2021,14:34:01,$121.88,Swipe,"Bernhard, Thiel and Cassin",Sioux City,IA,51110,United States
+697ce468-7d0b-412e-85f6-d56e324be9a7,**4837******8450,05/01/2021,9:06:57,$63.63,Swipe,"Waters, Wunsch and Marvin",El Paso,TX,79968,United States
+557fbaa6-a5d3-48ab-a193-188a62995921,**4837******0305,04/25/2021,16:29:04,$213.55,Swipe,Simonis-Christiansen,Trenton,NJ,08638,United States
+5552060c-ce5c-47c3-a1b8-961f0c9a57df,**4837******1956,01/08/2021,10:00:12,$88.46,Tap,"Wolf, Fay and Hagenes",San Diego,CA,92196,United States
+6e9a3cd7-3ed3-405f-a66f-16f775b55eea,**4837******1393,03/09/2021,22:02:38,$54.20,Swipe,Kiehn-Farrell,San Antonio,TX,78250,United States
+cd485018-8f3c-4e0d-a2b0-d882a41e54c8,**0875******0337,06/19/2021,18:10:44,,Swipe,"Cruickshank, Rodriguez and Moore",Chattanooga,TN,37410,United States
+dc645324-6acc-4944-b32b-91f40f621f6f,**4837******2325,05/17/2021,11:18:21,$91.59,Tap,Gorczany LLC,Winter Haven,FL,33884,United States
+8d24d892-d445-441c-a8cc-2aa9b443f855,**0875******3473,09/01/2021,20:53:42,$18.68,Tap,"Bergstrom, Schimmel and Moen",Oklahoma City,OK,73167,United States
+f9b95c5e-ff29-43bc-8d65-383af58f3106,**4837******0133,03/11/2021,13:29:30,$188.21,Tap,Satterfield LLC,Colorado Springs,CO,80951,United States
+82d2e905-d281-467a-860a-cf56365238a5,**4837******0977,,,$19.10,Tap,Dickinson-Pfannerstill,Washington,DC,20392,United States
+bb90ba4d-b8c0-493c-9547-c7ad3595a9c2,**0875******7280,11/09/2021,14:35:41,$218.20,Tap,Mohr-Koss,San Francisco,CA,94154,United States
+8421a5df-c4da-4cb3-9f99-2b79cec27630,**4837******3173,07/17/2021,21:40:01,$233.87,Tap,Jacobson-Gibson,Philadelphia,PA,19184,United States
+993e47a1-86c9-4aef-86b1-e6dc50caaf0e,**0875******4728,11/30/2020,7:57:53,$205.17,Tap,Weissnat-Brakus,Chicago,IL,60641,United States
+0884cf56-4166-479f-9b87-92a67d5a79cf,**0875******5611,04/08/2021,2:58:58,$249.20,Swipe,"Conn, Ortiz and Considine",Bowie,MD,20719,United States
+f521897d-6416-4e54-8139-af7fd56d559a,**4837******1470,05/05/2021,4:45:26,$33.07,Swipe,Stehr Group,San Antonio,TX,78220,United States
+f55c336d-21d7-4dc8-a01d-b29de15c87b1,**4837******9922,11/28/2020,10:20:28,$249.27,Swipe,Kling and Sons,San Diego,CA,92105,United States
+aab7a421-10c8-48cc-a471-50dc2d9f6b74,**4837******4886,02/13/2021,22:56:02,$185.41,Tap,"Mann, Erdman and Block",Washington,DC,20036,United States
+9b0452c1-e8e1-4aad-81c3-88fce383f312,**0875******5689,06/21/2021,1:04:09,$197.39,Tap,Kris-Braun,Lexington,KY,40591,United States
+af084a1d-31ec-42ad-b9f2-309321769d8c,**4837******0772,01/07/2021,10:37:18,$225.65,Tap,"Nolan, Padberg and Borer",Washington,DC,20397,United States
+b06cc263-e642-439d-afc1-23a3cef66d81,**4837******1818,12/30/2020,19:01:06,$178.38,Tap,"Douglas, Fritsch and Metz",Boca Raton,FL,33487,United States
+d7e66943-0c9e-4c51-bc1b-65de9b7df355,**4837******3201,08/26/2021,17:39:20,,Swipe,Heidenreich Inc,Newark,DE,19714,United States
+9adc9a1b-e14b-48f7-ac4c-8ec52cc0fd2e,**4837******7063,07/19/2021,3:38:17,$44.68,Tap,Gottlieb and Sons,Seattle,WA,98148,United States
+9396b3c4-9bd6-4720-82ff-c5271acfa109,**4837******3632,12/13/2020,22:22:28,$138.50,Tap,Terry and Sons,Memphis,TN,38188,United States
+f80be21a-153a-4240-afd4-f9199a315dc8,**4837******5958,09/15/2021,14:51:45,$254.47,Tap,Hoeger-Rolfson,Tampa,FL,33673,United States
+f1c8b4f2-c2c4-4f7c-a62e-449c14ee58d4,**4837******3826,11/12/2021,11:57:06,$68.32,Tap,"Hilpert, Kuhlman and Kreiger",Fort Smith,AR,72905,United States
+70e33ee8-323f-4b15-a290-ba4785104d3c,**4837******9302,,,$143.00,Tap,Hegmann Inc,Norwalk,CT,06854,United States
+b8081690-55f5-4389-b363-9aaeead14ead,**0875******9150,12/13/2020,3:58:48,$12.47,Tap,Funk Inc,Atlanta,GA,31190,United States
+2b124443-58fc-4d45-93ac-055f179c6b77,**4837******7497,07/18/2021,10:12:51,$13.01,Swipe,"Glover, Kautzer and Powlowski",Pittsburgh,PA,15225,United States
+4f633f33-2212-4e38-9cf4-e5805e717afa,**0875******9600,11/16/2021,9:53:07,$127.81,Tap,"Bogan, Leuschke and Frami",Sacramento,CA,95852,United States
+0a21263a-8542-4fec-a2c1-b24dd99ad7e9,**0875******3294,03/29/2021,0:06:25,$49.96,Swipe,"Satterfield, Pagac and Shanahan",Flint,MI,48505,United States
+797260c1-dafb-4e9e-99a8-9b7089ebdbda,**4837******4695,06/24/2021,4:42:39,$84.81,Swipe,"Keeling, Jast and Schiller",Rockville,MD,20851,United States
+1bd24136-0ab6-4d5b-864b-2d9f6bf4386a,**4837******1362,06/01/2021,21:12:15,$106.03,Tap,Larkin Group,Knoxville,TN,37924,United States
+55f89a57-244c-4ba4-bf7a-5352dd1c4cc6,**4837******0353,04/24/2021,2:14:32,$219.38,Tap,Legros LLC,Huntsville,AL,35805,United States
+117e43ba-615f-44c1-a01d-cd00c3ce4cc8,**0875******8824,10/28/2021,13:03:27,$169.11,Tap,Rosenbaum-Bins,Long Beach,CA,90831,United States
+749474d9-f496-464a-aac1-38276ed3feed,**4837******7478,06/25/2021,11:46:17,$214.71,Swipe,Corkery LLC,Washington,DC,20022,United States
+f19d8c4c-0349-42da-8ad8-e1a420ce2406,**4837******5999,09/01/2021,3:37:37,$177.59,Swipe,"Kutch, Watsica and Kulas",Beaufort,SC,29905,United States
+46543403-58e2-4b71-af50-3cff87a4bd7d,**0875******7599,,,$133.02,Swipe,Little Group,Dayton,OH,45470,United States
+bd2709b6-2f31-4200-9d07-954a50ca8d29,**4837******9775,02/15/2021,10:54:36,$230.89,Tap,"Christiansen, Senger and Mills",Montpelier,VT,05609,United States
+87d9040f-15b5-49f3-976d-0699fcab9fd8,**4837******7204,10/25/2021,11:07:45,$118.29,Tap,"McLaughlin, Von and Oberbrunner",Maple Plain,MN,55579,United States
+46732636-0e1b-46d9-86c0-469b171e7b0f,**0875******1053,02/26/2021,9:21:07,$218.42,Swipe,"Cummings, Sanford and Kunze",Clearwater,FL,34629,United States
+48d175d2-3147-4658-ab0c-5e0749e8814f,**4837******3221,03/22/2021,8:46:36,$100.39,Tap,Jenkins and Sons,Saint Paul,MN,55127,United States
+f5d97f81-1dc1-40a7-a540-51cd106d16e1,**0875******3237,01/13/2021,17:33:53,$114.49,Tap,"Stark, Considine and Carroll",Washington,DC,20380,United States
+875cecad-65ba-4928-895a-95c3dae5d937,**4837******9990,08/19/2021,8:46:42,$108.63,Swipe,Rippin-Hartmann,Fresno,CA,93778,United States
+28ad34fe-982b-49dd-a52b-023e4cbb6548,**4837******8807,06/12/2021,1:30:04,$224.41,Tap,Langworth-Schneider,New York City,NY,10280,United States
+8fa8ac1d-2976-445d-9fe7-011cbfdb9b2c,**4837******0748,09/17/2021,18:12:51,$52.64,Swipe,Kilback LLC,Houston,TX,77015,United States
+cd88c443-0263-46a9-9f59-5068fcf63348,**0875******1211,06/20/2021,9:47:25,$76.87,Swipe,Ernser-Heidenreich,Fort Worth,TX,76110,United States
+5baadd9b-c95c-4357-8ddf-251cee90f51a,**0875******0652,11/27/2020,4:07:05,$73.92,Tap,"Rath, Bernhard and Cassin",San Jose,CA,95133,United States
+0063bc3d-1724-47ec-8259-37dee4d884c7,**0875******4992,06/05/2021,1:45:33,,Swipe,"Bernhard, Hand and Christiansen",Arlington,TX,76016,United States
+e047ea94-49e0-4b59-9e24-efdb91888089,**0875******2397,11/14/2021,9:55:00,$213.46,Swipe,"Casper, Quitzon and Ryan",Washington,DC,20220,United States
+61052bd7-c714-4c7f-9609-e9946f8ad1e8,**4837******0640,04/26/2021,8:29:54,$221.43,Swipe,Weissnat-Zieme,Anchorage,AK,99517,United States
+13bb835c-7640-4ddf-8989-c5ac652ff62a,**4837******2021,10/07/2021,12:58:51,$174.29,Swipe,"Sawayn, Nienow and Davis",Pittsburgh,PA,15210,United States
+9a622e55-d0a5-422a-8dea-73616814e8ee,**0875******5799,08/25/2021,16:27:44,$40.46,Swipe,"Klocko, Bosco and Hammes",Fort Pierce,FL,34981,United States
+653707a6-b942-4606-a280-be275d0af0fc,**0875******0350,01/20/2021,0:03:27,$35.53,Tap,Schulist LLC,Helena,MT,59623,United States
+bd7ef996-d337-43f1-830c-0526b55827ab,**0875******9711,05/04/2021,22:19:26,,Swipe,"Volkman, Reichel and Kessler",Hartford,CT,06152,United States
+7a1a4e82-2631-4d94-ab31-7d27bbcb0e27,**0875******5388,07/07/2021,9:49:24,$220.32,Tap,,New York City,NY,10184,United States
+dcd28283-4882-4c5a-b3e7-7666895c1a1c,**4837******5084,03/01/2021,9:53:25,$142.62,Tap,"Kris, Nikolaus and Dibbert",Nashville,TN,37245,United States
+e0af9f4a-f455-4069-bfdc-a6d75cc1424f,**4837******7056,,,$198.81,Swipe,Donnelly Group,Miami,FL,33164,United States
+d32f534c-1c43-4ba9-bf08-f32ba41aaef8,**4837******2756,03/03/2021,20:10:30,$53.29,Swipe,McClure-Carroll,Cedar Rapids,IA,52405,United States
+cfeb89b3-8629-4632-8149-7880af4c69ec,**4837******5121,01/28/2021,20:11:00,$164.63,Tap,Cormier-Collins,Fort Lauderdale,FL,33310,United States
+5161d606-c627-4107-af21-bb666052b17e,**4837******2141,05/06/2021,5:09:55,$95.70,Tap,"Lueilwitz, Rodriguez and Feeney",Garden Grove,CA,92645,United States
+8691f667-cf47-4c33-ad2f-1b3859ad6719,**4837******6732,02/20/2021,2:32:09,$144.92,Tap,Erdman Inc,Charleston,SC,29403,United States
+eb14bea2-319a-4535-9126-e916a207cf40,**4837******3166,10/05/2021,7:07:51,$116.29,Swipe,Harber-Kemmer,Dallas,TX,75226,United States
+a1699023-50d4-44a7-b3c2-55f8618f6a70,**0875******1060,02/17/2021,8:18:01,$244.22,Tap,Bernhard-Hayes,Schenectady,NY,12305,United States
+38744967-eb8e-4649-895a-bdd617aff3cb,**4837******8214,09/26/2021,14:40:13,$45.27,Swipe,Feeney-Borer,El Paso,TX,88574,United States
+f0ca9f88-3547-498e-bd9c-f1ac8c6415ee,**0875******2629,04/11/2021,22:23:34,$196.82,Swipe,Ryan-Mosciski,Nashville,TN,37215,United States
+63725cb2-cff0-4417-a7c5-48a2e440dd81,**0875******8673,08/28/2021,11:00:49,$206.31,Tap,Schuster-Balistreri,Raleigh,NC,27605,United States
+00b07950-5775-4b4b-b4de-31d4fe8cf2b0,**4837******2730,06/01/2021,12:42:22,$130.13,Tap,Padberg-Okuneva,Fairfax,VA,22036,United States
+57929169-7e31-497e-a249-7da52a1d3dd3,**0875******0422,07/10/2021,2:57:41,$162.77,Tap,"Kihn, Metz and Borer",New York City,NY,10292,United States
+43d0204c-b69c-424a-83bb-3ea2262feacf,**0875******4277,09/19/2021,16:36:29,$69.32,Tap,Pouros-Reichert,Evansville,IN,47705,United States
+d6b99286-8117-4bb2-90d4-100ea7ca2599,**4837******2807,10/22/2021,22:59:05,$143.98,Swipe,Steuber-Muller,Miami,FL,33180,United States
+14184135-07b4-44c6-965a-c154f30cce75,**4837******2387,01/16/2021,1:14:28,$92.55,Tap,"Walter, Nicolas and Prohaska",Sarasota,FL,34276,United States
+ebc32a2e-8af5-41d2-af07-b05b781b73a9,**0875******2001,01/22/2021,22:13:52,$66.64,Tap,"Dibbert, Jenkins and Weissnat",Jacksonville,FL,32220,United States
+8d4d0a71-23b4-4eea-b6d8-7453dd048424,**4837******1719,08/13/2021,9:07:06,$139.73,Tap,Hartmann-Corkery,Roanoke,VA,24020,United States
+d76bb74a-a43f-406a-9fa2-f740c8111292,**0875******7371,06/26/2021,8:34:05,$198.43,Swipe,Abshire LLC,Des Moines,IA,50330,United States
+72b20938-4b8b-4a03-baca-a89e92a7eb48,**4837******4788,05/14/2021,8:19:19,$182.07,Tap,"Stanton, Fay and McKenzie",Springfield,IL,62723,United States
+1a6353ce-1b67-4715-9dc9-8589fca207bd,**4837******9174,09/07/2021,6:24:46,$214.82,Tap,Kris Group,Spring,TX,77386,United States
+db339aca-664b-4b1f-a14e-eb65bd2aede8,**0875******2706,02/04/2021,1:46:32,$45.45,Swipe,"Bashirian, Shields and Smitham",Sacramento,CA,94237,United States
+c156cb5b-2f64-4059-aa61-5272c2246ed2,**0875******4023,11/13/2021,14:41:10,$106.48,Swipe,Purdy-Hermiston,New York City,NY,10155,United States
+20bcf099-4bd3-4b85-a603-c09b3aa076cf,**0875******6572,07/16/2021,7:06:26,$75.71,Swipe,Welch and Sons,Sacramento,CA,94207,United States
+bcbe67c6-c33b-4b5a-a379-713c41c79850,**0875******2859,05/06/2021,10:50:07,$16.44,Swipe,Veum-Macejkovic,Orlando,FL,32808,United States
+4d89dc98-239a-4a16-a45c-f3c6d09ec011,**0875******5239,06/15/2021,17:10:59,$147.52,Swipe,"Heller, Schowalter and Daniel",Tyler,TX,75710,United States
+a4454dd1-0146-4ded-9ee2-f5525b9bd904,**0875******6277,02/22/2021,23:28:56,$64.24,Swipe,Considine-Braun,Santa Fe,NM,87505,United States
+f744697e-b079-403c-b27d-5c60917532af,**4837******8998,03/03/2021,0:17:42,$20.28,Tap,Collins LLC,Lincoln,NE,68505,United States
+b71e2102-67cd-4c0d-81f0-0a79b6817512,**4837******5850,04/25/2021,18:08:37,$40.32,Tap,Schmidt Group,Fargo,ND,58122,United States
+690c0b3e-c98a-40a3-ae13-59c2103e01c4,**4837******8671,11/07/2021,1:41:02,$71.17,Swipe,Sawayn-Rohan,El Paso,TX,79928,United States
+80ce9b91-1724-4a22-a5d9-82621a043cb9,**0875******1918,12/30/2020,1:58:44,$193.94,Swipe,Emmerich-Pfeffer,Pueblo,CO,81015,United States
+b550483b-634f-4d54-9658-1f0b95124a1b,**4837******7836,,,$109.35,Tap,"Huels, Gutkowski and D'Amore",Kissimmee,FL,34745,United States
+2ba0de0e-b4d3-4141-80f4-99514cb11aad,**0875******0737,09/29/2021,16:23:46,$242.96,Swipe,Hegmann-Zulauf,Boston,MA,02124,United States
+60ce06ed-1961-47f1-8caa-aa8255d7bf97,**0875******2124,02/01/2021,23:45:17,$100.69,Swipe,"Berge, Gerhold and Vandervort",Hialeah,FL,33013,United States
+2afbcef1-44cf-44ae-9d9b-44f6a10d9ade,**0875******6781,10/15/2021,3:51:21,$212.77,Swipe,Schinner-Murphy,Austin,TX,78715,United States
+427f19fe-9ee6-4361-bb85-4c44748b8e2f,**4837******7720,07/17/2021,4:51:47,$55.38,Tap,Christiansen LLC,Lincoln,NE,68531,United States
+c1381a38-491e-4657-a110-22686e312837,**0875******1772,08/17/2021,23:33:00,$47.45,Tap,Yost-Rolfson,Rochester,NY,14683,United States
+725a85d8-2a4f-4895-bf19-9b2bc9a1132e,**4837******2029,12/08/2020,15:52:21,$85.49,Swipe,Gerhold-Swift,Montgomery,AL,36114,United States
+954ce5cc-a627-45f0-82f5-98b83b6bd9f5,**4837******4848,11/27/2020,0:25:40,$14.42,Swipe,Beahan LLC,Springfield,IL,62705,United States
+fe797032-96a1-4aa2-b792-f193dc491fbf,**0875******3805,08/18/2021,18:33:53,$189.35,Swipe,Kihn and Sons,Hartford,CT,06140,United States
+8d055c2a-24e0-4200-a8d0-905462311afb,**4837******4821,07/19/2021,12:34:33,$155.80,Swipe,Heller-Bogan,Everett,WA,98206,United States
+d36fe820-2291-4b9a-8f70-9b7ac52c5a3e,**4837******5367,06/08/2021,1:35:37,$231.61,Swipe,Reinger and Sons,Orlando,FL,32859,United States
+201a025b-8ea7-4729-a30c-7ac65edac315,**4837******1425,09/14/2021,2:19:30,$205.79,Tap,Vandervort Group,Charlottesville,VA,22903,United States
+98fb9b92-f738-4864-acba-13765feafec9,**0875******4619,11/30/2020,8:25:48,,Swipe,Moore Inc,Raleigh,NC,27605,United States
+31ff4d1c-1b3b-4324-8759-b648ff39ca0c,**0875******9738,06/07/2021,15:22:22,$20.05,Swipe,"Boyer, Schneider and Rodriguez",Pittsburgh,PA,15235,United States
+341fcb11-5c3f-4b52-8504-254a65134345,**0875******9585,,,$89.76,Tap,"Hudson, Koch and Kessler",Peoria,IL,61629,United States
+c66ec0bf-d30e-45e0-8ef0-eba307561adf,**0875******0232,08/24/2021,1:29:16,$172.69,Swipe,"Thompson, Ortiz and Predovic",Denver,CO,80235,United States
+91d277fc-4d41-4a0c-991a-da07f2620bf8,**0875******1053,12/02/2020,16:03:43,$186.90,Tap,"Jacobs, Wintheiser and Grant",Sacramento,CA,94245,United States
+f8d04c4f-3262-44c0-a0dc-dc8f20607c63,**4837******6180,07/29/2021,0:21:22,$16.89,Swipe,Douglas-Volkman,Lynchburg,VA,24515,United States
+17cfd8b1-71ac-4b1c-920b-0ba7a0005fc6,**4837******5868,07/03/2021,4:12:17,$73.18,Swipe,"Koss, Strosin and Lockman",Denver,CO,80279,United States
+5ba96cba-2b46-4678-8801-e0fa27596787,**0875******8029,04/23/2021,10:38:50,$63.11,Swipe,Rowe-Vandervort,Mobile,AL,36610,United States
+d052b106-9903-4e10-bc95-b388b9dda88f,**0875******5931,06/09/2021,8:31:47,$143.66,Tap,"Herman, Olson and Stiedemann",Washington,DC,20591,United States
+9a577fde-ddeb-4c47-9583-e579432620dc,**4837******6437,,,$223.71,Tap,"Swaniawski, Hane and Padberg",Mobile,AL,36610,United States
+8839b793-f607-47a0-899e-9c8d2af811fa,**4837******5833,01/01/2021,7:36:36,$226.07,Tap,Haley-McCullough,Sacramento,CA,95838,United States
+15f68d81-629b-4885-b0f8-690e76b1259d,**4837******4198,01/22/2021,0:00:41,$128.01,Swipe,Effertz Group,Washington,DC,20041,United States
+aa05bb2c-eddf-4d15-91cd-adeb5fc238b9,**4837******5517,03/21/2021,17:33:28,$199.02,Tap,Howell LLC,Daytona Beach,FL,32128,United States
+39a0ecb9-796b-4e59-b7f1-54b3a42d25db,**0875******8788,02/06/2021,1:08:52,$214.57,Swipe,Conroy and Sons,El Paso,TX,79934,United States
+93c37961-7234-4b81-af5b-5c2b5eb3092c,**4837******0344,12/29/2020,6:47:24,$71.84,Tap,Dickens-Koss,Bronx,NY,10459,United States
+c639ca92-3e6e-45e4-9f47-47045e2bb537,**0875******2918,11/20/2021,22:19:34,$205.60,Tap,Weimann-Luettgen,Hampton,VA,23663,United States
+f35b9e14-2675-4b77-a1ff-2b7fea0a42c6,**4837******7091,07/10/2021,13:20:07,,Tap,Hermann-Hagenes,San Antonio,TX,78230,United States
+d197ac4b-f098-42e2-9cfa-f025f9658ab4,**4837******4159,11/29/2020,22:54:51,$11.89,Swipe,Prosacco and Sons,Reston,VA,20195,United States
+ed757052-97ea-4219-b7de-bfa16b0d64a5,**4837******6058,10/28/2021,12:50:09,$133.53,Tap,Kulas-Nolan,Zephyrhills,FL,33543,United States
+2ce40547-9d91-4f63-9e9d-9032897ce425,**0875******1943,11/17/2021,17:49:45,$79.64,Swipe,Kulas-Langworth,Washington,DC,20210,United States
+83f8af83-4924-43f8-8727-2b5806e88ded,**0875******0014,02/23/2021,16:31:32,$219.41,Swipe,"Medhurst, Erdman and Schuster",Springfield,IL,62776,United States
+cad7c349-51ca-48e2-b81c-a29f3b025180,**0875******9783,02/27/2021,18:26:32,$28.04,Swipe,Nicolas Group,Laredo,TX,78044,United States
+d65ae946-1d23-4bd7-8136-5b8325afce8b,**0875******6314,10/29/2021,10:50:00,$132.59,Swipe,"Langosh, Ferry and Jacobson",Huntington Beach,CA,92648,United States
+19e40bcc-9fdb-4005-a92a-f5462ba5d260,**0875******6285,09/21/2021,0:26:57,$111.50,Tap,Jenkins Group,Newton,MA,02458,United States
+9a500831-eb01-4c2e-97fa-6f7a8061ccab,**4837******5586,09/10/2021,9:13:53,,Swipe,Ebert LLC,Columbia,SC,29225,United States
+63a6c265-8928-467b-b32d-d822ef960f9f,**4837******6724,08/29/2021,15:15:19,$137.20,Tap,"Fritsch, Ryan and Olson",Lexington,KY,40510,United States
+ee900885-0bf6-46a6-a612-d7eb7be4e99b,**4837******2494,01/09/2021,12:49:14,$63.93,Swipe,Goyette LLC,Laredo,TX,78044,United States
+0f27718b-0549-4592-95d9-bb9ce769cd23,**0875******9570,05/14/2021,17:39:22,$41.72,Swipe,"Schroeder, Willms and Jaskolski",Lima,OH,45807,United States
+317789bb-c5a6-43f8-b181-2818ff9aa29e,**0875******1145,09/26/2021,10:48:54,$120.78,Swipe,"Senger, Wyman and Waelchi",Kansas City,MO,64149,United States
+eeb2728c-e7cd-41dc-b388-c7dc772d9080,**0875******6225,12/12/2020,9:04:09,$237.00,Tap,Cassin-Christiansen,Peoria,AZ,85383,United States
+09343ee9-7e2a-4127-9ad0-dedb8bc2182f,**0875******3809,04/19/2021,12:20:24,,Swipe,Halvorson Group,Richmond,VA,23289,United States
+27439f30-02a4-423b-8161-a3c5e29c4caf,**0875******2969,06/19/2021,23:40:17,$117.25,Tap,Abernathy Inc,Springfield,MA,01152,United States
+de3df506-c0d0-4533-b3e9-86e56145fb39,**0875******7579,10/21/2021,1:12:36,$18.38,Swipe,"Heaney, Marvin and Bauch",Lexington,KY,40586,United States
+f4053521-854c-4e9d-9729-7a8a5e7a0e2d,**0875******4194,02/20/2021,0:33:39,$48.03,Swipe,Mayert-Fadel,San Antonio,TX,78255,United States
+b6d2cde9-c422-46d2-a650-fa10c80421e3,**4837******2925,05/28/2021,23:04:28,$113.48,Tap,"Mills, Haley and Conn",Boynton Beach,FL,33436,United States
+f42574d6-e6c3-4c27-85d1-9f19f0698bf5,**4837******2456,02/26/2021,11:24:16,$91.28,Tap,Doyle LLC,Washington,DC,20409,United States
+b44f9676-bf02-434c-b76f-a09fc4533b4d,**0875******7415,12/03/2020,10:46:56,$44.38,Swipe,Bernhard Inc,Los Angeles,CA,90055,United States
+e446aad2-d716-4f2a-b5f7-b485b60728b8,**4837******6662,05/03/2021,19:36:21,$52.08,Swipe,"Kertzmann, Kilback and Spinka",Lake Worth,FL,33467,United States
+58985512-5068-4ba2-a59c-3c52c5ea7a64,**0875******5546,08/28/2021,10:49:58,$73.19,Tap,Gibson-Bode,Milwaukee,WI,53285,United States
+0e27ec84-bda7-4778-a078-e289b63d56ce,**4837******8925,06/04/2021,10:11:58,$24.65,Tap,Kling Inc,Kansas City,MO,64114,United States
+b92890b5-585d-4e87-9ec9-df242d270620,**4837******1193,12/24/2020,3:53:38,$36.16,Swipe,Heathcote LLC,Roanoke,VA,24024,United States
+5e3eccdd-d1b3-405d-985f-c4ef662783a1,**0875******1862,05/04/2021,15:55:23,$197.93,Tap,Heller-Brekke,Alexandria,VA,22301,United States
+0bfc91fb-59c3-4702-b1cc-1a8d6f06ba95,**4837******5701,06/17/2021,12:16:21,$224.23,Swipe,"Monahan, Beatty and Trantow",Oakland,CA,94611,United States
+42cd55a9-87e4-46be-a032-617e962d709c,**0875******4377,06/01/2021,4:58:48,$12.17,Tap,Bartell-Windler,New York City,NY,10115,United States
+1d64f884-692e-42a4-b080-d26fad1250d7,**4837******0058,01/26/2021,19:45:52,$158.72,Swipe,Predovic LLC,Austin,TX,78759,United States
+e7a9d114-8a9b-4cee-bbd8-85731128b12b,**0875******7417,12/01/2020,1:27:53,$35.75,Tap,Effertz Inc,Fargo,ND,58122,United States
+c2109aca-31e9-41a7-adfe-fb536745e197,**4837******7031,07/19/2021,7:13:36,$46.09,Tap,"Baumbach, Hickle and Berge",Sacramento,CA,94207,United States
+e5b3c002-204f-4965-8ba6-a2fe79392502,**4837******1080,11/02/2021,12:51:43,$238.74,Tap,Bradtke Inc,Denton,TX,76210,United States
+5b3d05cb-3443-4db5-bb91-d71dcff27593,**0875******1662,12/12/2020,0:56:40,$176.99,Swipe,Emmerich Group,Richmond,VA,23203,United States
+f9fa25ff-7cb6-41ca-bfc7-0ee61f7cc8f4,**0875******0428,10/29/2021,14:35:55,$133.47,Tap,"Wolff, Satterfield and Toy",Albuquerque,NM,87201,United States
+177b2b10-e33a-43d6-964b-89c0a19fb889,**4837******4918,07/30/2021,4:30:13,$227.28,Tap,"Crist, Bernhard and Bradtke",Aurora,CO,80015,United States
+5cc7e243-37a2-4650-8753-3da447f3b474,**4837******7387,09/18/2021,11:26:05,$111.92,Swipe,Daugherty and Sons,Galveston,TX,77554,United States
+e19e99c2-8bff-4eb7-a94c-519c7899731b,**4837******5566,09/03/2021,15:43:53,,Swipe,Hammes-Hansen,Miami,FL,33261,United States
+95fb6a34-68d6-4a75-9479-36df331264a2,**4837******1202,02/11/2021,2:18:13,$244.58,Tap,Pfeffer-Considine,Prescott,AZ,86305,United States
+cef179cd-76f6-4fa1-be02-a1d1bac9b6e4,**4837******2606,08/22/2021,22:16:16,$141.64,Tap,"Harber, Greenholt and Cole",Lincoln,NE,68524,United States
+ac932c62-cef7-4461-af4a-8354464035b6,**4837******6305,09/05/2021,11:45:31,$200.77,Swipe,"Pfeffer, Dooley and Maggio",Elmira,NY,14905,United States
+c3a9c579-c52c-4519-9054-875b2b30ada3,**0875******0651,10/02/2021,21:29:22,$159.49,Tap,Strosin-Mraz,Van Nuys,CA,91406,United States
+3c0b57b3-5cba-4cfe-bea8-f6fcc8c36307,**4837******6345,02/06/2021,13:05:14,$181.93,Tap,,Washington,DC,20540,United States
+dc513a6a-4748-4da0-bf6e-ff83e252c9c1,**0875******1139,02/04/2021,0:11:47,,Tap,"O'Hara, Bauch and Lind",Saint Petersburg,FL,33715,United States
+ec8e7cc4-594b-4d73-90d1-d83af970587c,**0875******4106,07/03/2021,16:47:04,$150.47,Swipe,Hand-Schoen,Homestead,FL,33034,United States
+f9590d8c-27d3-44b0-a600-768bfc4927bb,**0875******4930,09/29/2021,8:17:47,$23.50,Swipe,Rutherford Inc,Oakland,CA,94611,United States
+65a29586-ca97-46b3-9b7b-702fc39585d3,**4837******2007,02/23/2021,6:50:00,$163.82,Tap,Baumbach LLC,Chicago,IL,60669,United States
+772ed917-ced7-41f2-9c27-33c5ca110750,**4837******5266,12/23/2020,9:04:15,$69.87,Tap,"Kirlin, Feeney and Skiles",Salt Lake City,UT,84120,United States
+4f74d9bb-7906-445f-8c79-891a63af9051,**0875******9131,08/08/2021,13:39:29,$164.43,Tap,"Leffler, Legros and Will",Pasadena,CA,91117,United States
+f7db8afc-194a-42c1-bdf6-201b535a4993,**4837******0988,02/28/2021,1:15:14,$167.38,Tap,"Luettgen, Yundt and Brown",Alexandria,VA,22309,United States
+d9b852da-ffa9-4995-952d-d52bd55c20ca,**4837******8676,03/06/2021,0:32:27,$205.41,Swipe,"Stamm, Strosin and MacGyver",Irvine,CA,92710,United States
+4123b8e4-f9db-4162-b400-fb6e13dc8d70,**0875******8699,09/17/2021,20:51:36,$89.36,Tap,Hirthe-Bednar,Stockton,CA,95205,United States
+9028208d-fff5-466f-84fe-47aaf06d09e9,**0875******2017,06/10/2021,13:09:10,$98.18,Tap,"Champlin, Gulgowski and Gorczany",Denver,CO,80223,United States
+c8fb0f1a-d287-44e1-92f5-9707c15d83ef,**0875******6400,02/14/2021,19:13:14,$131.96,Tap,Kulas Inc,Dallas,TX,75353,United States
+80048df5-f277-44df-8167-0f266e822fed,**4837******5212,06/27/2021,21:54:26,$22.64,Swipe,Jenkins and Sons,Denver,CO,80204,United States
+cad1d6a7-541a-4359-ad5a-1e0cbf40413c,**4837******8295,10/14/2021,4:12:44,$185.54,Tap,"Crona, Maggio and McKenzie",South Bend,IN,46614,United States
+ac7f61a8-c9a4-453c-bf4d-4a855f143c3e,**0875******2399,09/09/2021,4:24:38,$105.11,Swipe,Lemke-Adams,Chicago,IL,60674,United States
+b6394784-264a-4067-a182-a12024b93204,**0875******7489,01/13/2021,15:43:50,$86.41,Tap,"Rowe, Kautzer and Botsford",Minneapolis,MN,55446,United States
+ed4e2dce-b536-4daa-b237-75cabcdf0c0c,**0875******0465,03/20/2021,8:45:40,$208.49,Tap,Watsica-Donnelly,Huntsville,AL,35895,United States
+d8a3273d-b862-4d89-8ac2-997dda1827f2,**4837******5732,04/14/2021,0:57:39,$83.41,Swipe,"Brakus, Kemmer and Strosin",Washington,DC,20067,United States
+670a7ee8-f67c-49d3-b981-41616ae0d2e2,**4837******6322,04/08/2021,0:07:32,$105.53,Tap,Jacobson-Braun,Sacramento,CA,94280,United States
+d55abce5-4dcb-4ede-a27e-bdf62bfaa54b,**0875******8933,05/13/2021,17:58:52,,Swipe,Rohan Inc,Atlanta,GA,31106,United States
+b31e73d8-b98f-4b7e-9666-781ef97d223c,**0875******0354,11/22/2021,8:44:45,$220.41,Swipe,"Zboncak, Schmidt and Rosenbaum",Los Angeles,CA,90005,United States
+6cfcfe75-a390-4a8a-9bd6-3148e922a541,**4837******2351,02/11/2021,14:02:00,$70.25,Swipe,Kohler Group,Los Angeles,CA,90035,United States
+252f67eb-ed35-424d-b6e1-00c7dc1b936b,**4837******9569,02/12/2021,23:11:27,$194.85,Swipe,Quigley Inc,Amarillo,TX,79116,United States
+6eadd95b-aa32-4e2f-a086-a9fc486ca5e8,**4837******6749,,,$52.74,Tap,Schuppe and Sons,Gilbert,AZ,85297,United States
+20fe31cf-d88f-4364-84f2-0049676dc4c2,**0875******3095,10/24/2021,9:49:40,$57.93,Swipe,Romaguera-Upton,Norwalk,CT,06859,United States
+823a446e-5b86-4bad-98cd-127bc008f0bc,**0875******9906,11/23/2021,1:45:04,$190.76,Swipe,Kuphal Group,Oxnard,CA,93034,United States
+40a4bd6e-9953-4e85-81d6-52329eda7204,**4837******4615,,,$43.45,Tap,Crooks LLC,Cincinnati,OH,45249,United States
+f8e251b7-71ca-414b-8e0e-7dcfb391d5c9,**4837******9843,08/01/2021,9:46:40,$92.00,Tap,"Larson, Weissnat and Mraz",Tucson,AZ,85715,United States
+d81cf330-b4c0-45c3-b5aa-4bd7b6a32842,**0875******7889,03/11/2021,20:06:36,$139.15,Tap,"Gulgowski, Will and Schulist",Monroe,LA,71213,United States
+7ecc6683-1fa5-4c7f-a063-bcfcabeb5a06,**4837******7619,07/27/2021,23:25:42,$244.19,Swipe,Lesch-Fadel,Birmingham,AL,35225,United States
+edaf1606-f803-414c-8e42-f0e9f9bd457d,**0875******7893,06/07/2021,5:11:09,$117.80,Tap,Hettinger-Borer,Greensboro,NC,27415,United States
+c51d8662-4943-4695-b8f3-36b49a3fd81c,**0875******6397,03/23/2021,10:14:47,$171.38,Tap,Krajcik Inc,Watertown,MA,02472,United States
+af8eab4f-0a7c-4c97-8e6c-715d0612c554,**0875******1253,06/28/2021,1:41:53,$137.94,Tap,Bayer-Will,Saint Louis,MO,63180,United States
+d44e3d6a-bea9-4b39-81d8-a02e3929b4f0,**0875******3536,06/20/2021,8:21:06,$136.09,Swipe,Huel-Treutel,Boise,ID,83727,United States
+a4e73a14-63df-4c6c-b012-0435949a7eb2,**0875******8094,11/25/2020,12:26:37,$184.03,Swipe,Shanahan-Emard,Albany,NY,12222,United States
+bf108720-5810-429e-8667-7e65e60d35e4,**0875******7147,04/09/2021,6:59:06,$87.39,Tap,McGlynn-Kohler,Albuquerque,NM,87121,United States
+1e07fb2b-610b-4b46-af9c-f74bfd4d11a0,**0875******1141,02/10/2021,10:45:46,$34.79,Tap,Hintz-Parisian,Evansville,IN,47725,United States
+ab25de03-838f-40e6-9669-3b57487a9a52,**0875******9966,09/21/2021,3:26:36,$72.81,Swipe,"Crooks, Kuhic and Zemlak",Austin,TX,78710,United States
+684025de-eb06-415b-bbe5-40d4d99d253c,**0875******1332,05/25/2021,8:01:22,$52.92,Tap,,Boulder,CO,80328,United States
+39b47d44-2228-4f87-bb9e-930d819649cd,**4837******0436,12/04/2020,7:25:35,$131.33,Tap,Dickinson Group,Jacksonville,FL,32204,United States
+4d9e9277-a316-4ca0-91d7-e6d4ddd37dc4,**0875******1633,06/13/2021,10:34:30,$212.15,Tap,Weber Group,East Saint Louis,IL,62205,United States
+5c9b89be-dd0c-4f91-b46b-1aa410937c5f,**0875******7479,08/26/2021,3:10:34,$20.79,Tap,Blick-Pagac,Des Moines,IA,50362,United States
+bccbc6a6-dcae-4d2e-b8ba-e5329665f301,**0875******3267,10/20/2021,12:15:14,$153.59,Swipe,D'Amore-Huels,Paterson,NJ,07544,United States
+0a988b7d-6810-4f71-a81f-2308f0b34c31,**0875******8225,08/10/2021,3:09:43,$81.91,Tap,Koch Inc,Modesto,CA,95354,United States
+9a2349b5-bdf4-4dc9-b7a6-064a4ce1fe96,**4837******4424,10/03/2021,15:24:30,$120.50,Tap,"Goodwin, Turner and Corwin",Kalamazoo,MI,49048,United States
+b5b51d1a-5407-4fd6-b8fb-e87db4095a6a,**4837******9715,05/16/2021,5:42:59,$72.78,Tap,Halvorson-Yost,Sacramento,CA,95833,United States
+09479146-c3ce-4e9d-8e95-650d1548afa8,**4837******5620,09/28/2021,8:08:47,$52.54,Swipe,Sanford Inc,Saint Paul,MN,55103,United States
+3a384303-7467-4347-898e-f6e50f263bd3,**4837******5276,03/14/2021,15:20:05,$255.56,Swipe,Schoen and Sons,Colorado Springs,CO,80910,United States
+8df11361-fc12-43a3-8a8a-64045c24ec61,**0875******2258,06/04/2021,9:50:34,$245.68,Swipe,"Bergnaum, Gleichner and Friesen",Brooklyn,NY,11236,United States
+979ebc94-db9d-4571-a5b4-7eb6c35f46cc,**4837******7931,09/30/2021,3:30:48,$168.25,Swipe,"Cruickshank, Thompson and Gulgowski",Dallas,TX,75210,United States
+78588808-499f-46d0-b491-e95a320b260a,**4837******8664,01/20/2021,13:04:53,$221.15,Swipe,"Walsh, Blick and Mayer",Huntsville,AL,35815,United States
+e04f291e-da62-46e7-a517-092fd7235814,**0875******2159,09/30/2021,2:45:43,$112.44,Swipe,"Ruecker, Rath and Hills",Austin,TX,78764,United States
+0768c633-2f6d-4493-985c-2f81d167fbf7,**0875******0258,08/21/2021,7:26:32,$225.66,Tap,"Nicolas, Weissnat and Bogisich",New Bedford,MA,02745,United States
+8e9a63d2-3a53-4129-9792-59ab8f457892,**0875******2638,08/05/2021,9:00:30,,Tap,Orn LLC,Columbia,SC,29225,United States
+85c19c1c-467d-4e8d-8380-9f810c1bc8dc,**0875******8241,04/25/2021,13:51:09,$213.85,Tap,Boehm-White,Elizabeth,NJ,07208,United States
+ccdbb8d0-7556-4268-a4a0-d82a774a7634,**0875******5140,06/03/2021,7:24:42,$156.90,Tap,"Pacocha, Reinger and Swift",Fort Worth,TX,76121,United States
+20b6792e-7498-4263-a08e-8a8e7072fb5e,**4837******5571,09/25/2021,16:29:29,$126.87,Tap,Bode Group,Memphis,TN,38197,United States
+78a2f4b0-125f-4660-a3e7-59d25ce497de,**0875******4620,10/23/2021,5:27:17,$165.64,Tap,Ullrich and Sons,Baltimore,MD,21281,United States
+35136ae0-c49c-4c11-a132-0ef4f1cb1cc3,**0875******4797,11/20/2021,19:34:41,$78.86,Tap,"Spencer, Balistreri and Crona",Shawnee Mission,KS,66210,United States
+4cc237e1-b19d-43f7-834f-74ee12e71469,**0875******4599,03/16/2021,11:56:30,$127.41,Swipe,Fritsch Group,North Hollywood,CA,91606,United States
+1f218961-cfd4-4c45-8e89-3181ab34ef5c,**0875******7694,03/16/2021,16:27:44,$222.97,Swipe,"Monahan, Hettinger and Reichel",Johnson City,TN,37605,United States
+c9dd60cc-3c08-431d-8ff1-cdcf7f016f06,**0875******2504,03/09/2021,18:46:28,$109.94,Swipe,Satterfield-Torphy,Beaufort,SC,29905,United States
+fdcdd5f5-4bbd-4fed-a3dd-b5493b8cf07f,**4837******1194,02/26/2021,3:46:55,$219.91,Tap,Nolan and Sons,Nashville,TN,37215,United States
+8d8351ec-cf59-44e4-b452-2d5d8b775dd2,**4837******9411,12/23/2020,20:21:42,$216.11,Tap,Kris and Sons,Washington,DC,20051,United States
+7c42727a-571a-4d29-9a91-5ff33f7bdbcd,**0875******2253,04/28/2021,1:37:09,$17.63,Tap,"Bradtke, D'Amore and Ortiz",Richmond,VA,23228,United States
+eba13eea-83ea-4fe2-a35f-14a3b09480ed,**0875******4597,11/22/2021,5:57:28,$242.37,Swipe,Boehm-Jacobi,Washington,DC,20036,United States
+203e3fc4-012a-4f6b-98c8-21d7a4efbca8,**4837******6475,12/13/2020,20:07:45,$230.31,Tap,"Goldner, Dietrich and Kutch",Amarillo,TX,79165,United States
+2891acd6-9d26-4c84-aec9-23d46f3a3bb9,**4837******9866,04/16/2021,5:43:20,$123.01,Swipe,Conroy Group,Roanoke,VA,24024,United States
+6211d6cd-cba0-4c27-b3c5-20a97d8f674a,**0875******9208,12/18/2020,4:37:21,$23.43,Swipe,Turner Group,Escondido,CA,92030,United States
+75ff8411-6a97-4c51-b61f-09a63a207acc,**0875******0679,08/07/2021,1:01:12,$209.30,Tap,"Gutkowski, Bergstrom and Wilkinson",Nashville,TN,37215,United States
+ff27bc1a-c6d1-40b9-80d5-28bec7377b09,**0875******6671,02/28/2021,15:57:46,$158.17,Tap,Flatley Inc,Bridgeport,CT,06606,United States
+480ebe32-7470-4c7b-b3d6-acb5aeef405d,**4837******4799,09/10/2021,12:56:37,$47.41,Tap,"Botsford, Durgan and Hintz",El Paso,TX,79923,United States
+4dedde65-abc7-4b62-a3fe-233805f48f11,**0875******5026,01/10/2021,9:20:31,$57.97,Tap,"Grady, Durgan and Kuphal",Erie,PA,16505,United States
+fcabef36-b0aa-4e83-81f4-261b19038a3e,**4837******3327,12/03/2020,9:35:38,$62.91,Swipe,"Mueller, Maggio and Pfeffer",Shawnee Mission,KS,66220,United States
+13b4b010-c6f0-41cd-9e61-5220fc3f81e3,**0875******2325,01/21/2021,17:14:22,$109.67,Swipe,Sawayn-Torphy,Albuquerque,NM,87201,United States
+ceeeb95a-5791-45e2-ae72-cdbcf7c0e74f,**0875******6612,05/12/2021,8:10:51,,Tap,"Skiles, Cronin and D'Amore",Tulsa,OK,74184,United States
+9a2f7f60-6425-4f8c-9fd4-6c2253106fb8,**0875******1580,02/16/2021,20:06:56,$131.45,Tap,Bayer-Rempel,Springfield,IL,62776,United States
+47c27006-2eb2-41b3-a699-bf2398ffbed4,**4837******5782,04/01/2021,3:09:55,$20.42,Swipe,"Zboncak, O'Kon and Lynch",Los Angeles,CA,90035,United States
+baefeb41-397d-4bd8-8218-16800bd6a1f9,**4837******6900,05/23/2021,9:11:33,$33.27,Swipe,Swaniawski LLC,New Orleans,LA,70154,United States
+ad8be4ce-c7d0-471d-bc6c-6b6d1e2c17fd,**0875******7498,,,$247.46,Tap,"Boehm, Simonis and Torphy",Washington,DC,20046,United States
+8cfabf30-d800-4ce9-acb6-564a2d383769,**0875******4056,12/22/2020,0:49:05,$100.44,Swipe,Mayer-Purdy,Waco,TX,76796,United States
+0fb4399b-2848-4a6f-90bc-3dcd5220ab36,**4837******3228,02/27/2021,17:24:09,$136.92,Swipe,White-Hansen,Santa Monica,CA,90410,United States
+dfd7e64b-e831-454c-8fd6-fe96012c2cac,**0875******7562,09/28/2021,1:47:23,$17.81,Swipe,"Daniel, D'Amore and Torphy",Charlotte,NC,28299,United States
+bff8bce6-6b61-4e86-b5aa-1fa5750d936e,**0875******9667,01/29/2021,19:33:23,$117.63,Tap,Gottlieb-Weissnat,Las Vegas,NV,89145,United States
+6cf3a458-a536-4538-9a6f-5487cf1ffb8f,**0875******6742,08/17/2021,5:29:19,$144.91,Tap,"Trantow, Kilback and Jerde",Springfield,MA,01129,United States
+2ba7ec81-bb45-4917-955c-a1827c1c7fbe,**4837******6786,09/06/2021,6:28:48,$102.08,Tap,Stracke-Reinger,Phoenix,AZ,85030,United States
+2e265f81-83f2-4bfb-8436-d779c5db9850,**4837******8712,10/07/2021,22:52:09,$97.23,Swipe,Casper-Kerluke,Greenville,SC,29615,United States
+706596c6-5608-47af-9463-805b1a61a4bd,**0875******8808,08/30/2021,15:22:55,,Swipe,"Dickinson, Crooks and O'Hara",Sioux Falls,SD,57188,United States
+8635ab26-eadb-40af-a498-5555722c6b92,**0875******2241,01/02/2021,1:16:46,$61.35,Swipe,Rolfson Inc,Washington,DC,20238,United States
+306e4667-f362-4c0e-b60f-a42f60c301a7,**0875******0081,06/21/2021,23:29:27,$124.50,Tap,Heller-Cassin,Houston,TX,77201,United States
+2fa720fd-0334-46e3-8cb4-05c30cb4e273,**0875******4544,07/27/2021,22:56:50,$135.16,Tap,Jenkins-Von,Portsmouth,NH,00214,United States
+ae426c53-21f2-40f3-af39-5ddaf5214ec0,**4837******7238,12/09/2020,8:58:06,,Swipe,Homenick-Watsica,New Orleans,LA,70149,United States
+6b3f0424-a837-4f64-95ca-4aecad198ffa,**0875******9507,04/28/2021,14:09:59,$28.39,Swipe,Hansen Inc,Fort Myers,FL,33913,United States
+ada2483a-b851-4017-9b53-b13306f013bd,**4837******3963,08/09/2021,4:53:55,$38.84,Swipe,"Kuhn, Larson and O'Hara",New York City,NY,10203,United States
+894ee596-624d-4767-aa02-23606309d3c8,**4837******8258,04/18/2021,19:53:59,$113.03,Tap,Denesik Inc,El Paso,TX,79950,United States
+2a86fffa-1432-4737-be01-0e313ffd9dc6,**4837******2874,09/19/2021,12:13:24,$170.10,Tap,Nolan-Runte,Madison,WI,53705,United States
+fee2bd4c-5b2d-4aaf-b4de-78360c13150c,**4837******6950,09/25/2021,20:19:40,$166.38,Swipe,Becker-Miller,New Hyde Park,NY,11044,United States
+a1622ed1-1343-432b-826a-4166fcb52f9f,**0875******4707,11/26/2020,18:19:35,$230.44,Tap,Goodwin LLC,Wilmington,NC,28405,United States
+fcb0605a-984a-4a3b-a56e-b6aeb83a5481,**4837******5189,09/02/2021,13:53:27,$117.00,Tap,Murphy LLC,Dallas,TX,75397,United States
+e6c621b0-5924-4129-8dba-d43a477e4e69,**0875******1448,11/10/2021,19:36:20,$161.73,Swipe,"Kilback, Klocko and Zieme",Tucson,AZ,85754,United States
+6cf3e0ab-4a89-4c79-8f91-ee045ef2bd11,**4837******7352,10/21/2021,21:40:39,$224.04,Swipe,Stracke Inc,Dallas,TX,75226,United States
+84862cf9-bb31-4ea3-9505-b6e812816c43,**0875******6066,08/18/2021,13:49:07,$58.08,Swipe,"Hegmann, Watsica and Kuhic",Panama City,FL,32405,United States
+1eed64d5-e63f-4bb8-91d8-1b57ae0b2686,**0875******8817,06/18/2021,4:00:22,$148.45,Swipe,Schuppe-Krajcik,Pittsburgh,PA,15266,United States
+3a9fd2bb-1647-4e92-827e-728d502e5302,**0875******1097,07/19/2021,13:20:31,$122.95,Tap,Boehm-Kris,Saint Louis,MO,63126,United States
+77953c7c-2a00-4aa7-ac54-b1a90fddc109,**0875******0903,09/18/2021,18:10:15,$30.61,Tap,"Durgan, Tremblay and Green",Spokane,WA,99260,United States
+d000bc0b-ef6e-4d5b-be53-a0683bdff158,**0875******1062,06/26/2021,7:38:48,,Tap,"Kessler, Metz and Welch",Chicago,IL,60641,United States
+6c71fbab-669b-4e8b-8942-ef3918e835b5,**4837******0582,12/01/2020,4:11:02,$151.09,Tap,Shields LLC,Cincinnati,OH,45208,United States
+9ad1ba02-eae9-4546-935e-1539e4018919,**0875******1304,07/05/2021,18:08:55,$244.28,Tap,"Nader, Fisher and Wiegand",Indianapolis,IN,46278,United States
+708825c0-cc77-4df5-9102-1933f365aa22,**4837******5394,01/24/2021,0:24:19,$130.92,Swipe,Halvorson-Littel,Washington,DC,20420,United States
+bc182523-d1e7-47fc-bc89-1b51350ab32a,**0875******5495,05/23/2021,10:28:32,$18.70,Swipe,Prosacco-Murphy,San Jose,CA,95173,United States
+fc4aead3-764d-47d6-8cc5-f481c2f2bb93,**0875******5166,06/25/2021,22:10:10,$66.78,Tap,Morissette Group,Newark,DE,19725,United States
+5721ba65-8370-4a0e-9b48-fed986d0baf9,**0875******8734,05/11/2021,4:58:00,$34.21,Swipe,"Douglas, Beahan and Moen",Peoria,IL,61656,United States
+68a5aaf9-5c13-47ae-af0f-2cec96f4f26f,**0875******9044,01/10/2021,6:19:28,$167.91,Swipe,Mills LLC,Macon,GA,31210,United States
+592e0428-21c6-4994-adb0-849abb779ddd,**0875******2449,05/11/2021,23:44:40,$131.55,Swipe,Jakubowski-Hegmann,Carson City,NV,89714,United States
+b54bdbc2-9c91-4b47-8bc3-326bdf328741,**0875******3725,07/20/2021,10:57:02,$165.61,Swipe,Wilkinson LLC,Lincoln,NE,68510,United States
+1d4c46aa-ff82-452f-b5e2-78c1dabfde2a,**0875******1425,05/01/2021,9:07:13,$236.14,Swipe,"Keeling, Kohler and Leannon",Charleston,WV,25389,United States
+76c6acdd-1c8a-48e0-936b-5b4b74386e41,**4837******0274,10/02/2021,20:48:23,$108.25,Tap,Cole-Dicki,Clearwater,FL,33758,United States
+605c2b70-81bb-4e37-87fd-495e5d1918c3,**4837******3341,03/22/2021,21:43:26,$245.21,Tap,"Reinger, McLaughlin and Kub",Washington,DC,20535,United States
+2d027bc9-f805-4f4c-95d3-f99fea955e3b,**0875******9628,04/18/2021,12:43:01,,Tap,Kulas Inc,Brooklyn,NY,11236,United States
+3579e443-6f7c-4877-bf0a-f7977290b9ca,**0875******9676,04/22/2021,17:56:08,$17.18,Tap,"Kovacek, Schneider and Casper",Portland,OR,97271,United States
+9f443380-54e3-4e95-b99d-35a99eba5fb4,**4837******5934,02/21/2021,6:17:47,$92.24,Swipe,"Howe, Veum and Howell",Pasadena,TX,77505,United States
+3c3ae78c-9759-48fa-a282-eca09dcfd124,**0875******2318,12/08/2020,10:06:46,,Tap,,Conroe,TX,77305,United States
+6cb5a1d6-ba6b-48da-96c4-11dd2478f9c9,**0875******1358,09/27/2021,6:24:32,$152.39,Tap,Prohaska-Cormier,Las Vegas,NV,89155,United States
+6b75e2fe-91c9-495e-891e-f034cad26b98,**0875******3468,11/17/2021,10:19:34,$130.45,Tap,Nienow and Sons,Charleston,WV,25362,United States
+e1be2185-6715-401f-b559-a80f65754bdb,**4837******7923,08/18/2021,3:29:38,$28.83,Swipe,"Kuhlman, Ward and Dach",Manchester,NH,03105,United States
+6f1872cb-4a22-4cfb-8241-68510c3c7ce5,**0875******9031,08/14/2021,9:32:45,$22.70,Tap,Schuppe LLC,Las Vegas,NV,89160,United States
+fab0503e-e177-4336-9160-1d08c65b6dd3,**4837******2731,03/22/2021,11:25:23,$104.79,Tap,Upton-Fritsch,Miami,FL,33134,United States
+e65a19cb-e36a-4d49-8d38-98b99a51fb81,**0875******5286,01/15/2021,2:06:37,$210.04,Swipe,"Ward, Bauch and Denesik",Charlotte,NC,28247,United States
+01edfd51-0e16-4d42-852b-98825a3582dd,**4837******0486,05/13/2021,12:42:20,,Tap,"Parisian, Abshire and D'Amore",Ventura,CA,93005,United States
+80212c37-5a05-4242-a504-94c5e8a4094a,**0875******4874,07/02/2021,5:01:30,$141.51,Swipe,"Hand, Windler and Shields",San Bernardino,CA,92424,United States
+38e3b127-ec3d-4cd6-90d2-a20f2de7d4d9,**4837******4258,10/07/2021,10:06:31,$151.74,Swipe,Braun-Thiel,Evansville,IN,47705,United States
+33d6db7c-875d-470f-90cc-83f4a22a73f3,**0875******1732,03/13/2021,19:32:01,$140.28,Tap,Wunsch LLC,Dallas,TX,75353,United States
+04798ad4-2125-4cc5-8c29-eb426f485c62,**0875******8757,06/08/2021,15:24:06,$203.52,Tap,Stark-Beahan,Charlotte,NC,28205,United States
+6ba091a8-410d-4152-b36d-44d98b102382,**4837******9223,07/23/2021,19:52:58,$133.50,Tap,Schowalter-Flatley,Houston,TX,77045,United States
+4fabf28d-ae56-484a-9ec5-8b3043fa79aa,**0875******3370,01/08/2021,9:33:54,$142.96,Swipe,Gislason-Steuber,Lafayette,LA,70593,United States
+78d76409-f90b-40cc-ba2e-87ac5b4f9208,**0875******9495,08/02/2021,18:12:29,$164.29,Tap,"Mohr, Brekke and Goldner",Los Angeles,CA,90055,United States
+af3c4ea2-9dac-4f72-870a-0c1f509e821e,**0875******6389,08/06/2021,3:12:18,$25.82,Swipe,"Rutherford, Schowalter and Gutmann",Alexandria,VA,22333,United States
+ef31ad29-4c34-4dba-8cb4-58d98b6c4b3c,**0875******4636,,,,Swipe,"Kuhic, Willms and Lakin",Simi Valley,CA,93094,United States
+47a5f24d-b2ab-4cc2-a738-fd938a00a83a,**0875******6432,12/09/2020,15:16:01,$228.72,Tap,Orn-Stamm,Waterbury,CT,06721,United States
+56934bc2-c4fe-4cba-9399-372a9d882dd9,**4837******0047,09/15/2021,13:06:35,$165.26,Tap,VonRueden-Simonis,Topeka,KS,66667,United States
+ac00b51d-c168-46b7-a516-ba758ae2fe2f,**0875******9007,12/28/2020,8:08:14,$124.39,Swipe,Leannon-Moen,Arlington,VA,22234,United States
+b43fa996-4b85-45f7-87af-2508c6019c21,**0875******5199,08/08/2021,15:49:25,$67.60,Swipe,"Ratke, Jaskolski and Von",Washington,DC,20566,United States
+b1018a51-43e2-44e5-b00a-a719a3df65a9,**0875******8541,12/08/2020,12:40:50,$137.23,Swipe,Skiles Group,Akron,OH,44315,United States
+671fa95e-d22a-4747-a438-f059ab3e9610,**0875******3615,04/17/2021,3:25:20,$207.82,Swipe,"Willms, Lang and Little",Arlington,TX,76096,United States
+39836ec2-f68f-48ce-81b1-62ba0731f3ff,**4837******1266,05/04/2021,8:14:46,$130.66,Tap,Cormier-Hickle,Sacramento,CA,95865,United States
+c5eb7fe6-8b4f-4555-88f2-dd5aece7c0e5,**4837******6809,07/06/2021,16:04:23,$117.64,Swipe,"Aufderhar, Jakubowski and Cole",Birmingham,AL,35290,United States
+8fd361c1-fb98-4432-be8e-d2846cbfee7d,**4837******0091,10/06/2021,18:10:07,$67.56,Tap,Becker-Langworth,Seattle,WA,98195,United States
+0c952b82-74ba-4b3b-82a1-a1394a17cb09,**4837******0758,08/10/2021,9:12:05,$215.77,Swipe,Buckridge-Price,Denver,CO,80270,United States
+c78c74a3-3036-47f5-9c9c-82eaad033ce2,**4837******9113,04/13/2021,18:10:06,$219.85,Tap,Graham Inc,Phoenix,AZ,85077,United States
+dad7c35d-1c27-4b5a-a3b4-84f7f45aae23,**0875******8436,05/23/2021,6:41:02,$229.54,Swipe,"Homenick, Lemke and Casper",Birmingham,AL,35290,United States
+0fd26c7c-dee7-4266-92a7-9588608dffb2,**4837******4823,11/30/2020,14:27:40,$214.15,Swipe,West LLC,Harrisburg,PA,17140,United States
+5bf1197c-b62c-43fa-a8e1-a4969c62def7,**0875******1694,07/23/2021,16:17:14,$71.36,Swipe,"Murazik, Runte and Kreiger",Lexington,KY,40505,United States
+9f6b841d-7514-4b37-b0b2-995c0a2cff24,**4837******5458,03/10/2021,6:12:28,$176.35,Swipe,Kovacek-Kuvalis,Durham,NC,27710,United States
+831326ed-1fb8-4229-afab-68497dda99c7,**0875******8521,,,$131.37,Swipe,Gutmann Inc,Alpharetta,GA,30022,United States
+84a316f8-3255-4969-820a-6982516f376c,**0875******9111,01/21/2021,23:54:28,$242.51,Swipe,Morissette LLC,Midland,TX,79705,United States
+ec91775b-589e-4c06-a634-4ae6e94706a8,**0875******4795,11/12/2021,19:30:44,$73.41,Tap,Huel and Sons,Columbus,OH,43268,United States
+3b368d69-3bfd-4261-a95b-f6fe61c23a9a,**4837******3517,01/08/2021,17:49:36,$197.45,Swipe,Spencer LLC,Salt Lake City,UT,84105,United States
+52c0d9f7-7282-460e-a551-f1dbf1551242,**4837******6750,07/29/2021,15:28:08,$218.29,Swipe,Larson Inc,Tulsa,OK,74184,United States
+3cf03d88-4823-4ded-ae6f-f708d8997057,**0875******6509,,,$35.29,Swipe,"Emard, Stokes and McDermott",Madison,WI,53705,United States
+fd111ed5-bec7-4bfd-9891-afee351990e6,**4837******8677,08/18/2021,2:25:00,$136.75,Tap,Gibson-Runolfsson,Brooklyn,NY,11225,United States
+223eb0fb-ac81-4cf0-b77a-55ee35b0c1ec,**0875******7097,10/01/2021,11:50:19,,Swipe,"Mertz, Klocko and Durgan",Corpus Christi,TX,78405,United States
+c4d747b5-22d7-40cd-b7da-43b5006c2d2b,**0875******6966,04/20/2021,19:22:53,$98.01,Tap,"Marks, Jacobson and Hirthe",Louisville,KY,40233,United States
+0958d10a-65ee-431c-852e-085ecff03d0e,**0875******4106,09/01/2021,12:29:57,$222.57,Tap,Veum-Heller,Dallas,TX,75397,United States
+354d27d0-9416-4ed5-a137-6ab0e7cb1499,**0875******2348,09/09/2021,10:09:40,$114.02,Tap,Morar-Daugherty,Mobile,AL,36628,United States
+1065a1aa-1c85-4b5c-b3d4-db4300dc208c,**4837******0397,08/24/2021,8:00:45,$192.65,Tap,Rolfson Group,Lawrenceville,GA,30245,United States
+e1377b45-bbe6-4beb-bea5-24291874ff31,**4837******0759,01/27/2021,18:12:49,$65.44,Swipe,"Hane, Funk and Fay",Wichita,KS,67260,United States
+c6c31623-d364-49c9-8b8c-f44e5a188e45,**0875******3391,12/06/2020,14:54:13,$122.30,Swipe,Koepp-Rohan,Washington,DC,20073,United States
+8081ca42-7933-47e2-854a-e135465f16cf,**0875******0706,05/09/2021,10:29:30,$13.54,Swipe,"Conroy, Kilback and Balistreri",Lake Worth,FL,33462,United States
+aac6d121-f6af-4237-a543-3aff369b6214,**0875******4169,10/30/2021,12:15:12,$235.45,Tap,Spencer-Keebler,Saint Louis,MO,63104,United States
+2bdef2ae-1b59-4226-8374-fec700c43e89,**0875******6299,07/17/2021,11:25:58,$146.37,Tap,Gibson and Sons,Bakersfield,CA,93311,United States
+7f0ba996-66fd-4cf4-830d-d28fbb457025,**0875******9193,11/10/2021,6:17:47,$238.51,Swipe,Barrows Group,Lubbock,TX,79415,United States
+db420444-205a-4c7c-b270-ae4a0dbff3e9,**4837******5201,12/27/2020,5:12:44,$26.74,Tap,Jaskolski Group,Fort Lauderdale,FL,33310,United States
+18f61e4f-0b16-4bc8-bb97-3f7dd23beddb,**0875******4496,02/20/2021,21:40:17,$66.12,Swipe,Lockman-Feeney,Fort Lauderdale,FL,33336,United States
+bb7fa227-e7e0-4184-9fdd-accfadbfd17d,**4837******9711,07/12/2021,13:13:15,$39.91,Tap,Dare LLC,Tacoma,WA,98424,United States
+83f0c723-e302-4d03-a743-4fbc8cd4be73,**0875******6070,07/11/2021,1:36:52,$101.39,Swipe,"Von, Vandervort and Shanahan",Anderson,SC,29625,United States
+216e9f21-37a7-4c5c-976f-af8728236299,**4837******3184,03/14/2021,18:03:31,,Swipe,Reilly-O'Conner,Green Bay,WI,54305,United States
+40517b36-9b46-4e9c-bef8-1a9ff3eae4ce,**0875******0973,10/01/2021,7:35:04,$138.19,Tap,Beer-Langworth,Orlando,FL,32859,United States
+fe538791-80fb-4328-a863-ac8fabebf646,**0875******9931,11/11/2021,11:12:23,$231.14,Tap,Christiansen Inc,Salt Lake City,UT,84140,United States
+c8daf8ac-fee1-4d29-9557-9582c9aa125c,**4837******8314,11/19/2021,16:40:51,$246.60,Tap,Schinner Group,Chicago,IL,60686,United States
+0f6a3c5c-6fbb-4d65-bdc8-2eea7242e50b,**0875******1930,01/24/2021,3:04:38,$79.21,Swipe,"Abshire, Marks and Paucek",Jamaica,NY,11447,United States
+12a4fbcd-181c-4f38-8803-71382b9d4256,**4837******1578,10/14/2021,21:34:54,$62.65,Tap,"Von, Kutch and Flatley",Jackson,TN,38308,United States
+b823c84f-8a17-4255-849f-25c3aa2b7485,**4837******5727,05/26/2021,20:53:44,$91.46,Swipe,Kulas LLC,Fresno,CA,93786,United States
+19e2310d-139f-480f-b574-aaee9cb44099,**0875******7025,08/09/2021,19:17:59,$150.65,Tap,"Glover, Friesen and Boyle",Hot Springs National Park,AR,71914,United States
+a3439a69-2653-4339-8c6f-687d6dda7e56,**4837******9317,03/10/2021,1:53:52,$98.44,Tap,Gutkowski-Rosenbaum,Cincinnati,OH,45264,United States
+5fc38375-30d1-4ffa-992e-1e4967bfdb76,**4837******9849,08/03/2021,21:39:38,$104.45,Tap,"Bode, Pouros and Herman",Young America,MN,55573,United States
+5d135254-2724-4e23-9278-415081a3c058,**0875******0072,03/21/2021,9:11:55,$238.18,Swipe,Tillman-Leuschke,Charleston,SC,29403,United States
+574b2fef-a87d-4ce4-aed0-e7485a9158b4,**0875******2544,01/17/2021,21:03:50,$192.40,Swipe,Hickle Inc,Greensboro,NC,27499,United States
+9a638e00-d90b-4fd5-aa54-d13b3f980078,**4837******3332,06/16/2021,2:03:09,$226.57,Tap,Satterfield-Kutch,Valdosta,GA,31605,United States
+5863ef98-0029-4094-834d-18f7ab26c993,**0875******7584,03/03/2021,1:20:30,$167.54,Swipe,Cronin and Sons,Muskegon,MI,49444,United States
+7d02ad93-e3b5-4c8b-984f-130389da17c1,**0875******3218,12/31/2020,12:18:29,$141.04,Tap,Davis-Langosh,Atlanta,GA,30306,United States
+96ed766d-98c8-412b-8592-9058287cd4a9,**4837******8092,02/11/2021,18:51:08,$209.70,Swipe,,Temple,TX,76505,United States
+35439359-4cc6-47a6-9290-785eaff9843e,**0875******6630,06/03/2021,12:06:47,$55.61,Tap,Rutherford Inc,Murfreesboro,TN,37131,United States
+2a427210-c44d-400d-8945-8415dc027996,**0875******8211,10/12/2021,1:13:28,$241.49,Swipe,Murphy-Rice,Miami,FL,33180,United States
+a481b7ef-2074-4bfa-813c-e7770e6938e1,**4837******6634,07/21/2021,17:59:37,$107.34,Swipe,Monahan-Ernser,Houston,TX,77223,United States
+70c19837-f8b6-4070-8490-0de52b8127c4,**0875******5488,04/01/2021,16:00:45,$38.55,Tap,Rempel and Sons,Kansas City,MO,64179,United States
+b62be99b-6e31-4120-966f-6d404134f078,**0875******2481,12/23/2020,1:54:37,$133.30,Swipe,Kiehn-Kling,Greensboro,NC,27409,United States
+f7060202-aae6-4912-8e99-ceee2b4ff0c8,**4837******0691,04/09/2021,18:48:15,$188.38,Tap,Miller-Runolfsson,Garland,TX,75044,United States
+113353e7-857d-4559-866b-9cea2a850f93,**0875******2900,12/22/2020,5:05:00,$215.18,Tap,Hane LLC,Palm Bay,FL,32909,United States
+f3559a61-3a69-4c36-96b1-cbafdd76cc8b,**0875******1659,03/19/2021,16:36:09,$180.69,Tap,Huel-Osinski,Albuquerque,NM,87195,United States
+d610d94f-3d4b-4b7e-8347-d570dfa25d67,**4837******2474,12/03/2020,23:30:56,$64.54,Tap,Becker and Sons,Dallas,TX,75372,United States
+8361a019-6779-4ad6-a2b7-9b81ee4dcc12,**4837******1234,11/17/2021,8:36:43,$114.01,Tap,"Gibson, Price and Kilback",Springfield,IL,62794,United States
+4e4144c1-33a4-466c-a7c8-f3d587c03941,**0875******3409,01/11/2021,20:53:02,$211.92,Tap,O'Reilly Group,Detroit,MI,48295,United States
+0029b1ec-731a-4ebb-ac40-395026f88bdb,**0875******2137,09/10/2021,9:12:58,$115.34,Swipe,"Lang, Boyer and Corkery",Omaha,NE,68144,United States
+2f213f86-7033-4d8e-8984-192e92028ba1,**0875******9001,02/22/2021,14:52:42,$113.97,Swipe,"Paucek, Witting and Parker",Fresno,CA,93740,United States
+1a089060-35a0-4890-a0ab-e048731b2b00,**4837******1354,10/06/2021,7:14:02,$102.28,Swipe,Turner and Sons,Lubbock,TX,79491,United States
+c137afb9-563e-4de2-a829-bd68c046558f,**4837******5028,07/23/2021,10:08:08,$97.39,Swipe,Wiza-Kessler,Omaha,NE,68164,United States
+b30d717f-c600-41ae-9528-50bd8e0a85f1,**0875******4916,04/05/2021,7:47:59,$204.59,Tap,Shields LLC,New Orleans,LA,70183,United States
+47ea4c10-dc51-48c7-a920-2577724700a8,**0875******1884,04/11/2021,0:23:50,$253.42,Swipe,Smitham-Kerluke,Kansas City,MO,64130,United States
+10b29f90-5f67-4b05-9b98-0b8bf537bea6,**0875******7307,09/12/2021,3:18:09,$63.31,Swipe,Krajcik and Sons,El Paso,TX,79916,United States
+e99ace57-04de-49fa-9aac-1a66bdcd4d4d,**0875******5149,01/16/2021,10:18:11,$149.22,Swipe,"Prosacco, Hills and Koepp",Vero Beach,FL,32969,United States
+9e752c2a-39cc-4e7d-a2f3-4d3f7bb46113,**0875******9876,03/29/2021,13:26:51,$181.58,Tap,"Erdman, Wisozk and Considine",Baltimore,MD,21281,United States
+5b6d3c81-1515-4798-942c-41f72eec283b,**4837******8245,01/05/2021,5:40:17,$131.26,Swipe,Miller-Watsica,Raleigh,NC,27605,United States
+69cfaeb5-f626-4f59-bec1-9283e72bec22,**4837******6952,10/24/2021,8:26:09,$246.98,Swipe,"Kerluke, McLaughlin and Rippin",Spartanburg,SC,29319,United States
+f876b447-7464-4afb-89fd-31a4df1c604a,**0875******7235,09/09/2021,19:29:21,$209.71,Tap,Morar Inc,Gainesville,GA,30506,United States
+0bcfbd37-333e-4e5d-ab03-9f1340f015d2,**4837******8050,01/03/2021,4:26:31,$172.40,Tap,Gutmann-Beer,Louisville,KY,40205,United States
+fae5c7f1-73d0-4dd1-9b43-e0d3bd55ac77,**4837******2103,09/11/2021,10:32:37,,Swipe,"Purdy, Stanton and Howell",Irvine,CA,92612,United States
+acc16b86-676e-444e-8cae-17808b7dbfab,**4837******2926,07/06/2021,13:12:40,$27.31,Tap,Hettinger and Sons,Indianapolis,IN,46266,United States
+8c3dc44f-d818-4d11-bfa3-567919ddd7df,**4837******8873,05/09/2021,1:36:41,$150.45,Swipe,"Baumbach, Murray and Hintz",Alexandria,VA,22301,United States
+d88fa0d8-014c-4c27-8369-b282bdf1ea64,**4837******1755,07/31/2021,2:59:19,$48.56,Tap,Johnson and Sons,Salt Lake City,UT,84130,United States
+07e0721f-ca35-4784-8b62-0a205cde3d8e,**4837******8390,01/28/2021,0:33:48,$207.78,Swipe,Bashirian Inc,Hyattsville,MD,20784,United States
+011a547c-af94-43a6-bd23-6c98e75766e0,**0875******5364,08/05/2021,2:47:34,$104.53,Tap,"Rice, Willms and Grimes",Miami,FL,33147,United States
+7315ab8c-ce8b-473a-b90d-66a3bce2ffd7,**0875******6465,08/08/2021,15:32:36,$173.47,Tap,"Roob, Nicolas and Berge",Houston,TX,77250,United States
+f1867d3b-703e-4a58-a200-ad8f5a338f21,**0875******0431,05/25/2021,11:51:19,$95.01,Swipe,Jerde-Sipes,Minneapolis,MN,55448,United States
+3946874a-74dc-4a51-9059-cf43df8b85d9,**0875******5698,08/09/2021,7:13:32,$211.29,Tap,O'Conner and Sons,San Antonio,TX,78240,United States
+d3361413-a3c2-4550-84cb-ee16ba1b2897,**4837******8744,05/17/2021,8:07:00,$27.39,Tap,"Franecki, Altenwerth and Reilly",San Antonio,TX,78215,United States
+18ecc4ae-1fa1-4a74-b311-4f8e164b53ea,**0875******7485,02/25/2021,17:33:49,$86.38,Swipe,Armstrong-Shanahan,Seattle,WA,98109,United States
+70f736c1-0733-4c5a-8f56-7a3f7afa6462,**4837******1738,06/20/2021,12:28:35,$129.06,Tap,Lueilwitz LLC,Hartford,CT,06120,United States
+84d9917c-76fb-40d9-b777-850aa9fb2960,**4837******5454,06/12/2021,23:32:01,$100.75,Tap,Rodriguez-Schinner,Peoria,IL,61651,United States
+29414c33-73d9-461c-9803-e1019899b1d6,**0875******2926,12/09/2020,1:02:34,$35.04,Tap,"Cole, Schmidt and Schneider",New Orleans,LA,70116,United States
+7d9c1119-0ddd-4a2f-bbb3-c5dbb7959ba7,**4837******6028,11/06/2021,20:26:13,$106.22,Tap,"Runolfsdottir, Jones and Beier",Huntington,WV,25775,United States
+5c9b97f3-2ea8-4680-a354-9612811e6cdc,**0875******1432,05/07/2021,22:24:57,$65.47,Swipe,Shields Group,Washington,DC,20591,United States
+e2b06ec4-349c-4e2b-8fb2-801ce9d310ed,**4837******9741,07/24/2021,18:33:24,$152.59,Tap,Lemke-Ondricka,Rochester,MN,55905,United States
+181812a0-2524-4752-ba32-bc6e52f36fdb,**0875******1964,03/03/2021,17:19:05,,Swipe,"Morar, Muller and Spencer",Moreno Valley,CA,92555,United States
+c2061b7e-5ba8-4cf2-8cbf-19c2b9db8d69,**0875******4848,03/28/2021,18:37:19,$207.60,Tap,Hickle-Funk,Dallas,TX,75216,United States
+7568b21a-cbb2-4168-a4db-069baed30a3d,**4837******3666,07/31/2021,14:37:03,$34.55,Tap,"Reichel, O'Reilly and Lynch",Wichita,KS,67215,United States
+ec96a4dc-a16d-477a-87ae-f815cf1880be,**0875******0098,02/27/2021,21:35:54,$183.05,Swipe,Graham Inc,Davenport,IA,52809,United States
+0c9d9714-4a10-44b0-8c93-ec413fc2fcf1,**0875******0575,05/18/2021,9:01:38,,Tap,Walker and Sons,Denver,CO,80223,United States
+b6163013-fa17-4b28-9ff1-71d8e83cb5c2,**0875******7300,03/08/2021,9:31:29,$226.82,Tap,"Mills, Kautzer and Stiedemann",Des Moines,IA,50981,United States
+8297641d-8c9b-4795-bee0-f50a53791bee,**0875******6265,09/27/2021,22:38:48,$168.95,Tap,Steuber-Kreiger,Denver,CO,80209,United States
+8c04aa70-18d9-4ea0-98ba-51fcd1b8b3a4,**0875******0155,11/07/2021,11:47:17,$135.30,Swipe,Larson-Murphy,San Antonio,TX,78296,United States
+16717d02-f30c-40e2-9d25-f2e3abadf32a,**0875******3709,04/25/2021,9:38:01,$125.35,Tap,Smitham Group,Gainesville,FL,32627,United States
+0b521526-7e38-4b21-89a5-1404d7868768,**4837******1779,01/30/2021,20:50:06,$177.72,Swipe,"Champlin, Towne and McCullough",Washington,DC,20380,United States
+5d8c95be-f153-4813-b134-1ce5cdabaa56,**0875******7810,10/13/2021,14:09:21,$167.07,Swipe,"Bosco, Beier and Boyle",Tacoma,WA,98417,United States
+0729fffd-2aef-4f59-a174-0f6f3115b48f,**0875******0159,11/30/2020,4:06:12,$173.72,Tap,Stehr-Wilderman,Fresno,CA,93794,United States
+c1109f93-6830-4268-9bc1-d24ffdab53ee,**0875******0907,04/08/2021,23:35:03,$10.78,Swipe,Feil Inc,Stockton,CA,95210,United States
+b48f81c8-fbd8-4240-ba8d-cab316e92a62,**0875******1972,09/07/2021,10:09:03,$42.31,Tap,Macejkovic Group,Boynton Beach,FL,33436,United States
+2932f476-b568-4658-a72f-c17f325a88cf,**0875******8660,07/20/2021,1:17:04,$120.48,Tap,"Bosco, Roberts and Hintz",Reston,VA,22096,United States
+52cc64a2-25af-4131-9f07-fec1bb52235b,**4837******6876,10/25/2021,5:59:38,$196.53,Swipe,"Purdy, Thompson and Hermann",Detroit,MI,48275,United States
+61e7ea97-e37d-4058-98a2-f5d40fec79a0,**4837******4429,01/16/2021,18:43:29,$182.81,Tap,Macejkovic LLC,Richmond,VA,23272,United States
+c1b206fa-a3ed-438f-8732-4db96396a663,**4837******8606,07/27/2021,23:13:30,$197.57,Swipe,"Dickens, Kihn and Stamm",Minneapolis,MN,55441,United States
+c43dcfdf-7e8e-4229-901b-62d531c48d2d,**4837******6810,05/01/2021,16:57:21,$222.51,Tap,VonRueden-McDermott,New Orleans,LA,70179,United States
+ef62788c-e7eb-45f7-ba18-d70c1ef09fb4,**4837******7305,12/22/2020,8:42:21,,Tap,"Mayer, Wehner and Ziemann",Kansas City,KS,66105,United States
+ff99c8f4-65e3-40c9-b6f8-3a44e1ed420b,**4837******6141,04/28/2021,14:48:11,$225.80,Tap,Bartell-Kirlin,New York City,NY,10165,United States
+9d7a4b1c-f39e-43b4-aed6-af27655a5a00,**4837******9291,02/27/2021,21:32:26,$198.31,Tap,Kub Group,Peoria,IL,61640,United States
+10215a09-db4e-4b48-87ec-c10243530df8,**0875******4477,11/26/2020,14:12:37,$229.66,Swipe,Lehner and Sons,Miami,FL,33245,United States
+a970372b-39ce-4a52-b867-93b3f5eb4960,**0875******6021,09/25/2021,7:27:54,$10.64,Tap,"Howell, Upton and Christiansen",Philadelphia,PA,19131,United States
+bede14af-7096-412d-b894-41f0dcfbed55,**4837******1139,12/01/2020,2:15:44,$216.32,Swipe,Mohr-MacGyver,Washington,DC,20022,United States
+22fa03d1-dcfa-4ce5-98f6-f7febeff7f07,**0875******9836,06/16/2021,19:37:12,$110.02,Tap,Rath LLC,Philadelphia,PA,19172,United States
+a9a9acd9-7df9-4785-9004-301f2ef81565,**4837******7275,01/17/2021,22:44:44,$55.98,Swipe,"Auer, Gaylord and Hackett",Dallas,TX,75372,United States
+23b82d0f-9ceb-42d3-bc06-da616888f825,**0875******1176,09/29/2021,10:32:50,$54.57,Swipe,"Runolfsson, Kertzmann and West",Winston Salem,NC,27150,United States
+8f4ff457-6985-4514-b968-d4cc252d0e7b,**0875******6400,08/06/2021,6:05:19,$190.58,Tap,Dare-Weissnat,Hialeah,FL,33013,United States
+6d21e62d-5706-4d46-bd0c-eb86927bde8a,**4837******6891,06/09/2021,19:20:46,$83.61,Swipe,Hammes LLC,Monticello,MN,55585,United States
+2e89d49e-dfd0-4a0d-abe1-6a6de63aa637,**4837******9726,11/10/2021,16:11:42,$102.53,Swipe,Kassulke-Hermann,Houston,TX,77005,United States
+209f0229-9b04-4d32-937c-792d292f16a3,**0875******1003,03/06/2021,1:06:00,$12.14,Tap,,Duluth,GA,30096,United States
+31c3165f-a005-468e-9736-c063c6d134de,**4837******9156,05/11/2021,13:16:37,$249.97,Swipe,Trantow-Von,Clearwater,FL,34615,United States
+0fb6e375-f27c-4b25-adf9-b9ab80c531fd,**0875******1689,12/27/2020,15:32:58,$119.08,Tap,"Thiel, McKenzie and Zemlak",Amarillo,TX,79188,United States
+cdd4e925-7e57-46b8-94df-290dd3f50508,**0875******1125,04/20/2021,2:59:47,$153.97,Swipe,"Koss, Roob and Schultz",Southfield,MI,48076,United States
+1c9bcb9e-e00c-4455-93e4-765071eb8959,**0875******9443,12/05/2020,17:26:35,$120.72,Tap,Aufderhar-Balistreri,Albany,GA,31704,United States
+bf517eae-af59-474f-82b7-d1cd20c285f7,**0875******4826,12/17/2020,8:11:35,$154.39,Tap,Ryan Group,Huntington,WV,25721,United States
+25f6312d-58db-452d-aa50-425f2dad4615,**0875******9064,01/29/2021,5:23:01,$42.76,Swipe,Steuber-Marvin,Brooklyn,NY,11254,United States
+18937125-600a-409a-8f21-b5638517dbc2,**0875******4848,01/27/2021,3:10:29,$69.61,Swipe,"Sawayn, Boyle and Herman",Santa Monica,CA,90410,United States
+665338b3-3796-4131-8deb-6af0d7a93d44,**0875******0626,11/17/2021,16:04:13,$112.98,Swipe,Hamill-Rippin,Greeley,CO,80638,United States
+77524b0b-acb2-4979-968b-7e2e7ec36498,**4837******4917,08/25/2021,13:15:28,$103.28,Tap,Russel Inc,Lafayette,LA,70593,United States
+d38fc304-d8eb-495c-9cd0-3637e2f55b72,**0875******8328,05/14/2021,4:15:11,$193.28,Tap,"Roberts, Kautzer and Anderson",Peoria,IL,61656,United States
+74528052-aad2-4f03-8111-0150ea334695,**4837******3950,10/29/2021,3:49:37,$89.73,Swipe,"Altenwerth, Mante and Hodkiewicz",Kansas City,MO,64190,United States
+5f2e6657-3e52-4636-80fb-57847ed580b1,**0875******3033,05/24/2021,10:45:14,$118.91,Swipe,Rosenbaum-Thiel,Murfreesboro,TN,37131,United States
+a86512c2-b70b-4fe6-a2c4-c0b57793dfeb,**0875******4506,08/15/2021,18:22:59,$72.20,Tap,Kuhlman-Langworth,Philadelphia,PA,19191,United States
+0f4cdcb6-ab40-4707-bf51-3f6c1f0573ad,**0875******4553,09/23/2021,12:36:32,$251.54,Swipe,Weissnat Group,Maple Plain,MN,55572,United States
+a461a686-f4d2-4582-bda7-c27f29f1bf14,**0875******0705,06/20/2021,1:01:28,$34.45,Tap,Hyatt-Hermann,Charleston,WV,25331,United States
+b307f25d-d8db-48e8-b23e-e43a0b12544d,**0875******1929,02/23/2021,19:36:35,$207.22,Swipe,"Flatley, Jacobs and Collier",El Paso,TX,88535,United States
+95dd6272-b896-490e-9d62-dc545be25a10,**4837******2745,01/19/2021,17:26:56,$33.71,Swipe,Bergstrom Group,Houston,TX,77015,United States
+98cc5acd-5334-4461-b008-a4acfa5fd5b2,**0875******0722,08/12/2021,23:41:22,$98.86,Swipe,Abbott and Sons,York,PA,17405,United States
+5e17a4f1-d757-4383-927b-6a0981e935bb,**0875******3029,12/17/2020,3:21:11,$224.37,Tap,Crona-Bahringer,Huntington,WV,25716,United States
+a0648d43-1784-4b99-9469-b310f311b55d,**4837******7932,11/24/2021,0:14:57,$132.56,Tap,Schuppe Inc,Montgomery,AL,36134,United States
+0bbc0057-2633-4cf8-bfec-9f1996fbbce7,**0875******1400,11/23/2021,23:21:31,$184.89,Tap,"Wintheiser, Parker and Jacobson",Santa Ana,CA,92725,United States
+4515d771-b998-49f0-9cab-d3ccba67959d,**4837******7493,04/27/2021,19:11:02,$78.62,Swipe,"Roberts, Wiza and Goyette",Wichita,KS,67230,United States
+ab4aafbf-bdeb-434e-9c9b-71d670fa567f,**0875******0053,03/12/2021,9:12:51,$102.46,Tap,"Harris, Dickens and Donnelly",Washington,DC,20022,United States
+b687796f-ee49-48cb-8001-2b1e84334769,**0875******2812,04/14/2021,1:52:23,$19.18,Swipe,Kassulke and Sons,Philadelphia,PA,19109,United States
+cfc070c8-d1d4-4bb2-9307-ea5a8a103c16,**4837******4273,10/12/2021,13:48:18,$133.62,Tap,"Stracke, Rogahn and Cole",Jamaica,NY,11499,United States
+028a5d99-d446-4eca-ad9a-367943d547a6,**4837******8338,11/15/2021,5:25:43,$125.54,Swipe,"Will, Hagenes and Dach",Raleigh,NC,27635,United States
+2774a4a3-1050-4e5e-9ae9-342c4ff4bae0,**4837******8788,10/29/2021,7:26:11,$58.36,Tap,"Mills, Schuppe and Runolfsson",Miami,FL,33196,United States
+b689b030-04a6-4389-a1c8-d7f865f59bd9,**0875******3257,02/04/2021,10:32:51,$64.73,Swipe,"Botsford, Swift and Johnson",Peoria,IL,61635,United States
+8f3a0383-41ae-4c46-8fbd-29984135dac8,**0875******6129,10/26/2021,15:51:55,$33.76,Tap,Hand Inc,Raleigh,NC,27626,United States
+f7fdc1ed-e7e6-411d-997b-048467f79cbb,**4837******2950,01/24/2021,15:25:08,$82.03,Tap,"Ziemann, Bailey and Stanton",Cincinnati,OH,45208,United States
+2b3b165a-b1e8-426c-acd0-937c9653d302,**4837******9357,03/14/2021,6:14:10,$205.90,Swipe,Huel Inc,Saginaw,MI,48604,United States
+70d25fb6-a824-466c-ae4d-8e70a24da32c,**4837******2544,04/10/2021,10:11:57,$82.63,Tap,"Rutherford, Witting and Kertzmann",Oakland,CA,94627,United States
+4de4de5b-afe2-4043-bdbd-9773dcef4bc2,**0875******1069,03/21/2021,0:39:58,$18.68,Tap,Gerhold-Adams,Santa Barbara,CA,93111,United States
+70037343-896c-4d0c-9704-58e26851ff30,**0875******4715,11/29/2020,11:54:47,$236.92,Swipe,Yost-Stroman,San Diego,CA,92160,United States
+e5c6fe7a-1b37-4e44-869a-6c5deadde887,**0875******8188,08/19/2021,11:12:08,$177.90,Swipe,Schaden-Hills,New Bedford,MA,02745,United States
+3417675f-de15-4e2c-8dbc-863115c35d7d,**4837******5455,07/28/2021,22:34:51,$162.97,Swipe,Cremin-Kris,Salem,OR,97306,United States
+d4d2c05b-2f81-402d-a4ff-97b32c969fe7,**4837******3882,06/06/2021,18:55:28,$89.76,Tap,,Salt Lake City,UT,84110,United States
+df891577-8b3a-464c-9836-1c8e594a9914,**4837******8289,10/01/2021,13:54:44,$234.07,Swipe,Hodkiewicz-Bernier,Seattle,WA,98166,United States
+de2609d4-8acd-44b3-988b-83b602aabbf2,**4837******6388,05/20/2021,15:42:52,$207.86,Swipe,Dietrich-Witting,Garden Grove,CA,92645,United States
+6a45b6aa-ba1d-4b4d-94d3-87dea9d7047d,**0875******2599,05/10/2021,16:17:10,$14.20,Tap,Prosacco-Braun,Winter Haven,FL,33884,United States
+7ccc6fdf-d72e-4025-a9b1-213cd93cef4e,**4837******8108,06/04/2021,2:44:55,$106.97,Tap,Ryan Inc,Riverside,CA,92505,United States
+7c70e80b-d1b7-4dd9-9689-4f70b803b17a,**4837******4418,11/29/2020,5:08:07,$187.23,Tap,Bosco-Dibbert,Washington,DC,20430,United States
+c32f0f18-1ae1-4a43-a9f7-e2a8355c01ed,**0875******0161,11/06/2021,6:10:29,$140.65,Swipe,"Kling, Fadel and Schoen",Washington,DC,20392,United States
+91d6ac7b-e231-41ba-8c2e-4592ffbe73d0,**4837******4840,09/01/2021,7:01:00,$217.76,Swipe,Anderson-Williamson,Roanoke,VA,24009,United States
+4f8b1b20-029c-4b26-b3e2-6414a85f28a7,**4837******0172,02/03/2021,15:31:53,$157.70,Tap,Mills and Sons,Winston Salem,NC,27157,United States
+605076a8-7d5d-47f8-b021-63959c00c5a0,**4837******7504,01/08/2021,20:52:05,$190.05,Swipe,Monahan-Blick,Miami,FL,33124,United States
+ee0a53a0-b377-4d2c-8371-7eb87e321d14,**4837******5072,05/20/2021,6:52:30,$11.70,Swipe,"Kiehn, Wilkinson and Graham",New Haven,CT,06538,United States
+018ae6c7-ed5e-4885-817b-6a896f6a7df9,**0875******1935,06/23/2021,22:37:38,$119.51,Tap,Wilderman-Homenick,New Haven,CT,06505,United States
+6877aa64-9ac6-494c-95c4-126ddeca105d,**4837******9338,03/21/2021,12:11:40,$50.45,Tap,Maggio and Sons,Tampa,FL,33615,United States
+85ad7bf8-0e7d-41c0-89ce-891351eaacef,**0875******3712,03/20/2021,4:14:12,$156.55,Tap,"Rogahn, Raynor and DuBuque",Boise,ID,83705,United States
+55e3e8cd-b138-4be4-9c00-f0d087d89736,**0875******5893,04/26/2021,23:30:39,$180.38,Tap,"Cartwright, Waelchi and Hessel",Cincinnati,OH,45254,United States
+f9ea0e9b-1afd-4047-ab0a-59257eef629c,**0875******2319,11/16/2021,20:15:12,$49.14,Swipe,"Collier, Bailey and O'Hara",New Orleans,LA,70129,United States
+63240caa-90d4-4ecf-a54b-25dccd6bb2f6,**4837******3114,03/08/2021,0:10:12,$216.42,Tap,Weber LLC,Orlando,FL,32825,United States
+f919b268-aeaf-4b7d-8fb0-9318cef83028,**0875******0208,04/17/2021,21:05:47,$219.97,Swipe,Cummerata Group,Fresno,CA,93704,United States
+e4532c9f-0c95-4d0d-a053-15e3355e8a56,**4837******3617,03/23/2021,0:11:58,$51.05,Swipe,Barrows-Koss,Kansas City,MO,64130,United States
+9cd7fab6-e576-400d-a04a-482600a39487,**0875******7947,12/03/2020,11:07:28,$114.95,Swipe,Mohr LLC,Kingsport,TN,37665,United States
+0bc7086c-388e-4eb5-9c53-8a2cbd2f4420,**0875******3492,08/02/2021,16:14:02,$174.85,Swipe,Botsford-Rice,Sacramento,CA,95818,United States
+bdd977bc-b010-48e2-907a-40bb8862fac9,**0875******8250,02/01/2021,14:51:06,$105.72,Tap,"Reinger, Williamson and Fisher",Charlotte,NC,28215,United States
+f7849c91-7604-44e1-8b3a-e130bb0f94c8,**4837******4819,10/17/2021,12:15:26,$250.75,Tap,"Balistreri, Roob and Kulas",Dallas,TX,75379,United States
+5a4d160f-e2c0-403e-823a-cd0a10a36f7c,**4837******9938,10/18/2021,15:22:29,$213.17,Tap,Osinski-Kling,Houston,TX,77281,United States
+7366d396-95a4-4041-b310-704246f162c8,**0875******1767,10/24/2021,19:19:04,$122.79,Tap,"Jaskolski, Moen and Hudson",Nashville,TN,37220,United States
+d4ffef9f-0346-4dea-a236-12dfcd6591d9,**4837******1298,02/14/2021,12:48:56,,Swipe,Rolfson LLC,Baltimore,MD,21229,United States
+918dd459-a344-4632-a8d3-c0f94b0185d4,**4837******0026,09/18/2021,0:32:22,$56.66,Tap,Brekke-Hackett,Sacramento,CA,94286,United States
+84b846ea-8dce-4c52-9d38-52dea23e975f,**4837******9936,01/02/2021,9:20:14,$115.25,Tap,"Ryan, Auer and Fritsch",Pueblo,CO,81015,United States
+10001911-30e9-4376-8899-30e53abc5160,**4837******8166,12/12/2020,6:59:21,$22.98,Tap,"Vandervort, O'Hara and Glover",Winter Haven,FL,33884,United States
+17bfe71f-7635-4c6d-8886-d40317e30df2,**4837******7332,05/18/2021,2:45:14,$27.21,Swipe,Baumbach-Reichert,Phoenix,AZ,85053,United States
+4797555f-a577-4bd2-b75a-2a230bfd9321,**4837******9719,04/25/2021,12:26:05,$93.15,Tap,Okuneva-Haley,Lubbock,TX,79405,United States
+52ee7209-3284-41cc-9293-83f600f5df03,**4837******1536,09/27/2021,19:27:34,$170.36,Tap,Runolfsson and Sons,Salt Lake City,UT,84120,United States
+0832cf12-309e-45de-89bd-8bd5c0c440a6,**0875******2034,02/07/2021,3:57:49,$123.19,Swipe,"Osinski, Heller and Davis",Kansas City,MO,64149,United States
+d984adbb-ce75-4238-be77-cc350db852b9,**0875******4436,12/04/2020,2:08:45,$86.27,Swipe,"O'Hara, Quitzon and Rodriguez",Phoenix,AZ,85010,United States
+10373ca3-d09c-4da0-8c22-b327846c74d7,**4837******2253,09/01/2021,5:47:03,$19.09,Swipe,Kozey-Kertzmann,Portland,OR,97216,United States
+59c2c331-7e89-4595-8608-f126bb6bc098,**4837******4723,05/14/2021,8:46:32,$252.14,Swipe,"Jerde, Walter and Gulgowski",Charleston,WV,25321,United States
+a4e31a96-8645-4893-a532-a53295292eca,**0875******2038,10/31/2021,9:25:47,$204.48,Swipe,Pfeffer-Smith,Columbus,OH,43226,United States
+5da56bbf-7b49-4890-86b2-e7fa30f70ca0,**4837******8448,08/27/2021,13:15:36,,Tap,Sauer-Casper,Denver,CO,80291,United States
+c68c020d-cee1-473e-8ebc-6b1cc53171cd,**0875******9530,01/19/2021,9:46:13,$43.48,Swipe,"Mante, Parisian and Orn",Lexington,KY,40505,United States
+2e7c6dd5-2824-4eeb-9c5d-6b3b4f0070ac,**4837******1972,05/18/2021,12:36:21,$31.13,Tap,Erdman-Hilpert,Boise,ID,83722,United States
+37571e24-e07c-4406-a045-40e495cc6258,**4837******9166,01/28/2021,13:57:57,$231.37,Tap,Daugherty-Ziemann,Phoenix,AZ,85035,United States
+e0e0a241-40d4-4727-bc16-2b5cec9f71a1,**0875******2658,06/12/2021,1:20:12,$112.42,Tap,Bogisich and Sons,Monticello,MN,55585,United States
+a481b214-b042-45ad-91ce-92ca838351b2,**0875******0110,05/06/2021,3:46:35,$103.14,Tap,Huels Group,Roanoke,VA,24040,United States
+e855bc99-80ba-41ba-bc79-55047b5dbe70,**4837******1268,09/29/2021,1:11:59,,Swipe,"Grant, Mueller and Harvey",Phoenix,AZ,85005,United States
+fc0552c3-017f-4dda-a63b-5993d7ee1336,**4837******5618,07/26/2021,12:55:16,$150.84,Tap,Kuhic-Wolff,Springfield,IL,62794,United States
+a37ee246-effb-48d1-b02b-f8305fd3e3c1,**4837******2574,04/16/2021,22:41:13,$205.58,Swipe,Gislason and Sons,Akron,OH,44393,United States
+8ceda600-cc74-4724-8b5b-0adca2ebff04,**4837******2221,12/22/2020,22:27:10,$93.45,Tap,"Bergstrom, Bahringer and Jacobson",Sarasota,FL,34238,United States
+1e5bc29b-2f09-4846-9d03-9e968e679a3d,**0875******2753,04/13/2021,9:48:23,$105.25,Swipe,Carter Group,Salt Lake City,UT,84110,United States
+907144ae-79bc-4017-a317-64de851c33ce,**0875******7087,08/28/2021,0:32:50,$176.10,Tap,"Ondricka, Weber and Connelly",Harrisburg,PA,17105,United States
+a780e1e5-4a1e-4499-9d78-8ed7e4a14187,**0875******4269,05/06/2021,20:51:37,$100.28,Tap,"Muller, Mohr and Armstrong",Phoenix,AZ,85040,United States
+a5016fcf-b06b-448b-b217-1a8e87097de9,**4837******6326,05/28/2021,23:19:58,$252.41,Tap,Rowe LLC,Bethlehem,PA,18018,United States
+0be06a7e-7079-4d9d-9216-865f2d120b29,**4837******1473,02/21/2021,15:06:08,$71.05,Swipe,Fisher and Sons,Fayetteville,NC,28305,United States
+4613e59a-9bd1-411a-b554-fee098c6e9d3,**4837******1837,04/14/2021,10:25:42,$59.24,Tap,Yost and Sons,Fresno,CA,93709,United States
+d24ea816-f1b0-4055-9e3d-34d2b726d96d,**4837******8260,07/17/2021,15:03:28,$16.98,Swipe,Hirthe and Sons,Atlanta,GA,30368,United States
+8eaee740-eea5-4527-a458-189641837734,**4837******7205,03/30/2021,20:31:55,$185.55,Swipe,Hoppe and Sons,Appleton,WI,54915,United States
+bd19195d-aa76-41a1-b3c4-e4395f6cec47,**4837******4421,,,$220.04,Tap,West and Sons,Burbank,CA,91520,United States
+fdfd7578-ca04-4d81-8081-83ebb9493da0,**4837******5073,06/11/2021,14:47:02,$105.37,Tap,Mosciski Group,Columbia,SC,29225,United States
+5eddd22c-32b9-40cd-9e11-ec615e5f56d2,**0875******7084,06/22/2021,23:05:27,$56.95,Swipe,Bechtelar Group,Flushing,NY,11388,United States
+daf73b63-7725-4216-8f9a-cde221b1245e,**0875******9256,10/21/2021,23:02:33,$184.20,Swipe,"Hagenes, Deckow and Ullrich",Long Beach,CA,90805,United States
+243b8c0c-05a4-4c81-9670-30363f1d5f4d,**0875******3993,08/04/2021,3:37:07,$240.72,Swipe,"Zemlak, Feest and Abshire",San Mateo,CA,94405,United States
+9819c454-92ce-40a3-80e2-a92231bcd38a,**4837******9154,09/24/2021,13:18:07,$59.30,Tap,"Littel, Kreiger and Olson",Lexington,KY,40576,United States
+2b09b02d-43e3-4efa-a4ad-a7367b1e2fa4,**4837******1776,12/04/2020,16:39:21,$253.46,Swipe,Jenkins Inc,Fort Wayne,IN,46862,United States
+3387889a-c87d-4b4d-b21e-5d70b0fc02af,**4837******4088,02/06/2021,14:02:01,$93.65,Tap,Kuhn-Russel,Boise,ID,83716,United States
+2339bfd4-2b2d-4eb1-a509-175f10f66237,**4837******8447,11/28/2020,18:10:25,$161.91,Tap,Smith-Mayert,Charlotte,NC,28272,United States
+f3eb80da-c9d6-4f2c-a1ed-7458fcc8e5e9,**0875******8218,02/07/2021,2:00:46,$234.78,Swipe,"D'Amore, Bogisich and Boyer",Peoria,IL,61605,United States
+f12ba97f-17e1-40ac-98f3-c84a4eb46273,**4837******5791,07/20/2021,1:35:26,$92.90,Swipe,Konopelski-Schamberger,Mobile,AL,36616,United States
+9031b74d-ca54-42c4-a5b6-d608653e4dac,**4837******3909,12/23/2020,12:11:48,$196.85,Swipe,Ortiz-Abbott,Kansas City,MO,64199,United States
+ea158d0c-a6e8-4898-b70e-9703d220189f,**0875******9827,09/11/2021,23:25:22,$138.20,Tap,Mueller and Sons,Salt Lake City,UT,84130,United States
+f7ce17b7-35cf-4618-8610-2bc50381ccd3,**0875******7952,05/06/2021,15:10:33,$130.31,Tap,"Schuster, Nicolas and Gottlieb",Mobile,AL,36605,United States
+5d622bdb-7e2f-450f-822a-df2f149cf324,**4837******4257,12/18/2020,12:15:28,$82.95,Swipe,,Springfield,MA,01114,United States
+bacb0fb8-11c8-43b6-abf3-64c5dc4eda53,**0875******6862,08/15/2021,17:27:08,$208.94,Tap,McKenzie and Sons,Albuquerque,NM,87195,United States
+58a95ced-7fd9-4bc7-bd2a-08411505ebbd,**4837******2628,08/11/2021,0:12:32,$100.17,Swipe,"Donnelly, Orn and Ritchie",Pasadena,TX,77505,United States
+bd25d680-321b-4819-9f76-6436bdbd09ca,**4837******0065,04/20/2021,6:23:02,$60.03,Swipe,Kunde and Sons,Roanoke,VA,24034,United States
+588684f8-5a59-487d-ac07-175f1c9e3e96,**4837******4661,04/07/2021,16:34:43,$240.89,Tap,"Purdy, Feest and Crist",Waterloo,IA,50706,United States
+228de45b-7daa-4b7b-a7fe-146e377238a3,**4837******7710,06/06/2021,6:35:47,$143.44,Tap,Satterfield-Parisian,Bradenton,FL,34210,United States

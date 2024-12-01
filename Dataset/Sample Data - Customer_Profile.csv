@@ -1,0 +1,1001 @@
+customerNumber,dateOfBirth,citizenshipCode,currCountryCode,employmentStatus,incomeInThousands,marketSegment,maritalStatus,stateCode,city,country,accountOpeningDate,gender
+b90ec527-d54c-4546-8872-81f90f9ed33c,27-11-1995,US,USD,worker,$200685.86,standard,Married,FL,Zephyrhills,United States,06-09-2021,Male
+f8162ec9-2f9d-4412-8c22-3c66b2f46a8f,03-05-2002,US,USD,self-employed,$121102.59,basic,Married,CT,Waterbury,United States,1/30/2021,Female
+8c50fecc-abef-43f9-bfe1-8cc3c5c01a54,21-07-1994,US,USD,employee,$234625.69,standard,Widowed,NY,Staten Island,United States,6/23/2021,Female
+5afb4208-19a0-4ef0-a12b-fb430d83af2e,14-03-1996,US,USD,employee,$152978.83,HNI,Divorced,LA,Baton Rouge,United States,04-05-2021,Male
+3fed47d1-606c-4fb5-a35d-98a100eabffb,02-08-1995,US,USD,worker,$168933.21,standard,Widowed,FL,Miami,United States,06-08-2021,Female
+8e8ced95-ddc1-4fb1-b3ae-50374dc62c8d,16-02-1999,US,USD,self-employed,$214317.71,standard,Separated,FL,Panama City,United States,1/20/2021,Male
+b0319a45-4e62-4049-a33c-2446652bc2cf,28-06-1993,US,USD,worker,$159816.26,,Separated,FL,Tallahassee,United States,07-03-2021,Male
+2bdeb405-0a05-4f65-90f6-86c2025255be,18-12-1991,US,USD,employee,$342441.25,basic,Separated,OH,Akron,United States,1/18/2021,Male
+78ebd95c-8975-4bc8-a78f-57847beae4e9,16-10-1993,US,USD,self-employed,$111660.56,basic,Widowed,MO,Kansas City,United States,6/20/2021,Female
+b7fac2b9-a461-48db-9129-dafb258979c2,04-06-1999,US,USD,worker,$385312.77,standard,Separated,OK,Oklahoma City,United States,3/22/2021,Female
+9b508fe5-65aa-43c7-90c3-1e65a2f90584,18-02-1995,US,USD,employee,$293493.58,standard,Divorced,AZ,Glendale,United States,3/30/2021,Male
+b5a02d61-22d5-4b08-a667-e6e13a4c5694,05-01-2002,US,USD,,$121387.00,HNI,Widowed,CA,San Francisco,United States,08-08-2021,Male
+ae1b2b25-5c54-4868-b26e-11403b3a8221,23-09-2000,US,USD,self-employed,$343686.06,basic,Married,TX,San Antonio,United States,2/13/2021,Male
+fb7b5f3b-1df3-472f-b250-e9c378e190ad,20-04-2000,US,USD,worker,$306431.18,HNI,Widowed,GA,Macon,United States,2/20/2021,Male
+9ed8fe0e-faf7-4714-9eaa-03b91585301e,27-07-1991,US,USD,self-employed,$126717.66,basic,Separated,AZ,Tucson,United States,2/16/2021,Female
+e4bbc974-36b6-49e8-8542-45fbd5bded96,16-12-1998,US,USD,worker,$108395.53,standard,Divorced,NY,Brooklyn,United States,4/24/2021,Male
+f2219149-0ce6-43e0-972d-8986582a2193,08-07-1995,US,USD,worker,$365149.80,standard,Single,KS,Topeka,United States,6/14/2021,Male
+540c2e63-8196-4f42-b70e-688d40ab4725,09-08-1997,US,USD,self-employed,$160718.75,HNI,Divorced,OH,Canton,United States,05-08-2021,Female
+5db43cc4-5e00-4263-b11f-61dbb2708113,15-01-1993,US,USD,worker,$248318.61,basic,Single,SC,Columbia,United States,11/26/2020,Male
+a5b34ea7-dbad-4e07-b17a-16da3fa72d5f,11-05-1993,US,USD,employee,$280520.34,standard,Widowed,OH,Youngstown,United States,6/21/2021,Male
+a5e63525-3f3b-4bf7-b66c-59e1ec94aa1e,22-11-1999,US,USD,worker,$178853.63,standard,Married,TX,Amarillo,United States,9/28/2021,Female
+e0ec37df-086d-4f91-9d56-eefad18ea0f0,30-12-2000,US,USD,self-employed,$197697.25,standard,Divorced,FL,Jacksonville,United States,06-12-2021,Male
+cbd8298b-5244-4e51-9d76-891798dba5ca,29-01-1993,US,USD,worker,$250842.64,standard,Married,CA,Glendale,United States,11/24/2021,Male
+b78e7def-7330-4b41-8680-c045f44b7d4c,29-07-1997,US,USD,,$380362.75,HNI,Separated,TX,Corpus Christi,United States,5/16/2021,Male
+9c7128ad-3a43-4836-85c9-8c7b1d55586a,04-01-1997,US,USD,self-employed,,basic,Divorced,FL,Seminole,United States,8/31/2021,Male
+74d1e1b0-4ac2-4a86-a214-882433995dbd,20-09-2001,US,USD,worker,$373923.05,HNI,Divorced,FL,Orlando,United States,7/30/2021,Female
+8c6e0755-0303-49ee-9c68-d4dda4396fb2,21-10-1997,US,USD,self-employed,$338798.42,standard,Widowed,GA,Macon,United States,10/25/2021,Male
+db01a3f1-2fed-418c-a7cd-53b4f215ae29,01-01-1996,US,USD,self-employed,$358084.43,basic,Married,CA,Sacramento,United States,7/15/2021,Male
+af6ca7ab-fe51-4a8d-8d5b-ed2a64cb9521,04-06-1992,US,USD,self-employed,$131528.42,standard,Divorced,DC,Washington,United States,07-10-2021,Male
+b11553ab-32dc-41c0-af60-5f0a863d0423,16-09-1997,US,USD,self-employed,$251015.17,HNI,Single,FL,Homestead,United States,6/24/2021,Male
+17b3fc5e-df90-4884-8be0-c39c03a3a37f,23-12-1996,US,USD,employee,$144434.65,HNI,Divorced,NY,New York City,United States,08-10-2021,Female
+18840e09-0804-4f1f-9978-69e522e0ad09,22-11-1995,US,USD,worker,$257808.42,standard,Divorced,FL,Jacksonville,United States,01-03-2021,Male
+293ddad2-b73d-4a42-8455-758c1bcadb29,30-07-1993,US,USD,employee,$116724.93,basic,Married,IA,Cedar Rapids,United States,7/18/2021,Female
+3370b7b0-b7db-4710-b4b8-e49fc0b1bdc4,16-02-1992,US,USD,self-employed,$224609.92,standard,Married,CA,Escondido,United States,10/27/2021,Male
+e884ed70-593b-4824-8e12-001873999e7a,16-05-1995,US,USD,employee,$190365.23,standard,Widowed,FL,Fort Lauderdale,United States,9/13/2021,Female
+74d17a9e-271a-48b2-8f45-53efb0366ae1,14-08-1993,US,USD,,$101653.52,standard,Separated,NY,Brooklyn,United States,8/29/2021,Male
+dfc9be1a-756a-49cc-a5ed-93a09db7e71a,07-10-1996,US,USD,worker,$174684.05,standard,Widowed,CO,Boulder,United States,6/13/2021,Female
+1a471396-9e09-4aed-adcb-6c71211df601,04-10-1991,US,USD,worker,$332882.06,standard,Widowed,IA,Des Moines,United States,1/25/2021,Male
+c05f6f28-6922-4036-8a85-b8d420e936aa,26-09-2002,US,USD,employee,$128572.57,HNI,Single,FL,Jacksonville,United States,05-08-2021,Female
+914cd0ab-bb80-454f-b5f6-84c83b538225,29-03-1991,US,USD,employee,$209940.50,basic,Single,FL,Pensacola,United States,06-07-2021,Male
+dcb8155d-6598-4a61-9404-8384035d7d35,19-03-1995,,,worker,$191755.95,HNI,Separated,VA,Roanoke,United States,12-08-2020,Male
+8e5bb6c1-fdaf-4f93-adb2-2b58c0741034,04-12-1999,US,USD,self-employed,,standard,Single,MI,Detroit,United States,10/29/2021,Male
+86441ad8-5660-494c-b707-fd4b2afabe8a,21-01-1991,US,USD,worker,$146599.20,standard,Married,FL,Brooksville,United States,04-03-2021,Male
+022c13de-4f02-4fe4-89aa-977ba672d049,14-01-1998,US,USD,worker,$253783.91,basic,Widowed,MI,Detroit,United States,01-02-2021,Male
+c8cd19dd-8e87-41d9-8217-bf7ba69a8f9a,28-11-1998,US,USD,worker,$364192.65,HNI,Single,FL,Orlando,United States,06-11-2021,Male
+22991a22-7855-43f1-ad6c-556edc6fea81,23-07-1999,US,USD,employee,$244606.89,HNI,Separated,NY,Rochester,United States,7/15/2021,Male
+3fb43d30-787a-45c6-af1a-5eb49b33fb4b,02-11-1993,US,USD,employee,$325634.82,basic,Divorced,OH,Toledo,United States,9/28/2021,Male
+1afa4399-e458-420a-8f0f-f4db7df699de,10-06-1997,US,USD,self-employed,$202976.74,basic,Single,WV,Huntington,United States,5/20/2021,Female
+bc1be94a-1a54-485b-91d4-cc178cda395d,18-12-1991,US,USD,employee,$366254.19,HNI,Single,FL,Lakeland,United States,7/19/2021,Male
+48fcd03c-2cf5-47c2-9580-f4aaf53ab21b,18-09-2002,US,USD,,$234609.58,HNI,Separated,CA,Los Angeles,United States,04-08-2021,Male
+18a9fc3b-cfbd-4a88-ab78-528ceedd11bf,18-12-1997,US,USD,self-employed,$202266.59,HNI,Single,OH,Cincinnati,United States,12-03-2020,Male
+ede4cb6d-5dbe-49a7-a1ee-6b348a4e2412,23-01-1994,US,USD,employee,$240961.95,HNI,Married,UT,Sandy,United States,12/28/2020,Male
+a2bd5619-f8c2-45a4-92ac-ee4f0135f84c,07-01-1991,US,USD,,$348660.90,standard,Divorced,FL,Tampa,United States,12-04-2020,Male
+ea420919-a990-464c-a26a-96088a59dbc9,11-01-1999,US,USD,worker,$325732.67,basic,Single,FL,Pompano Beach,United States,3/31/2021,Male
+2569af1a-da60-475a-b2eb-71d07550e858,05-04-1991,US,USD,employee,$144886.04,,Divorced,AZ,Tucson,United States,8/31/2021,Male
+fd50a98f-41c0-421c-8f81-8f5861304a66,05-12-1995,US,USD,employee,$382833.01,HNI,Widowed,TX,Amarillo,United States,06-08-2021,Male
+893384ef-87f3-4540-afa7-f0992710cd7c,24-08-1991,US,USD,worker,$375585.31,standard,Married,MO,Kansas City,United States,01-03-2021,Male
+69439496-52c1-431d-b919-b5f16599da7c,23-07-1994,US,USD,employee,$349863.44,basic,Married,LA,New Orleans,United States,7/20/2021,Female
+a003d57c-bf01-43fc-acd7-acbe03b0e07e,11-09-2002,US,USD,self-employed,$319848.75,basic,Widowed,NC,Charlotte,United States,8/27/2021,Male
+096ad92a-e9a2-41fc-b36c-de8a26afc887,07-01-2001,US,USD,self-employed,$312663.66,basic,Divorced,FL,Tallahassee,United States,12-11-2020,Female
+017d6b3a-fd48-4ee0-8f23-d9c8b5c94031,05-09-1993,US,USD,worker,$143084.24,basic,Divorced,CA,Inglewood,United States,3/13/2021,Male
+f795f320-98e3-47a3-9234-208c7d2c511c,24-07-1991,US,USD,worker,$204156.00,HNI,Single,GA,Atlanta,United States,9/23/2021,Female
+2b561923-850e-4263-95f7-46e8ba662400,18-01-1998,US,USD,,$233430.67,HNI,Widowed,WV,Charleston,United States,11/13/2021,Male
+f24a9bc0-fbb3-48bd-8c4a-904600f68e2d,14-08-1995,US,USD,self-employed,$187258.72,HNI,Married,CA,San Diego,United States,12-05-2020,Male
+4d9dbf62-2a79-45af-a34b-c9dbf0505e78,02-01-1991,US,USD,employee,$340043.89,HNI,Divorced,OK,Tulsa,United States,08-08-2021,Male
+2d6e785a-d961-42df-b00a-1bafb5e42530,30-05-1990,US,USD,self-employed,$182144.67,HNI,Separated,NY,Rochester,United States,12/19/2020,Male
+4b04d8e9-bff9-4771-be26-71be1946def4,14-09-1992,US,USD,self-employed,$106047.70,HNI,Married,DC,Washington,United States,11/25/2020,Male
+926c4edb-afb7-4a64-9440-ae5ba8eb999c,15-08-1991,US,USD,self-employed,$286486.09,basic,Divorced,FL,Tampa,United States,12-04-2020,Male
+96ed7b16-a678-4f98-8066-f6b98d498ef9,26-07-1996,US,USD,employee,$185383.74,basic,Married,NY,Jamaica,United States,5/26/2021,Male
+ed863c99-c184-4e21-907a-2c89c995e3ef,10-12-1996,US,USD,employee,$370118.35,basic,Divorced,IN,Muncie,United States,3/13/2021,Male
+4820aafa-c7f6-47cd-9005-bd1bf963ad7b,28-07-1998,US,USD,worker,$164914.83,standard,Divorced,OH,Columbus,United States,12/30/2020,Male
+9299b275-b9bf-4e50-855c-24369719a333,28-07-1999,US,USD,employee,$233432.49,basic,Married,IN,Evansville,United States,3/16/2021,Male
+5c4847bf-9330-48ad-911d-e808f83360d3,16-09-1993,US,USD,self-employed,$153786.67,standard,Divorced,IA,Des Moines,United States,6/13/2021,Female
+c33a4d15-f44c-41f0-a863-21bcadfd5e12,15-03-1999,US,USD,employee,$157530.22,standard,Married,CA,San Diego,United States,8/15/2021,Male
+9a3203f6-855d-4a97-a323-d99897f0eb14,02-06-1996,US,USD,employee,$382472.31,basic,Widowed,NV,Las Vegas,United States,08-01-2021,Female
+7795ce24-9b78-404e-9133-7f7f60ee31a2,22-11-2002,US,USD,employee,$119869.41,standard,Married,MA,Boston,United States,7/18/2021,Male
+c472ba13-ec52-46d0-a24b-b753eee489ec,03-01-1998,US,USD,employee,,HNI,Widowed,SC,Columbia,United States,08-09-2021,Male
+d3c64316-b446-4c3b-91ea-a11aca58c66c,08-09-1994,US,USD,worker,$129691.16,standard,Widowed,TX,Fort Worth,United States,4/25/2021,Male
+fdf23377-5a9d-4630-8a3f-d29f3d8db33d,11-11-1997,US,USD,worker,$317064.25,standard,Married,VA,Dulles,United States,4/21/2021,Male
+976ebbd4-02f3-4f55-82d2-c3392db6c5eb,26-11-1991,US,USD,self-employed,$327400.54,HNI,Single,CA,San Diego,United States,9/14/2021,Male
+0f18377e-6763-4403-84e4-75dc234f494f,14-11-2001,US,USD,self-employed,$348805.60,HNI,Widowed,MO,Kansas City,United States,8/24/2021,Female
+ac835bc7-40ee-4d2b-8446-f3c6394372bb,11-08-1993,US,USD,employee,$130531.75,standard,Widowed,MA,Boston,United States,9/19/2021,Male
+543da603-9297-4c07-b4c5-3ae34c4e18d0,17-08-1995,US,USD,self-employed,$202794.21,basic,Widowed,OH,Columbus,United States,5/17/2021,Male
+1f804fe3-cf58-4154-adc9-858da1b89bc5,03-08-1992,US,USD,self-employed,,basic,Single,TX,Longview,United States,5/26/2021,Male
+dc022089-4fdf-4ac5-9a12-593c8dab9408,01-02-1993,US,USD,,$102123.35,standard,Widowed,OH,Warren,United States,04-05-2021,Male
+5991f7a2-6ed9-4c35-9676-c0dc4c0e5f61,08-09-1995,US,USD,worker,$154427.73,basic,Single,TX,Lubbock,United States,3/24/2021,Female
+81fd81af-9dc2-40a8-8bd5-64303ec53a37,01-06-1991,US,USD,worker,$290041.81,standard,Widowed,AL,Huntsville,United States,05-02-2021,Female
+e448a0a3-4521-4d13-9cb5-9a20fd7d8863,24-12-2001,US,USD,employee,$389522.98,basic,Married,CA,Los Angeles,United States,8/29/2021,Male
+47885a7d-e8e3-431d-a9d7-dd693d86fbb0,10-09-1999,US,USD,worker,$140662.62,standard,Divorced,NY,Bronx,United States,2/13/2021,Male
+b183dbc3-4fc9-402e-8dd2-5a87b6f112e4,12-09-2000,US,USD,employee,$289384.05,HNI,Separated,PA,Philadelphia,United States,05-12-2021,Female
+f81745ac-3213-47d9-8926-58163a4b5c1e,28-11-1991,US,USD,worker,$182383.03,basic,Divorced,KS,Kansas City,United States,6/28/2021,Male
+e1df7e82-ef28-4898-9e4b-9cd359e58c94,08-06-2000,US,USD,employee,$365287.02,basic,Single,NC,Charlotte,United States,6/22/2021,Female
+b711e9c6-896b-418d-a1c8-b7ec69636e89,24-03-2000,US,USD,employee,$303766.21,HNI,Married,DC,Washington,United States,02-05-2021,Female
+5e74d667-80b1-40c3-8843-59e8ce21b0f2,12-02-2001,US,USD,worker,$158110.66,standard,Married,GA,Atlanta,United States,5/14/2021,Female
+9398c738-10c8-4b80-a953-2a615da71273,27-09-1997,US,USD,employee,$242970.39,standard,Widowed,NV,Carson City,United States,6/19/2021,Male
+ad76b8c0-920e-4ae7-8789-f9415e95dbe6,12-01-1993,US,USD,self-employed,$318267.41,standard,Married,AL,Montgomery,United States,12/15/2020,Male
+c3d82325-6ebc-46aa-8ac0-e3440536ccb1,19-01-2002,US,USD,self-employed,$148449.44,basic,Single,NY,Jamaica,United States,06-02-2021,Male
+ff5b4bdb-0e00-4b54-b5a5-c91efeda7e06,02-01-1999,US,USD,self-employed,$350606.78,HNI,Divorced,NC,Raleigh,United States,12/28/2020,Male
+e973ff21-d891-4f3a-8a8b-453545d6f2a1,17-03-1990,US,USD,employee,$285610.22,standard,Single,IN,South Bend,United States,02-07-2021,Male
+346fb220-f419-43d4-8fb9-8c703c8ceb75,02-01-1992,US,USD,worker,$151647.50,HNI,Married,NV,Las Vegas,United States,3/19/2021,Male
+0df3c7f3-e79d-4dd5-a6f8-53ae59acb8bc,01-01-2000,US,USD,worker,$124597.66,basic,Married,PA,Pittsburgh,United States,2/16/2021,Male
+c0f87963-189a-408a-be2a-91b5ff373d4c,19-12-1996,US,USD,employee,$189807.04,HNI,Single,MI,Detroit,United States,08-12-2021,Male
+da6384a1-d545-4b4d-9098-00489d591c3f,27-08-1998,US,USD,worker,,standard,Single,NY,Syracuse,United States,02-02-2021,Male
+eee1e689-f50e-49e5-90f2-112e0430ecfc,02-03-1994,US,USD,employee,$134745.58,HNI,Divorced,IL,Chicago,United States,9/18/2021,Male
+1ce1a54d-ba47-41d6-976c-36889c14695f,05-11-1999,US,USD,employee,$266773.79,standard,Married,CA,Los Angeles,United States,08-07-2021,Male
+97bcd6a1-f4e0-4708-9dc8-3bb5cdc39aa8,22-06-1990,US,USD,self-employed,$171825.82,HNI,Divorced,OH,Toledo,United States,01-10-2021,Male
+5576f834-7ddf-479d-977b-215427d5f217,23-11-1993,US,USD,employee,$259682.28,standard,Separated,CA,San Francisco,United States,2/20/2021,Male
+f0a793c6-cf33-4f4f-9f4b-69965025b271,09-01-1993,US,USD,self-employed,$358901.50,basic,Separated,TX,Houston,United States,07-10-2021,Male
+f34989cc-3973-4a64-92b3-c7f62d9946a1,29-01-1990,US,USD,self-employed,$105080.69,standard,Married,NC,Greensboro,United States,12-10-2020,Female
+aab0d6cb-e886-40df-aa5b-75b0b49f8f43,28-02-1991,US,USD,,$183282.28,standard,Divorced,IN,South Bend,United States,12/28/2020,Male
+91360111-e6a4-46ae-8789-8da877856722,07-01-1999,US,USD,self-employed,$297353.55,standard,Single,IL,Chicago,United States,04-02-2021,Female
+1b9c136d-58f0-45d0-8352-a0e18ec8d6ea,31-03-1998,US,USD,worker,$217563.45,HNI,Divorced,IN,Gary,United States,2/25/2021,Male
+b9abbb36-977e-42e4-80d8-c2e40e2cda30,01-02-1995,US,USD,self-employed,$301024.93,basic,Married,CA,Santa Clara,United States,5/19/2021,Female
+d9f923d2-4f55-423a-86b5-58c2b46ce24d,28-05-2001,US,USD,worker,$206686.66,standard,Married,TX,Austin,United States,01-11-2021,Male
+c298e5c1-9b0d-4193-8fc3-b0c6187b9caa,28-06-1990,US,USD,self-employed,$148388.39,basic,Single,TN,Nashville,United States,10/26/2021,Male
+ddd729b7-9cca-456c-b03d-4cd6e1fdbbf7,12-08-1991,US,USD,employee,$389321.91,standard,Married,FL,Miami,United States,3/28/2021,Male
+45271b2f-939a-4f6b-8c90-02b383e8bba8,21-06-1994,US,USD,self-employed,$159513.99,HNI,Married,PA,Pittsburgh,United States,6/27/2021,Male
+76caf1cb-02fa-4945-83e5-2dd60f79361f,03-06-1992,US,USD,,$142661.82,HNI,Widowed,MO,Independence,United States,01-02-2021,Male
+761f5fa6-2b43-40f9-97aa-04b86e7c4ee6,18-11-1993,US,USD,self-employed,$136342.00,HNI,Divorced,FL,Fort Lauderdale,United States,12-03-2020,Female
+335716d1-fa99-43d8-b6a5-59ca7cf42413,15-06-1996,US,USD,self-employed,$229894.02,basic,Married,GA,Atlanta,United States,06-10-2021,Male
+cdb75404-236f-4d59-81c2-a532233c47ef,28-01-1995,US,USD,employee,,HNI,Divorced,NY,Albany,United States,7/31/2021,Male
+c19ef574-c8c1-4042-988b-b4a1ff8b218a,14-12-1997,US,USD,employee,$124573.19,standard,Separated,OH,Columbus,United States,5/15/2021,Male
+027f3e3f-b155-4393-8ce3-e54bd462f09b,25-08-1998,US,USD,worker,$302936.56,basic,Widowed,FL,Vero Beach,United States,07-03-2021,Male
+574cdd27-8aa3-4cc3-9895-28a8caf34506,09-09-1995,US,USD,,$359515.09,standard,Divorced,KS,Wichita,United States,8/26/2021,Male
+5e9f7144-9a7e-4a09-b632-431758f3b8cf,04-01-1992,US,USD,self-employed,$125920.18,HNI,Separated,ND,Grand Forks,United States,04-01-2021,Female
+082cc231-8c66-4190-826b-b024fbc21b20,11-03-1993,US,USD,self-employed,$148513.39,basic,Separated,GA,Atlanta,United States,11-05-2021,Male
+7ef92118-a5cb-4ef7-b4d2-993754936e52,25-03-2000,US,USD,employee,$211028.73,HNI,Separated,IN,Indianapolis,United States,1/21/2021,Male
+69aeff62-8176-424f-b3aa-0c05f7b540a9,01-12-1990,US,USD,worker,$272714.50,standard,Separated,MN,Minneapolis,United States,3/22/2021,Male
+7e83101c-bd75-4e08-9fa0-9f144b80d129,25-01-2000,,,employee,$182581.29,HNI,Widowed,VA,Arlington,United States,6/18/2021,Male
+c042aa9d-7acf-4580-b86f-d3250294d5c1,30-09-1996,US,USD,employee,$361399.99,basic,Married,WA,Tacoma,United States,10/30/2021,Male
+ae85866a-5a33-4096-8600-a66a0628777e,02-05-1991,US,USD,worker,$331410.42,basic,Widowed,GA,Macon,United States,05-10-2021,Male
+b3386efb-0759-4c3e-85e6-6a4762412887,04-02-2000,US,USD,worker,$195178.65,HNI,Single,CA,Los Angeles,United States,07-04-2021,Female
+9dede368-704f-4d66-86ac-4896840f9d37,01-02-2001,US,USD,worker,$325303.96,HNI,Married,MN,Saint Paul,United States,06-01-2021,Female
+db3b0d22-9195-409a-a00d-c813fe861355,31-12-1996,US,USD,worker,$361471.10,basic,Divorced,ID,Boise,United States,11-07-2021,Male
+36f72e69-f5f2-4dbf-a9c3-d549556eeb64,21-02-1990,US,USD,employee,$116450.16,standard,Married,MN,Minneapolis,United States,2/22/2021,Female
+f436a27a-03eb-4743-bcd0-c1a89b8cf362,14-09-2002,US,USD,employee,$329981.03,basic,Single,MO,Springfield,United States,01-04-2021,Male
+a784bdee-9523-427e-90c0-002562b33e23,06-07-1998,US,USD,worker,$391411.66,basic,Single,CA,San Diego,United States,10-12-2021,Female
+6a730bdf-0208-44ea-8245-444f0dea1181,02-02-1995,US,USD,worker,$384850.13,standard,Widowed,KS,Wichita,United States,06-07-2021,Male
+cb16672f-a9ec-4425-ab1e-dc49e37effa8,01-08-1995,US,USD,employee,$170724.21,standard,Married,TX,San Antonio,United States,5/28/2021,Male
+8b3382fb-f62f-4e99-aa83-75bd636a4f1c,07-10-1991,US,USD,employee,,basic,Married,TX,Houston,United States,5/14/2021,Male
+59e4398b-5829-4b09-afeb-95bae17329dd,26-03-2002,US,USD,worker,$322153.01,basic,Married,VA,Springfield,United States,01-08-2021,Female
+5faffd0e-e57b-43b0-9aca-2153f8f30e3f,25-10-2000,US,USD,employee,$136086.96,HNI,Single,CA,San Diego,United States,06-08-2021,Female
+24d8fd79-bcd8-4e2d-9f87-65b7bc7ed407,13-04-1999,US,USD,employee,$275402.97,standard,Single,CA,Santa Barbara,United States,5/22/2021,Female
+da03ad5e-a600-40c1-bbe3-37c2289f6c8f,13-07-2000,US,USD,self-employed,$301431.18,HNI,Separated,CA,Brea,United States,02-05-2021,Male
+9457a95c-f0b3-4863-a40a-f07100de6d94,02-08-1992,US,USD,employee,$273845.05,basic,Divorced,FL,Clearwater,United States,05-03-2021,Male
+5409e08a-5b59-4cd5-9bd5-cc9b57c1a7a5,10-04-1993,US,USD,self-employed,$296019.84,standard,Widowed,GA,Augusta,United States,12-02-2020,Male
+1d02a662-d1cc-4e38-bb9b-563ae5f2db1b,05-10-1990,US,USD,worker,$282506.71,HNI,Married,OR,Portland,United States,1/25/2021,Male
+7ec4fcff-12b1-4ac3-a7c8-32fda79c0bcf,31-01-1999,US,USD,worker,$393007.11,standard,Divorced,MN,Young America,United States,02-02-2021,Male
+bb0645e5-03b1-44ac-b8d1-0c92a5c57e7d,30-04-1995,US,USD,self-employed,$319043.35,standard,Divorced,TX,El Paso,United States,12/14/2020,Male
+5d882ffb-62cd-49be-ba1c-76ec1af7e641,06-03-2002,US,USD,employee,$101873.67,HNI,Widowed,CA,Sacramento,United States,09-03-2021,Female
+72f63c56-d265-41e6-84b3-44b11c02dd0c,11-02-1992,US,USD,self-employed,$199691.95,HNI,Widowed,VA,Charlottesville,United States,01-06-2021,Male
+d5c47245-b91f-4ce7-a01f-124476165784,07-06-1994,US,USD,employee,$211930.65,standard,Separated,AZ,Phoenix,United States,6/20/2021,Male
+f7d57043-a6fb-4cab-a938-43b9119e187f,12-12-1999,US,USD,self-employed,$321473.14,basic,Divorced,TX,El Paso,United States,11-12-2021,Female
+46a13323-3c73-43a5-81c3-4f0dccd89ec4,08-11-2002,US,USD,worker,$321608.60,basic,Widowed,AL,Huntsville,United States,11/15/2021,Male
+d46be47d-ec6d-4e85-8878-3d9372387abd,11-04-1999,US,USD,self-employed,$171941.02,HNI,Divorced,MD,Hyattsville,United States,12-01-2020,Female
+8888c2da-da2c-4ae6-a7fe-e3eea1ab6007,23-09-2000,US,USD,self-employed,$145313.37,HNI,Married,NY,New York City,United States,8/16/2021,Female
+858f62cf-ee34-4814-b23d-2ead8ec1e228,30-08-1997,US,USD,employee,$310378.10,HNI,Divorced,DC,Washington,United States,5/19/2021,Male
+3c62be54-617d-44ea-8b5c-5fd3b2e07c7b,03-02-2000,US,USD,self-employed,$336116.27,HNI,Single,TX,Wichita Falls,United States,02-01-2021,Male
+a8a53929-6274-403f-b47f-17ecb3f73c3e,27-08-1995,US,USD,employee,$338241.79,standard,Divorced,GA,Valdosta,United States,07-05-2021,Male
+33629bfb-6469-4c34-add3-6b219c5f4e65,08-11-2002,US,USD,employee,$246113.09,basic,Single,FL,Tampa,United States,12-12-2020,Female
+31b0018a-83c5-44cd-8b94-a28f2471f3c8,15-02-1997,,,self-employed,$278301.64,HNI,Single,FL,Panama City,United States,4/17/2021,Male
+5e096b71-d58d-4ab2-be05-cc32bf8d4ac3,22-01-1997,US,USD,employee,$249947.28,standard,Married,CA,Glendale,United States,11/20/2021,Male
+3feef95a-9e47-440e-96ee-a45e9d438930,24-09-1995,US,USD,employee,$343452.90,standard,Separated,MA,Boston,United States,7/18/2021,Female
+ba69b22e-3ebb-4186-9ca3-20c8be0a96e5,21-06-1991,US,USD,worker,$223288.43,standard,Married,FL,Pompano Beach,United States,11-02-2021,Male
+156c7da9-0327-4305-9e40-deac0c0d6c1b,12-03-1994,US,USD,worker,$341230.14,basic,Single,AZ,Tucson,United States,01-11-2021,Male
+97aab454-dc79-4aeb-9bcf-ee951e7710a0,19-09-1995,US,USD,,$241142.02,HNI,Divorced,OH,Dayton,United States,11-04-2021,Male
+7b5ea4ac-d450-4a2c-a969-c623dae3aab3,29-06-2000,US,USD,employee,$254570.11,basic,Married,FL,Sarasota,United States,3/21/2021,Male
+1e1321bf-0933-4fbb-8209-cb459670a8e7,05-11-1990,US,USD,,$183352.41,HNI,Widowed,AL,Mobile,United States,10/25/2021,Male
+bc0def1f-cf68-43d8-b656-618316c3a69b,05-08-1998,US,USD,employee,$120007.59,basic,Single,TX,Houston,United States,12-07-2020,Male
+ce361774-142e-4d9f-b6b2-fdcbf15d8ed9,02-10-2000,US,USD,,$380806.61,standard,Single,VA,Arlington,United States,9/15/2021,Male
+ef34433d-53b4-4969-a842-6927548a2d33,05-07-1990,US,USD,self-employed,,basic,Married,OK,Oklahoma City,United States,9/22/2021,Female
+cd93df88-d2f1-4907-a5c8-1e1120f9b270,20-03-2001,US,USD,self-employed,$199408.37,basic,Single,IL,Aurora,United States,4/20/2021,Female
+8171610e-0c81-4fe7-ac3e-0b46089fa45c,14-08-1990,US,USD,worker,$124498.40,basic,Single,AL,Montgomery,United States,10-11-2021,Male
+c1bda815-66b5-4369-8cef-38877075d5ff,10-08-2001,US,USD,employee,$291125.28,basic,Widowed,AL,Mobile,United States,10/13/2021,Male
+c621f5ff-0854-4383-8d9e-604f18eb4d19,03-10-2000,US,USD,worker,$134916.26,HNI,Divorced,IL,Chicago,United States,04-06-2021,Male
+34ba1f72-853d-408a-86fe-32a78ec3ce35,28-03-2002,US,USD,employee,$381119.71,basic,Widowed,WA,Vancouver,United States,10-09-2021,Female
+2b6495e1-2a9b-4f87-8148-85dc997ffc85,23-08-1996,US,USD,worker,$284446.67,basic,Married,KS,Wichita,United States,05-04-2021,Male
+4705a320-0015-4408-bd9c-13f93bbc5161,12-08-1997,US,USD,worker,$219530.97,standard,Separated,TX,Arlington,United States,05-12-2021,Male
+49b3bae3-c129-44d7-962c-849c01f69e0e,12-12-1997,US,USD,employee,$176543.62,standard,Divorced,TX,El Paso,United States,07-08-2021,Male
+fe16e0e9-d5b4-4370-b315-50c160004e9a,02-06-1999,US,USD,self-employed,$244106.51,standard,Separated,AL,Mobile,United States,3/21/2021,Male
+1cac1ca1-90c4-41eb-b253-7ce1955759ab,21-03-1997,US,USD,employee,$117331.86,HNI,Married,IA,Cedar Rapids,United States,6/17/2021,Male
+268e003a-2b50-48ec-a91e-ee3e0ff421cf,13-11-1995,US,USD,employee,$380465.44,standard,Separated,UT,Provo,United States,6/29/2021,Male
+04e004ee-b1b7-44ea-babb-93bf9d97890f,06-08-1997,US,USD,,$188471.58,standard,Single,MN,Minneapolis,United States,4/13/2021,Male
+4de4925b-fc1d-4bf4-a74e-03033716d419,19-12-1992,US,USD,worker,$183879.14,standard,Married,NE,Omaha,United States,9/20/2021,Male
+328f4728-260b-4a04-8d5e-55c8509d801d,16-01-2000,US,USD,worker,$397277.69,basic,Divorced,CA,Bakersfield,United States,07-05-2021,Male
+0acd4233-9cba-4be8-a722-5d3e52091063,20-09-1995,US,USD,employee,$218684.85,standard,Widowed,AL,Birmingham,United States,9/21/2021,Male
+ddee422e-59e2-4bbd-872b-72ee321ed9bc,01-01-1993,US,USD,worker,$243795.28,basic,Separated,TX,Garland,United States,3/19/2021,Male
+5ba6503f-0209-41bc-8fe7-d8ff38a13932,23-01-1993,US,USD,self-employed,$221711.42,standard,Married,TN,Nashville,United States,08-11-2021,Male
+da0a5eb8-773d-435b-a498-4b7265c93743,14-05-1999,US,USD,worker,$166741.67,HNI,Single,IL,Chicago,United States,12-08-2020,Female
+546c1b0f-6ea2-465e-9843-7da7b61b930b,04-04-1993,US,USD,employee,$316874.08,standard,Widowed,CA,Santa Ana,United States,5/21/2021,Male
+a7e2b024-8426-4a16-a652-8104f1b7b691,23-05-1991,US,USD,worker,$177371.39,HNI,Widowed,NE,Omaha,United States,12-05-2020,Male
+9cee10aa-ecc3-44a9-a611-60d415b42785,22-06-1994,US,USD,self-employed,$208424.35,standard,Divorced,NY,Buffalo,United States,6/23/2021,Male
+ea785e28-b356-40de-b9a1-a6f3ed77e023,10-09-1996,US,USD,self-employed,$208377.00,basic,Married,TX,Dallas,United States,10-01-2021,Female
+00fa9d8a-59a9-45c1-8380-6602e53e2228,24-10-2001,US,USD,worker,$367372.50,standard,Separated,VA,Richmond,United States,01-09-2021,Male
+55cb04a6-ecf2-4126-947b-ce3a7b3ff57c,14-04-2002,US,USD,self-employed,$365461.57,HNI,Married,TX,Dallas,United States,1/27/2021,Male
+aa58271c-7444-4783-8a48-0804dff50c25,24-01-1991,US,USD,employee,$372917.50,HNI,Single,FL,Fort Lauderdale,United States,6/26/2021,Male
+bcbe6faf-72a8-4212-9f79-bfcd4e01d12c,02-07-1996,US,USD,employee,$342151.92,HNI,Divorced,FL,Homestead,United States,08-07-2021,Male
+987d5b05-1535-496d-8f9b-becff571b646,30-03-1990,US,USD,self-employed,$321824.74,HNI,Single,VA,Alexandria,United States,1/17/2021,Male
+6999f060-d065-4612-8914-c49453c1f713,19-05-1993,US,USD,self-employed,$307772.06,basic,Married,TX,Houston,United States,02-03-2021,Male
+56bbbd1b-40b4-4fd1-9763-bc00e49f5cf6,27-04-1994,US,USD,employee,$146947.53,HNI,Separated,CA,Torrance,United States,11/19/2021,Male
+7656cad0-3e32-413d-a4f6-1d236a7000fa,09-07-1999,US,USD,,$356324.60,,Single,TN,Knoxville,United States,12/26/2020,Female
+8d6a0e01-477b-4e43-8bbf-e52f38d1d156,29-12-2000,US,USD,self-employed,$253908.32,standard,Widowed,MD,Bethesda,United States,05-04-2021,Male
+ffbb11ff-ca7f-42a3-894d-15579abf9648,15-02-2000,,,self-employed,$357394.09,standard,Single,HI,Honolulu,United States,8/29/2021,Male
+dd9cbbf0-0d01-461f-9543-6bef8b442464,04-06-1996,US,USD,worker,$314980.48,HNI,Married,CA,Fresno,United States,12-08-2020,Male
+f06c3fac-cdec-4e6f-9481-5a5eebe28869,18-10-2002,US,USD,worker,$375475.12,HNI,Divorced,MI,Lansing,United States,10/24/2021,Male
+cefd9a63-baab-412c-83c0-469c7abaca3a,08-01-1996,US,USD,self-employed,$248357.44,HNI,Separated,WA,Seattle,United States,8/28/2021,Female
+db882eac-3e14-4576-9bd0-5def4046e881,14-10-1992,US,USD,worker,$267088.35,basic,Single,FL,Ocala,United States,4/20/2021,Male
+d0cd0eb8-6263-49da-9317-e0e0037b9c7f,07-07-1997,US,USD,employee,$301025.06,standard,Separated,FL,Fort Pierce,United States,02-05-2021,Male
+15839363-ac87-4a77-8715-45c91853d800,19-07-1996,US,USD,,$260570.50,standard,Divorced,OK,Oklahoma City,United States,9/13/2021,Male
+d0901951-bb81-4927-9f15-3cea47e6183d,13-12-1998,US,USD,worker,$103471.42,HNI,Separated,MN,Saint Cloud,United States,03-09-2021,Female
+bae8131e-ac3c-4dcd-a870-d01882e483c3,13-09-2000,US,USD,self-employed,$222930.13,standard,Single,WA,Seattle,United States,9/27/2021,Male
+7fa08585-df2c-4d8c-9885-1032b125da4c,04-05-1994,US,USD,self-employed,$357333.74,basic,Married,CA,Concord,United States,7/30/2021,Male
+bd33beb2-75d7-47af-a414-246b44608982,29-06-1995,US,USD,self-employed,$115419.21,basic,Divorced,NM,Santa Fe,United States,5/24/2021,Male
+c44dff53-f780-4aaf-a7bf-b87ec04cc56d,12-11-1998,US,USD,employee,$301278.69,standard,Divorced,NV,Las Vegas,United States,10/23/2021,Male
+15359c24-8578-4434-8b72-bec502f174e6,07-02-1992,US,USD,worker,$300220.95,standard,Divorced,WI,Milwaukee,United States,9/28/2021,Male
+33b4d21d-3af8-4994-b566-0c8e8604b723,28-03-1990,US,USD,self-employed,$130992.50,basic,Divorced,KS,Topeka,United States,8/14/2021,Male
+87e9ab48-ced3-4bf0-890f-02f0271ed0fd,01-02-1995,US,USD,employee,$394786.27,standard,Married,AZ,Phoenix,United States,9/26/2021,Female
+792174ce-59cb-47c2-878f-7046f3c1dea8,31-10-2001,US,USD,self-employed,$242503.36,basic,Single,CA,San Jose,United States,2/21/2021,Male
+5dfd4e10-cadf-49e3-900d-1ac4b43df4cd,20-02-2002,US,USD,worker,$337102.48,standard,Widowed,OH,Dayton,United States,3/16/2021,Male
+5c2eecf1-faba-499d-b553-99a9460017d7,20-02-2002,US,USD,self-employed,$242044.21,basic,Separated,TX,Denton,United States,04-10-2021,Male
+d55fc055-0f90-4765-9fde-b2fc6ed838ee,11-08-1994,US,USD,,$387942.63,standard,Widowed,DC,Washington,United States,12/15/2020,Female
+3eb041fa-6066-4cd5-bcd0-374aaa9e32e6,11-11-2002,US,USD,employee,$278295.30,HNI,Widowed,TX,Houston,United States,12/20/2020,Male
+c8376236-386f-40a7-9f90-5c5ac3f2d975,22-11-1992,US,USD,employee,,HNI,Widowed,MS,Jackson,United States,6/13/2021,Male
+f4e578b7-f475-4aad-915d-22fe4f1d1723,04-08-2002,US,USD,worker,$145405.39,HNI,Single,MA,Brockton,United States,2/22/2021,Male
+f115521c-1425-4876-a75e-1f32df42aa81,02-01-1996,US,USD,employee,$158234.93,basic,Widowed,TN,Nashville,United States,7/31/2021,Male
+1ba4c9ac-1a02-4f32-a7d2-0163beaf6af1,02-08-1999,US,USD,worker,$233349.22,HNI,Separated,CA,Fresno,United States,04-04-2021,Female
+2d6d06b9-67af-4769-b797-e793dbcc5db0,01-08-1993,US,USD,,$138848.93,standard,Married,WV,Huntington,United States,12-05-2020,Male
+9fa21dc4-7cca-4d0e-968d-adacdf4e4224,18-05-1995,US,USD,worker,,basic,Single,CA,Torrance,United States,12-05-2020,Male
+e2204f0b-3840-40eb-96dc-bd2c837aceba,04-03-1990,US,USD,self-employed,$244738.06,standard,Divorced,RI,Providence,United States,6/13/2021,Female
+7bee1245-e49e-4f17-9d56-38fb1cd1b5ae,27-08-2000,US,USD,worker,$399667.62,standard,Married,TX,Fort Worth,United States,1/16/2021,Male
+35327d89-e923-4838-8ca2-63340d7c356a,07-12-1992,US,USD,self-employed,$212442.56,basic,Widowed,IA,Des Moines,United States,1/28/2021,Male
+aefe4fcf-2785-4d56-a80f-6d280227e808,20-05-1990,US,USD,employee,$103946.85,basic,Separated,NY,New York City,United States,08-11-2021,Female
+c3084865-dd03-4c2b-a67a-b9e8f827303b,16-06-2001,,,worker,$102928.06,HNI,Separated,OK,Tulsa,United States,7/31/2021,Male
+f807b9a7-85af-429b-8863-b9b8567846fe,29-04-1994,US,USD,worker,$215286.56,HNI,Divorced,CA,Hayward,United States,02-01-2021,Male
+9890d988-391e-4de6-85b3-d8aff9a7a598,28-08-1995,US,USD,self-employed,,standard,Widowed,OR,Portland,United States,2/25/2021,Male
+1a25a948-beb5-4491-a84f-a887f11d5daf,10-09-2000,US,USD,,$266527.52,HNI,Separated,TX,Austin,United States,11-11-2021,Male
+7e31d5e5-ebfd-4322-b02d-fab49d66c864,24-04-1993,US,USD,worker,$369647.91,basic,Widowed,TN,Memphis,United States,11-06-2021,Male
+1b7e0709-7f08-437b-88ea-226ed599d79c,29-10-1997,US,USD,self-employed,,standard,Single,IN,Evansville,United States,12-12-2020,Male
+1f15e114-020f-4d8d-82f1-82c79dd723ff,19-12-1997,US,USD,worker,$173179.23,standard,Single,MA,Boston,United States,6/18/2021,Female
+bdbb6699-9244-4d50-b04f-4b48b15a9336,19-01-1999,US,USD,self-employed,$381113.21,basic,Married,SC,Charleston,United States,10/19/2021,Male
+5f8cbf1b-34d3-487d-8719-1b37aa5045be,15-10-2001,US,USD,self-employed,$102878.75,standard,Single,CA,Van Nuys,United States,05-10-2021,Male
+fb540ea7-fd3a-439b-8438-a31b1889d5e8,21-03-1993,US,USD,employee,$175877.95,,Married,VA,Alexandria,United States,6/16/2021,Male
+a35b1717-a5e9-4e1b-8b90-634042c71466,23-08-1997,US,USD,self-employed,$233050.87,HNI,Divorced,IL,Chicago,United States,11/14/2021,Male
+8e2a4c39-d7b1-4280-acb4-f9cb1b22a769,09-03-2002,US,USD,worker,$353313.04,standard,Widowed,CA,Los Angeles,United States,11/25/2020,Male
+98b68386-748a-47b4-b063-cb897255fb1a,16-07-1991,US,USD,self-employed,$146828.89,HNI,Divorced,VA,Richmond,United States,8/22/2021,Male
+14e62ab6-e825-4fb9-ab55-b0fab24b3f3a,01-04-1995,US,USD,self-employed,$318003.32,basic,Married,IN,Evansville,United States,10-12-2021,Male
+83d37059-f56d-4dcf-833c-2136dddfef78,09-10-1998,US,USD,worker,$329052.72,standard,Single,TN,Memphis,United States,05-12-2021,Male
+3bb47519-1de6-4f13-a2dd-8f77ee1fd3a5,10-09-1991,US,USD,employee,$105201.26,basic,Single,NJ,Camden,United States,4/18/2021,Male
+033e7be1-b661-44a8-8e30-4668a0445dc8,28-10-1992,US,USD,self-employed,$371662.96,HNI,Widowed,VA,Virginia Beach,United States,2/26/2021,Male
+6e08c851-af8c-4080-bf6e-ae0e679352e8,24-11-1995,US,USD,self-employed,$343590.75,HNI,Separated,MA,Woburn,United States,07-01-2021,Male
+14263a80-104b-426a-ad70-020d9af27cc3,23-03-1996,US,USD,worker,$356305.67,basic,Separated,NY,Utica,United States,9/26/2021,Male
+42077ae9-bc87-4134-864c-fb8d77c29d57,13-12-1991,US,USD,self-employed,$374958.93,HNI,Divorced,IL,Peoria,United States,10/18/2021,Male
+4df9a713-a8f4-4c99-a05b-a7345bd2d1f4,16-02-1992,US,USD,worker,$378442.47,HNI,Divorced,MI,Muskegon,United States,10/14/2021,Male
+341d9e22-f608-45e7-9046-0329204908e4,26-08-1992,US,USD,worker,,standard,Widowed,CA,Santa Barbara,United States,6/16/2021,Male
+54037a70-f193-4555-9241-b03726f1e3e6,15-08-1998,US,USD,self-employed,$279816.71,HNI,Married,MA,Boston,United States,11/20/2021,Male
+649105c0-abc5-406a-bbcb-0d6ec33fc521,09-09-2002,US,USD,self-employed,$272831.40,HNI,Married,AZ,Tempe,United States,09-02-2021,Male
+c5eee7d3-6a5e-47d3-9a6a-f5e34937e235,26-05-2002,US,USD,self-employed,$166592.37,basic,Single,MD,Frederick,United States,12/14/2020,Female
+093394d2-c8d0-4225-bc96-bfbd41abebfb,16-10-2002,US,USD,self-employed,$389231.68,basic,Widowed,NM,Albuquerque,United States,05-11-2021,Male
+54234a4d-152e-482d-9ec8-f37e299cb60a,07-10-1993,US,USD,worker,$358589.33,standard,Divorced,FL,Miami,United States,6/22/2021,Male
+d426064c-3b2b-4743-b165-0e5275dd89ba,23-02-1990,US,USD,self-employed,$175494.47,basic,Widowed,CA,Oakland,United States,09-07-2021,Female
+3e4d6b33-eca2-48cc-a381-1f70b67b6c1b,24-09-1991,US,USD,employee,$122717.27,basic,Widowed,PA,Erie,United States,1/18/2021,Female
+9c8b7e1b-96ed-41a5-8afd-16f726258c03,17-08-1995,US,USD,worker,$103252.94,standard,Single,MI,Saginaw,United States,10-02-2021,Female
+49e01823-f093-417c-a3a1-722bd5b48834,08-03-1999,US,USD,worker,$141147.36,standard,Single,NV,Las Vegas,United States,9/17/2021,Male
+d22bf259-8fb0-4b50-ab8a-5d2b1b1e631d,07-09-2002,US,USD,self-employed,$348392.16,HNI,Married,CA,Sacramento,United States,10/13/2021,Female
+c0d0c47e-8fa4-4f20-b3ed-5640f7c6aafe,06-10-1992,US,USD,worker,,HNI,Divorced,CA,San Diego,United States,6/19/2021,Female
+4ac4ba77-6cca-419b-abac-416fa3417d33,29-01-1993,US,USD,self-employed,$339930.22,HNI,Married,KS,Topeka,United States,5/17/2021,Female
+182e6a51-c298-4af8-ac6a-5d27cbfeeffb,15-01-1996,US,USD,worker,$162767.13,HNI,Single,LA,Baton Rouge,United States,04-06-2021,Male
+7b7740fe-35ce-447a-95b9-8756a66a46da,24-07-1990,US,USD,worker,$375864.27,HNI,Widowed,GA,Savannah,United States,8/21/2021,Male
+30d4c244-d105-4ecb-889b-d06650dd1f88,16-02-2000,US,USD,worker,$197187.63,standard,Divorced,CA,Torrance,United States,1/15/2021,Female
+f2352cfe-81e4-4ba5-83d4-51a49f37bdf7,06-10-1999,US,USD,,$101835.47,HNI,Widowed,KY,Lexington,United States,04-11-2021,Male
+ff30f647-7e6c-4018-bd1a-17bc46b1ebc4,21-10-1990,US,USD,self-employed,$220751.18,basic,Widowed,HI,Honolulu,United States,07-02-2021,Male
+6c5efab0-bdb7-4355-8906-15691735f041,09-08-1997,US,USD,employee,,basic,Single,CA,Los Angeles,United States,04-12-2021,Female
+e6b60b46-939a-436e-86b4-471b5ed31761,06-01-2001,US,USD,employee,$300119.52,HNI,Separated,MI,Flint,United States,12/14/2020,Female
+7b534d86-6521-4ce0-b360-9ad244e30693,18-10-1999,US,USD,worker,$208399.86,basic,Divorced,TX,Fort Worth,United States,7/22/2021,Male
+1799e0f0-e0b0-4b44-9e16-7a48ff77ac3d,05-10-1995,US,USD,worker,$254939.65,basic,Separated,NC,Charlotte,United States,2/13/2021,Female
+3e904f0f-6485-462c-b311-47b379ad5cba,09-05-1995,US,USD,self-employed,$130766.18,basic,Separated,MN,Saint Paul,United States,1/31/2021,Female
+f44a137a-3ee6-47be-928c-c00c1c8d6f0b,27-10-1994,US,USD,self-employed,$143821.52,standard,Married,TX,Houston,United States,09-06-2021,Male
+2a30c236-1078-499c-aabd-d210075cd03c,14-07-1993,US,USD,worker,$362599.91,HNI,Divorced,CA,Fresno,United States,1/13/2021,Female
+85afd41c-35bf-435a-8680-b61de4a95755,04-01-1990,US,USD,employee,$227488.12,HNI,Married,FL,Fort Myers,United States,06-12-2021,Male
+d8882889-6573-4efc-a314-b20ec0176af1,30-04-1998,US,USD,worker,$160950.01,basic,Married,MN,Young America,United States,11-02-2021,Male
+64ee323f-7523-41b1-88d1-6de4636bb182,21-11-2000,US,USD,self-employed,$132175.70,HNI,Single,AL,Mobile,United States,11-02-2021,Male
+585b3bd0-5624-45c0-a335-cc04a6a0df13,10-12-1992,US,USD,worker,$341172.64,standard,Widowed,AZ,Glendale,United States,7/30/2021,Male
+a06483e5-bc8c-4ede-a669-100da528ddb0,24-04-2001,US,USD,worker,$108974.95,basic,Separated,KS,Shawnee Mission,United States,11-12-2021,Male
+2fbd2590-ffd5-4707-8bb7-951846908b5e,16-01-1998,US,USD,worker,$297093.03,standard,Married,CA,Pomona,United States,07-03-2021,Male
+3a47a456-7fc7-4b84-ab5b-632c0220618e,21-06-1996,US,USD,self-employed,$168141.00,basic,Married,CA,Long Beach,United States,12/23/2020,Male
+83f333f7-0aab-476b-b42f-55d88d26c58f,12-09-2002,US,USD,self-employed,$175757.06,standard,Divorced,CA,Fullerton,United States,2/26/2021,Female
+00ab0c65-60b1-4a22-961e-a66c02c1af5a,15-05-1997,US,USD,employee,$143899.51,standard,Married,KY,Louisville,United States,5/18/2021,Male
+8378b78d-c26e-4884-b81d-b34e71d80601,21-09-1993,US,USD,worker,$209797.78,standard,Single,TX,Dallas,United States,10-01-2021,Male
+acff6cae-fc4b-4e12-9a31-c6db849a04f5,20-11-1994,US,USD,self-employed,$208687.22,basic,Married,OR,Portland,United States,03-09-2021,Male
+944350c6-a429-4898-ba14-8eb028c3a0fe,22-09-1998,US,USD,worker,,HNI,Divorced,PA,Pittsburgh,United States,9/25/2021,Male
+a3790c18-508b-4670-8602-11dfc4f7f218,19-06-1999,US,USD,employee,$356622.62,standard,Single,CA,Inglewood,United States,04-07-2021,Male
+bf979c2a-2bdb-404f-b598-4d29446f006b,15-11-1998,US,USD,worker,$300447.62,basic,Widowed,FL,Clearwater,United States,10/21/2021,Male
+c253781e-9645-44a5-bc2e-8ba282c11ada,20-02-1999,US,USD,employee,$342289.52,standard,Separated,MA,New Bedford,United States,1/16/2021,Male
+1a379081-ad11-4b24-bc47-2aad2123cbe1,22-07-1994,US,USD,self-employed,,basic,Divorced,TX,El Paso,United States,12-08-2020,Female
+a50dc17c-0ec3-4519-866b-2d27b9529d76,04-07-1996,US,USD,employee,$399316.89,basic,Widowed,FL,Fort Lauderdale,United States,12-06-2020,Male
+fc7ebb77-c2e6-43fe-8cbe-92ec5ac69482,01-10-2001,US,USD,,$359127.05,basic,Separated,FL,Seminole,United States,01-02-2021,Male
+c640f887-ccf6-46b2-bdf1-b4a2b4554784,23-05-1999,US,USD,worker,$346472.79,basic,Separated,KY,London,United States,4/26/2021,Male
+92cb8c0b-359c-404c-8e74-094dad21ee7d,10-11-1993,US,USD,,$272286.46,HNI,Married,FL,Saint Petersburg,United States,01-10-2021,Female
+ec1c0d97-aeff-40c6-ac44-118aebe30b46,05-07-1998,US,USD,self-employed,$261297.01,basic,Widowed,TX,Arlington,United States,09-02-2021,Male
+13a6c8db-d7be-423d-af69-ee745de355f4,05-07-1992,US,USD,employee,$260865.67,basic,Married,OH,Canton,United States,09-03-2021,Male
+c9f8831b-91e7-4e7b-9a19-3dca9a0a2366,10-08-1997,US,USD,worker,$147242.37,basic,Divorced,TX,El Paso,United States,06-06-2021,Male
+c152ad3d-9697-42b9-a0fd-aa9a959da1ef,04-03-1994,US,USD,employee,$111561.99,basic,Single,GA,Atlanta,United States,6/25/2021,Male
+7b809d2c-0c90-4128-8adb-e17a273f06b5,13-12-1999,US,USD,self-employed,$107945.38,HNI,Single,FL,Daytona Beach,United States,10-05-2021,Male
+69aa23ff-57da-45cc-894a-782d141bfff0,18-09-1994,US,USD,employee,$337331.58,basic,Divorced,NY,Brooklyn,United States,3/30/2021,Male
+d6c278e8-4399-45ce-9f5a-163106164916,21-09-2001,US,USD,worker,$309907.91,HNI,Single,KS,Topeka,United States,9/24/2021,Female
+2e460983-f4c8-4cad-a9ce-7c225f975c5b,11-10-2000,US,USD,employee,$213113.37,standard,Divorced,TX,Wichita Falls,United States,09-02-2021,Male
+022d886f-0586-403c-a8bb-70cec53c3aa6,15-01-1999,US,USD,,$386725.78,standard,Separated,AL,Birmingham,United States,6/18/2021,Male
+f49e57f0-b171-4d57-9186-90b15d5f906f,05-11-1990,US,USD,worker,$153637.24,basic,Single,DC,Washington,United States,1/28/2021,Male
+914c2772-3661-460f-9959-4906ca8c3209,23-10-1991,US,USD,employee,$306303.75,standard,Separated,VA,Richmond,United States,05-11-2021,Female
+16384edd-2168-4e63-bc5b-503d50176230,14-06-1996,US,USD,self-employed,$180784.78,HNI,Single,DC,Washington,United States,05-09-2021,Male
+a6902078-99ba-4400-a30b-a0de81b0bf8c,17-02-1997,US,USD,worker,$241554.46,standard,Single,IL,Chicago,United States,02-11-2021,Male
+8d75354a-48c5-47df-b6a0-7cee940121e0,07-03-1992,US,USD,worker,$135410.16,standard,Widowed,CA,North Hollywood,United States,4/24/2021,Male
+9f0d9ffa-ba10-4426-a835-fd3b1c7f5099,13-11-1990,US,USD,worker,$130451.00,standard,Separated,KY,Lexington,United States,03-05-2021,Male
+d0ae9334-bbc6-4f29-b862-c569c994b475,10-09-1998,US,USD,worker,$277934.51,HNI,Married,NC,Charlotte,United States,03-12-2021,Male
+83c87b36-12f9-4a56-a7e2-18ebeb0ea4ca,26-11-1998,US,USD,employee,$303094.07,standard,Married,NV,Las Vegas,United States,11/15/2021,Male
+06d26eb9-9075-4ca7-800e-1189e263904f,07-11-1992,US,USD,worker,$323285.33,standard,Widowed,CA,San Jose,United States,12/17/2020,Female
+e84e2b97-fa37-4d3b-8b50-e45ee62fe7e4,25-12-1993,US,USD,employee,$391568.70,standard,Single,CA,Sacramento,United States,5/18/2021,Male
+25345a92-85fd-49f0-864f-83dbc06cc917,22-04-1990,US,USD,worker,$167068.47,standard,Widowed,WA,Seattle,United States,11/14/2021,Male
+b76f0287-7e38-439e-ac84-47e34497ee1d,10-08-2000,US,USD,employee,$230315.36,HNI,Separated,DC,Washington,United States,04-10-2021,Male
+9bddd723-51b7-4913-873b-1403e80e917c,05-06-1999,US,USD,worker,$213515.29,HNI,Single,CA,San Francisco,United States,06-05-2021,Male
+4a3ffe38-490c-48b0-858b-7ede51f827b5,17-06-2002,US,USD,worker,$272649.25,basic,Married,OH,Columbus,United States,9/15/2021,Male
+51e6cab9-0aa4-498f-a615-5da3ff35f55a,04-09-1994,US,USD,self-employed,$351976.03,basic,Separated,CA,Chula Vista,United States,4/24/2021,Male
+5b28f3fe-d566-4616-9886-13855c692bd6,25-10-2001,US,USD,self-employed,$373394.71,standard,Separated,MT,Billings,United States,08-04-2021,Male
+387140d4-7fcf-4548-8b36-5f4547f0bbe1,22-11-1997,US,USD,self-employed,$330605.44,basic,Divorced,CA,Stockton,United States,11/13/2021,Male
+10cb825f-7048-4f8e-be32-0bb227017a80,14-03-2001,US,USD,worker,$230505.32,basic,Single,VA,Roanoke,United States,11-01-2021,Female
+059ee45c-cb78-447f-9627-1fd428a80731,16-01-2002,US,USD,employee,$187344.29,basic,Separated,CA,Torrance,United States,4/16/2021,Female
+ef078e05-c8f7-48fa-af10-cc5c17d09db3,12-12-1998,US,USD,employee,$381103.01,standard,Separated,ID,Idaho Falls,United States,2/16/2021,Male
+3a0e3779-1c25-4a77-a3a1-d5c7c067fce1,10-03-2001,US,USD,worker,$377021.38,basic,Divorced,FL,Orlando,United States,08-05-2021,Male
+900e9be6-f9db-4408-8c5b-345278088e15,12-05-1991,US,USD,worker,,basic,Divorced,FL,Fort Lauderdale,United States,03-10-2021,Male
+bd3f4424-edfa-4bbe-9bba-00bcc569eccb,20-03-2002,US,USD,self-employed,$129515.16,standard,Separated,KS,Kansas City,United States,2/22/2021,Male
+bd041f91-b532-46c1-ba3e-4f7e59843234,01-01-1996,US,USD,self-employed,$331582.73,standard,Divorced,IN,Anderson,United States,07-05-2021,Male
+7e1b72b3-50b9-4bfa-ae35-0aa866ccc150,14-02-2001,US,USD,employee,$187286.01,basic,Married,CA,San Francisco,United States,06-05-2021,Female
+055c0147-99aa-489b-a0e2-9e612bc7d77e,14-09-1999,US,USD,worker,$361160.38,standard,Single,TX,San Antonio,United States,02-12-2021,Male
+f9df1114-683e-4584-aa31-00ef7e451234,05-03-1996,US,USD,worker,$186672.65,standard,Single,MN,Saint Paul,United States,8/15/2021,Female
+6f8bb687-76a5-4044-9966-f79343ab1e17,28-06-1997,US,USD,employee,$256352.80,basic,Married,KS,Kansas City,United States,12/19/2020,Male
+b8e4d3c3-b47c-469b-bbe9-f2ee3288e519,20-01-2001,US,USD,employee,$190043.73,HNI,Widowed,WA,Tacoma,United States,03-07-2021,Male
+d247d659-ec55-4dc8-8ad7-0dbc900f0c11,23-09-1999,US,USD,employee,$340137.47,HNI,Divorced,MN,Maple Plain,United States,02-06-2021,Male
+7c2c5849-7280-435b-a1be-73d0e5e63d49,05-11-2001,US,USD,worker,,HNI,Single,NE,Omaha,United States,12/17/2020,Male
+1b22bfd9-150f-4a20-a0ef-f24a5d7be53e,18-10-2000,US,USD,self-employed,$203169.47,HNI,Separated,CA,Stockton,United States,9/20/2021,Female
+6b96cc5e-d336-40c7-a12b-0384983a353c,07-03-1998,US,USD,worker,$272357.86,HNI,Separated,FL,Kissimmee,United States,5/23/2021,Female
+fcc792d9-dab6-42b8-99e0-16a95d91961a,13-01-1991,US,USD,self-employed,$163438.13,standard,Divorced,NY,Buffalo,United States,8/20/2021,Male
+5c6896c9-980a-495e-81ed-5f812918694d,17-08-2001,US,USD,self-employed,$193827.67,standard,Widowed,TX,Houston,United States,1/31/2021,Male
+74f6d317-4ef1-4e7a-adc8-14311bd91108,13-12-1997,US,USD,employee,$310409.21,standard,Divorced,WI,Madison,United States,09-12-2021,Male
+ef3ca21c-7698-4055-9418-86c4b0c1af98,12-12-1997,US,USD,self-employed,$310837.51,standard,Married,FL,Saint Petersburg,United States,10/13/2021,Female
+5869f7e5-e64e-4d82-b1c1-0c6c4ee77b7b,15-02-1995,US,USD,worker,$174963.61,standard,Married,UT,Salt Lake City,United States,12/20/2020,Male
+3baeda48-4929-4846-bdde-680354f3dd73,08-11-1999,US,USD,self-employed,$143826.72,HNI,Married,AZ,Phoenix,United States,02-06-2021,Female
+b34cd583-f5f8-4df9-a4ac-5b0488d3a64f,09-11-1992,US,USD,worker,$209589.62,HNI,Divorced,UT,Salt Lake City,United States,5/24/2021,Female
+59f40f35-d619-4f87-926d-b6fdf76d3923,02-04-1999,US,USD,worker,$388052.81,HNI,Separated,FL,Jacksonville,United States,06-11-2021,Female
+7c59772a-e99e-4648-8d0a-2b1fc824a45d,12-02-2001,US,USD,worker,$292066.49,standard,Single,ND,Fargo,United States,5/25/2021,Male
+41c67ea5-f63b-47eb-bdbd-a098f6ef5a67,22-03-1999,US,USD,employee,$193726.58,standard,Single,MN,Minneapolis,United States,07-03-2021,Male
+84a6553b-1530-4b1a-972e-a471f475b76b,10-06-1996,US,USD,worker,$283809.77,standard,Widowed,WA,Spokane,United States,01-03-2021,Male
+e7561c1c-c338-42a1-a75c-debb85193dd8,17-03-1997,US,USD,self-employed,$151388.91,HNI,Divorced,MD,Baltimore,United States,2/20/2021,Male
+f06877e0-6771-4787-907a-5211fa61bda4,11-12-1990,,,worker,$173701.95,basic,Divorced,FL,Miami,United States,12/14/2020,Male
+186265a1-b19a-4bac-8ba8-ecc1852737d2,11-05-1990,US,USD,worker,$113788.92,basic,Widowed,DC,Washington,United States,08-02-2021,Male
+b2209eae-ad3f-449f-8bf0-d3b18d7a9cc6,01-08-1994,US,USD,employee,$395808.38,basic,Married,FL,Hollywood,United States,07-12-2021,Male
+8ac00429-4ee7-408c-a5e8-e4062cb511ec,24-04-2002,US,USD,self-employed,$306267.31,basic,Married,TX,Dallas,United States,7/15/2021,Male
+bd7ac1b5-add3-400b-a19a-e217dfa07259,09-03-1993,US,USD,self-employed,$251496.26,basic,Single,MO,Kansas City,United States,10/31/2021,Female
+45f44188-91be-42a7-8c89-383facfdf7f0,10-04-1998,US,USD,worker,$293813.76,basic,Single,NV,Las Vegas,United States,3/22/2021,Male
+2ea32d8b-4189-4af4-b6e0-951b7ac4c9bd,07-03-1996,US,USD,employee,$288312.48,HNI,Divorced,NJ,Newark,United States,4/17/2021,Male
+85701e64-caa9-4b7e-a0f0-4bc53822e24c,30-10-1992,US,USD,employee,$248634.43,basic,Widowed,CA,Orange,United States,11/13/2021,Female
+ebbd6957-23e5-4684-85a5-fe9161a61c7f,25-05-1995,US,USD,worker,$319347.87,standard,Single,OK,Norman,United States,07-05-2021,Female
+8e4562f1-baf2-4888-8e99-7f7fe7d2ef26,14-04-1991,US,USD,worker,$380282.22,standard,Divorced,SC,Greenville,United States,8/31/2021,Male
+fec0898d-9e15-43c5-b765-dbcded0c0d09,28-07-1997,US,USD,employee,$100582.19,basic,Divorced,CA,Palmdale,United States,6/24/2021,Male
+385567ac-0504-487b-b672-d379f29892b1,17-07-1990,US,USD,self-employed,$253785.41,basic,Widowed,PA,Reading,United States,12/20/2020,Male
+2b604ee3-f2b1-4e2b-8bec-fadca1f2d5fe,01-08-1993,US,USD,employee,$212893.38,basic,Single,NC,Durham,United States,11/13/2021,Male
+d9d8810e-b40e-49c0-a7fb-8bc7b076c201,28-09-1999,US,USD,employee,$338719.84,HNI,Divorced,OK,Oklahoma City,United States,6/26/2021,Male
+af93d32c-4f3a-4ed5-b080-689850131d6d,12-04-1997,US,USD,worker,$318267.64,basic,Single,ID,Boise,United States,9/18/2021,Male
+c76a1773-5d84-4be0-a2df-b917bef8f0ef,07-08-2000,US,USD,self-employed,$378559.75,basic,Single,MI,Lansing,United States,11-04-2021,Female
+bfa8b11b-3349-48a6-b7b3-855b49275f0f,10-10-1994,US,USD,self-employed,$147352.54,standard,Divorced,TX,Spring,United States,03-02-2021,Female
+65b0c1d6-fd73-4a5a-a2f5-b9db8fde0b1f,16-06-2002,US,USD,self-employed,$274297.67,HNI,Widowed,KY,Louisville,United States,01-05-2021,Male
+62df8966-8b9c-4f06-877c-3a794559b205,08-07-1992,US,USD,employee,$327078.03,HNI,Married,FL,Spring Hill,United States,2/18/2021,Male
+e73adc72-14e6-4bf9-8047-8841b7fe1f4e,17-07-1996,US,USD,self-employed,$369326.88,basic,Separated,MA,Boston,United States,1/31/2021,Female
+6b4c3e72-ee2f-4a8e-a1b3-89d40da00fe7,02-04-1998,US,USD,employee,$145934.31,standard,Single,CO,Pueblo,United States,2/24/2021,Male
+d59fef7a-10af-469e-936a-9b352ef394e4,04-04-1993,US,USD,worker,$344274.31,standard,Divorced,TX,Amarillo,United States,12/21/2020,Male
+39910347-033d-4ec9-b82f-e740405ccd10,09-05-1995,US,USD,worker,$111089.57,HNI,Single,TN,Memphis,United States,10/26/2021,Female
+ba50c754-f024-42a4-af6a-d335b29d2313,18-08-1999,US,USD,worker,$375721.56,standard,Separated,DC,Washington,United States,01-04-2021,Male
+11e647c6-fa2e-442f-a58e-7b11edb76c0e,10-02-1994,US,USD,worker,$376324.59,basic,Widowed,IL,Springfield,United States,05-08-2021,Male
+db7a815b-67c9-49dc-9157-0ce2843a9d3c,07-12-1999,US,USD,employee,$185065.01,standard,Widowed,FL,Gainesville,United States,1/20/2021,Female
+f696c045-5727-4aa4-920a-598cf1744f06,02-10-1996,US,USD,self-employed,$366976.76,HNI,Married,PA,Philadelphia,United States,09-03-2021,Male
+e9286df2-07e0-44ad-8ee9-7fef21fddcc2,05-01-1999,US,USD,worker,$255101.86,HNI,Divorced,TN,Nashville,United States,11/25/2020,Male
+813b3451-c784-4688-842b-d5d892693892,07-05-1997,US,USD,employee,$216832.78,HNI,Divorced,DC,Washington,United States,3/15/2021,Male
+27ad9c20-077c-4732-94b1-6b506c2b56ac,08-08-1995,US,USD,employee,$230053.22,standard,Single,VA,Virginia Beach,United States,7/24/2021,Male
+eb0657f5-67cd-47db-a554-8ecdac73a4ea,26-12-1994,US,USD,worker,$131027.93,HNI,Separated,HI,Honolulu,United States,8/24/2021,Female
+2451b241-c9b0-493d-b42e-ce7f7ed552b0,10-04-1992,US,USD,self-employed,$275440.03,basic,Widowed,KS,Topeka,United States,02-01-2021,Male
+96fb4034-8e3c-4b83-beae-c0ccbefc2366,22-01-1993,US,USD,,$218621.12,standard,Married,FL,Miami,United States,12-07-2020,Male
+9a851c6c-3e9c-40f9-8ee0-33755ee97357,20-11-1992,US,USD,employee,$106080.36,standard,Divorced,IL,Peoria,United States,8/26/2021,Male
+0f3fd1b6-2db5-412f-80d2-26732a24dd6f,16-04-1996,US,USD,worker,$187829.79,standard,Widowed,IN,Indianapolis,United States,12/19/2020,Male
+d725bd5b-8ae8-43bd-932f-1caeb825038e,24-01-1993,US,USD,employee,$284353.82,HNI,Widowed,AL,Anniston,United States,10/15/2021,Male
+32db0bda-98c7-4319-a079-476b4e021c5e,14-01-1993,US,USD,worker,$177070.59,basic,Divorced,OK,Oklahoma City,United States,10/26/2021,Male
+03a5cbc6-6a31-494f-8a81-432e249a7547,30-04-1999,US,USD,employee,$222715.23,basic,Divorced,NC,Winston Salem,United States,07-10-2021,Male
+67761929-15ae-4fe0-8c78-4ce100ba1f4c,16-04-1990,US,USD,worker,$336136.98,standard,Married,KS,Wichita,United States,6/13/2021,Male
+d35829ec-796d-4f08-bf0b-04d6e2706283,18-08-1998,US,USD,employee,$173728.99,standard,Divorced,CA,Escondido,United States,5/19/2021,Female
+5123b52c-7117-44ae-bdda-633156b7a2b2,02-02-2001,,,worker,$318533.01,HNI,Separated,CA,Bakersfield,United States,08-03-2021,Female
+6404589d-870e-4f1a-9368-0f4fb613e8d2,12-03-2001,US,USD,employee,$160063.21,HNI,Married,IA,Cedar Rapids,United States,03-01-2021,Male
+bda36566-5471-4112-a7ce-694004cc29b5,24-06-1999,US,USD,self-employed,$325687.81,standard,Divorced,DC,Washington,United States,9/28/2021,Male
+4a652435-b34b-4170-8391-c2625b5f96c7,17-02-1998,US,USD,employee,$218207.17,standard,Divorced,MO,Kansas City,United States,9/20/2021,Male
+9f3268d9-25c0-4f96-9f29-f5205f554993,14-01-2000,US,USD,worker,$210798.93,HNI,Married,MD,Baltimore,United States,12-12-2020,Male
+f5789bc6-bb07-48fa-a33c-ec8df2ed5741,07-02-1997,US,USD,self-employed,$332528.73,HNI,Single,MN,Saint Paul,United States,12/16/2020,Male
+9bde40e5-29ea-43be-9d34-153593a3ddb2,06-11-2002,US,USD,employee,$221026.75,HNI,Widowed,DC,Washington,United States,3/16/2021,Male
+64b2da1c-7567-4794-bf6d-4a90ef9b5247,29-07-1998,US,USD,self-employed,$130851.13,standard,Separated,NY,Bronx,United States,4/13/2021,Male
+711df565-d106-412a-898b-fbc584f70f9e,29-09-1997,US,USD,employee,,HNI,Divorced,FL,Winter Haven,United States,1/23/2021,Female
+5019f01a-745a-4318-9343-3a722b57c3b3,28-07-2000,US,USD,employee,$275862.10,basic,Widowed,TX,Houston,United States,1/28/2021,Male
+c3d580a2-bc3e-4481-bd9d-7bed34f5446a,04-04-1996,US,USD,worker,$390835.76,standard,Divorced,OH,Dayton,United States,2/28/2021,Male
+04675490-c32a-4372-9049-7b39ce872cb9,27-12-1998,US,USD,self-employed,$168913.86,HNI,Separated,DC,Washington,United States,9/16/2021,Male
+c4d62173-d195-4f8f-9220-49d818d3ae7b,19-08-1993,US,USD,employee,$394508.38,basic,Separated,FL,Miami,United States,5/29/2021,Male
+737b8d0c-ffe9-483c-8ce9-80640ea3b667,10-10-1997,US,USD,self-employed,$266811.75,basic,Widowed,TX,Austin,United States,11/14/2021,Male
+4d27099b-0a5b-4a45-bdb3-85e13c52171f,31-05-1998,US,USD,employee,$338010.20,basic,Widowed,NV,Las Vegas,United States,7/20/2021,Male
+f3d8d835-71fc-4afc-98f0-0ba6bb873bb9,10-11-1997,US,USD,worker,$333741.70,basic,Single,WA,Spokane,United States,6/22/2021,Male
+9b6b66e0-6b88-44bb-8ddb-d3fc4ebdee96,17-12-2000,US,USD,self-employed,$239277.55,standard,Widowed,SD,Sioux Falls,United States,12/27/2020,Male
+e27cfa9a-03ff-4d18-b234-5430072b087c,20-12-1991,US,USD,worker,$165665.20,standard,Married,VA,Richmond,United States,11-07-2021,Male
+370fe3bd-04ac-478a-99ee-b79221a16d29,25-12-1996,US,USD,employee,$170249.46,basic,Divorced,FL,Tampa,United States,10/13/2021,Male
+9fd4e8ef-a798-4110-823d-88c4865b7b7e,11-10-1997,US,USD,self-employed,$109453.24,basic,Separated,DC,Washington,United States,11/16/2021,Male
+1acb2e50-1182-4ac4-b5d5-b383f4eec55c,13-03-1996,US,USD,employee,$383532.26,HNI,Separated,WI,Milwaukee,United States,09-10-2021,Female
+e4c5f2b7-37a9-426f-bfe5-987aec3bad64,19-08-1996,US,USD,worker,$152805.54,standard,Divorced,MI,Dearborn,United States,5/22/2021,Male
+435f1381-8c78-4a53-9fef-1cfd9431d0e6,12-11-2002,,,worker,$125275.08,standard,Separated,CA,Sacramento,United States,04-02-2021,Female
+cdac7467-b05b-43a4-b2ea-41d1385dd76a,15-02-1994,US,USD,worker,$126084.87,basic,Single,CO,Aurora,United States,6/19/2021,Male
+e6d2fa19-7f52-4722-92dd-35f232726be0,13-09-1999,US,USD,worker,$175001.95,basic,Separated,WV,Charleston,United States,09-05-2021,Female
+d2143cc1-b083-4118-9038-211c0e582b9e,02-06-1993,US,USD,employee,$303826.56,standard,Widowed,CA,Oakland,United States,6/21/2021,Male
+f98db25c-164b-43dd-8564-c0694fc5f08a,18-06-1998,US,USD,employee,$313202.74,standard,Widowed,FL,Saint Petersburg,United States,6/21/2021,Female
+04bedc7d-4486-4649-b18e-4bb31a9c1f42,01-04-1998,US,USD,self-employed,$128329.76,standard,Married,WV,Huntington,United States,12/19/2020,Male
+f4c1aa69-10cb-4200-911a-77544a5d6446,24-03-2001,US,USD,employee,$253970.81,HNI,Married,OH,Canton,United States,8/14/2021,Male
+3b9ef2fb-f945-4339-bc73-0e1373283cbb,30-06-2001,,,employee,$112286.30,standard,Married,MO,Kansas City,United States,8/16/2021,Male
+33ce4120-0911-4495-8cfe-680cf1e5077c,25-01-2000,US,USD,worker,$341420.66,standard,Married,MD,Baltimore,United States,5/13/2021,Male
+b245fd91-7a6e-4c65-bb6c-eaa850b5c404,20-05-1994,US,USD,self-employed,$190895.22,basic,Married,GA,Atlanta,United States,03-01-2021,Male
+2fffca2c-35c7-432c-9b8d-a3e5b63fc259,02-12-1990,US,USD,self-employed,$143045.22,basic,Separated,IL,Champaign,United States,1/21/2021,Male
+13564e16-54e2-4033-b6a7-b541064cd36e,22-09-1995,US,USD,,$262039.40,standard,Separated,FL,Saint Petersburg,United States,6/18/2021,Female
+5cd0146d-db2c-46dd-8aa9-0072bba8e0fc,14-10-1997,US,USD,,$394165.37,basic,Married,WV,Charleston,United States,1/15/2021,Female
+8b40e436-9e81-4e9f-b9c9-4c71e829d4e1,12-09-1997,US,USD,employee,$341463.82,basic,Single,TX,Laredo,United States,11-08-2021,Male
+c8cdaea6-a14c-46e4-9bb9-17e26a31c4c3,24-12-1991,US,USD,self-employed,$137525.64,HNI,Widowed,NC,Greensboro,United States,06-07-2021,Male
+0cac04bf-dbfe-4d14-b983-14dc348bb69c,21-08-1994,US,USD,self-employed,$153300.10,HNI,Married,CO,Colorado Springs,United States,12-01-2020,Male
+9923ec68-4680-4df6-b776-55eeb83a8ef6,24-09-1997,US,USD,self-employed,$295232.46,HNI,Married,CA,Oakland,United States,8/18/2021,Male
+e99cf255-36c1-4943-8688-f63748907879,04-02-1995,US,USD,self-employed,$383448.20,basic,Single,MD,Hyattsville,United States,05-06-2021,Male
+bc9e4dde-8357-4257-88cd-93857b525383,31-12-1997,US,USD,self-employed,$332390.64,basic,Married,MO,Saint Louis,United States,6/18/2021,Male
+171d5d24-122d-4cca-a83b-dc50bfe99d2e,15-05-1995,US,USD,self-employed,$125778.47,basic,Divorced,CT,Waterbury,United States,09-07-2021,Male
+b03ebb15-d6b3-4c4c-966a-bb909d68cab5,08-04-1995,US,USD,worker,$253635.60,basic,Married,PA,Pittsburgh,United States,12/20/2020,Male
+248f9beb-5b7f-41ad-a5a5-375d84c40e87,18-02-1996,US,USD,self-employed,$254704.58,basic,Single,VA,Alexandria,United States,06-08-2021,Female
+b0ae32d3-8a52-4e25-a955-890f47e5baa4,06-04-1998,US,USD,self-employed,$253718.04,standard,Single,TX,Corpus Christi,United States,11-05-2021,Male
+3280bb94-68d0-4768-aac2-9b1669f37386,10-11-1994,US,USD,employee,$129054.76,standard,Married,TX,Dallas,United States,04-05-2021,Male
+591f7baf-f70b-4cec-97b0-153147d1add2,25-08-1998,US,USD,self-employed,$180185.96,standard,Single,CA,Sacramento,United States,7/15/2021,Female
+185d9862-3c6d-43e3-beb4-6e708ed2d08b,30-04-1992,US,USD,employee,$125339.98,basic,Married,OH,Toledo,United States,02-07-2021,Male
+2d53c2a2-15d0-463a-b9ef-41c940fc284b,25-10-2002,US,USD,self-employed,$250731.01,HNI,Separated,OH,Youngstown,United States,12-07-2020,Male
+727bf8aa-6be8-4f8a-9098-9487d22fbc3c,21-05-1999,US,USD,employee,$193314.31,basic,Widowed,CA,Redwood City,United States,01-04-2021,Male
+d43e68b0-8c09-45d2-be66-a211b50773f8,17-07-2000,US,USD,self-employed,$267799.80,HNI,Separated,CA,Orange,United States,5/29/2021,Female
+939e0c30-8efd-4489-8e41-7c77887c9af2,18-07-1991,US,USD,self-employed,$336666.67,standard,Single,NC,Asheville,United States,11/27/2020,Male
+3359eefa-9c5c-48a7-8d11-4be32fc75995,15-11-2001,US,USD,self-employed,$397473.21,basic,Married,OK,Oklahoma City,United States,3/17/2021,Male
+761361fa-fbc3-498b-8741-76558142c534,08-03-1999,US,USD,worker,$107833.84,basic,Single,CA,Los Angeles,United States,3/17/2021,Female
+de1954a2-706a-4e9a-bd76-9e55af7f9d38,15-07-2000,US,USD,employee,$392991.42,HNI,Married,NH,Manchester,United States,1/30/2021,Female
+e8f4798a-3605-467b-affd-a61443c66ac9,23-05-2000,US,USD,worker,$389687.02,standard,Single,TX,San Antonio,United States,04-08-2021,Male
+47591869-d779-4210-94c1-50af6acd08fa,27-03-2002,US,USD,self-employed,$267964.04,standard,Widowed,IL,Peoria,United States,3/23/2021,Female
+72b8feb3-07ac-4013-95ea-3367322511f2,29-07-1991,US,USD,self-employed,$397034.25,HNI,Separated,CT,West Hartford,United States,11-09-2021,Male
+d4caf663-f576-42fb-899b-ceae7ebc09fe,07-08-1991,US,USD,self-employed,$379842.10,basic,Married,MA,Boston,United States,8/21/2021,Female
+ea08a7e9-c176-4a0b-9ddc-a752b1f36102,12-11-1994,US,USD,worker,$206064.87,basic,Widowed,NV,Las Vegas,United States,9/20/2021,Male
+0624ced8-3fec-4a0d-a7a6-0d5bd227ff89,15-04-2000,US,USD,employee,$204715.80,standard,Separated,AZ,Prescott,United States,10-09-2021,Female
+6ebdee91-a621-4089-8815-f8880eb9e07f,10-05-1995,US,USD,employee,$149914.35,basic,Separated,PA,Levittown,United States,2/15/2021,Male
+af93c1ea-d831-481e-9eed-c3b50004c65d,26-06-1998,US,USD,,$262873.64,basic,Single,LA,Baton Rouge,United States,02-04-2021,Male
+f01ec8fe-7f9c-46d5-89da-e94a5b01809b,31-10-1993,US,USD,self-employed,$239768.26,basic,Separated,IA,Des Moines,United States,04-05-2021,Female
+b10d1732-4a9b-45fe-a782-e179fe9257bf,28-03-1997,US,USD,self-employed,$376164.10,basic,Separated,KS,Topeka,United States,8/27/2021,Male
+cdcb8af5-cebf-4805-8584-a2a366710e95,24-12-1998,US,USD,self-employed,$288714.94,standard,Single,NV,Las Vegas,United States,7/15/2021,Female
+db643732-ecc4-42d9-8e45-ad6807eb7005,26-06-1994,US,USD,self-employed,$373572.50,,Divorced,IN,Indianapolis,United States,1/20/2021,Male
+6f72051d-fc6b-45d3-9693-d65971b48292,07-03-1995,US,USD,employee,$135853.56,basic,Married,NM,Albuquerque,United States,7/19/2021,Male
+25cf7af4-9496-4386-897f-acbe344c7c27,19-08-2002,US,USD,worker,$305495.19,standard,Married,TX,Huntsville,United States,8/18/2021,Male
+ebd43438-39ab-491e-b6b8-8fefdeadd543,12-04-1990,US,USD,worker,$211187.16,standard,Single,OR,Portland,United States,8/22/2021,Male
+85da9bce-cfd2-4f83-be06-e4b588c0eef8,24-02-1993,US,USD,self-employed,$382483.34,basic,Separated,CO,Fort Collins,United States,9/16/2021,Male
+0f57ac6f-7cbd-4eb0-9c9d-0eb125a5240c,28-10-1992,US,USD,self-employed,$369485.21,basic,Single,OK,Tulsa,United States,10-04-2021,Female
+132d681d-f3e3-455e-aea6-007ec54a5c7f,01-06-1997,US,USD,employee,,basic,Widowed,KS,Wichita,United States,5/24/2021,Female
+368d4e0f-dd4d-4ea8-8252-918a2882518d,17-08-1991,US,USD,employee,$224922.65,standard,Separated,FL,Melbourne,United States,08-11-2021,Female
+ba52d0f2-4fa8-4451-a148-b9ade1fe401c,03-02-2002,US,USD,worker,$252893.78,HNI,Married,WV,Charleston,United States,02-05-2021,Female
+a0a3b4ca-fc02-43be-9343-e3564c64a042,15-10-1994,US,USD,worker,$149218.02,basic,Single,OH,Cincinnati,United States,12-01-2020,Male
+8e827812-8261-40b2-9571-85735a0134e4,04-05-1993,US,USD,self-employed,$283674.07,HNI,Married,NE,Omaha,United States,5/19/2021,Female
+a0d32050-8394-455d-a0a2-8327bd3c1f30,03-06-1998,US,USD,self-employed,$108921.45,basic,Single,FL,Clearwater,United States,4/17/2021,Male
+a437796e-b661-43c0-b650-1687b719e38f,23-03-1991,US,USD,self-employed,$396067.70,standard,Widowed,AL,Montgomery,United States,2/19/2021,Female
+704f61c7-20d3-4a6a-b818-bc0c0c3a790f,06-07-1995,US,USD,employee,$305342.52,HNI,Married,WA,Tacoma,United States,5/20/2021,Male
+d7b2990e-2013-4770-9f26-ca175f6154cb,10-07-2000,US,USD,self-employed,$157853.70,standard,Single,AL,Montgomery,United States,10-06-2021,Female
+a932e47f-6c0a-43d8-bba6-4d651c4a447f,17-01-2001,US,USD,worker,$362669.60,basic,Widowed,VA,Merrifield,United States,10-02-2021,Male
+1b22d22a-6665-4a03-ae10-2c8db63376fd,02-02-1990,US,USD,worker,$343241.81,standard,Separated,WI,Milwaukee,United States,7/22/2021,Male
+961bdf0a-414f-4b91-abcb-c277dfa7ea31,02-09-1992,US,USD,employee,$154336.42,basic,Separated,LA,Baton Rouge,United States,4/28/2021,Male
+12a67380-933d-4bcd-8a2d-b87b531ce832,27-11-1999,US,USD,self-employed,$241560.12,basic,Divorced,CA,San Diego,United States,4/22/2021,Male
+daa32dea-5f15-4bde-8b2b-fdaf72ac887b,21-09-2002,US,USD,self-employed,$356183.88,standard,Married,WA,Seattle,United States,10/16/2021,Male
+cd041a59-68d1-423c-b045-2891811699a1,15-05-1996,US,USD,self-employed,$150268.07,standard,Separated,IN,Evansville,United States,6/26/2021,Male
+3d00a46e-b169-4147-8cde-aeb7c51d9e9a,13-04-1994,US,USD,self-employed,,HNI,Married,CT,Stamford,United States,6/21/2021,Male
+efcff8e2-5039-4e70-aeef-e9d8a025435a,01-09-2001,US,USD,worker,$340894.47,HNI,Single,KY,Lexington,United States,04-01-2021,Male
+84b20416-1e72-4a8e-a4cc-9a2d19dbe6fb,25-12-1991,US,USD,worker,$282338.04,HNI,Separated,CO,Denver,United States,6/21/2021,Male
+e30c97d0-b69e-4a86-85c2-9012ca734cc6,06-03-1998,US,USD,,$338895.76,HNI,Widowed,NY,Albany,United States,9/27/2021,Male
+1d7f8296-c473-4380-9192-f5804ebeb392,11-11-1992,US,USD,,$199026.71,HNI,Divorced,PA,Mc Keesport,United States,7/30/2021,Female
+c588613f-3213-437b-976e-2f0df3ae6148,16-06-1996,,,employee,$287407.00,HNI,Single,WV,Huntington,United States,5/16/2021,Male
+187f966a-8f77-4310-8377-e277c876fd43,22-09-2002,US,USD,employee,$142738.56,HNI,Widowed,OH,Toledo,United States,9/27/2021,Male
+0b858693-42df-4382-bafb-333d75ec415b,12-11-2002,US,USD,self-employed,$177647.32,basic,Widowed,SC,Columbia,United States,04-12-2021,Female
+87c55999-c3d7-4e81-a254-6d1a84a46412,12-01-1997,US,USD,employee,$345703.38,basic,Single,MO,Saint Louis,United States,08-03-2021,Male
+7cce01d1-eda5-4074-bea4-1670635ced62,16-06-1992,US,USD,worker,$309351.36,HNI,Separated,LA,New Orleans,United States,2/15/2021,Male
+5beac4d7-7a52-4b5e-94de-6ec060c0bd48,20-11-2000,US,USD,employee,$358951.55,basic,Widowed,OH,Columbus,United States,04-02-2021,Male
+102e3b4a-2d35-4250-9dd7-c4a2cfe97402,09-07-1998,US,USD,employee,$345527.28,HNI,Married,CA,Sacramento,United States,6/26/2021,Male
+9dec3fb5-3a44-4022-b88a-f8695ca34cd9,13-01-1992,US,USD,self-employed,$241184.40,basic,Separated,IN,Terre Haute,United States,09-06-2021,Male
+e741d3f6-0911-4611-862e-36d77f309969,07-02-1993,US,USD,worker,$149453.54,standard,Divorced,LA,New Orleans,United States,1/31/2021,Male
+82e1761d-0cc1-4192-b08d-cc6255f81969,02-01-1994,US,USD,self-employed,$219905.32,,Single,CA,Pasadena,United States,9/14/2021,Male
+ecd27093-4bb2-443c-9bad-ada9eb6da142,18-06-1999,US,USD,worker,$278194.50,HNI,Married,AZ,Tucson,United States,2/23/2021,Female
+6b064b16-1f77-4620-870a-65b90d26c326,08-01-1998,US,USD,worker,$156822.90,standard,Single,CO,Englewood,United States,7/23/2021,Male
+a24fbe77-8f22-499b-b9c4-9a0dafed4e26,04-10-2002,US,USD,employee,,basic,Separated,CA,Garden Grove,United States,7/25/2021,Female
+cb98647b-61d3-4490-9e07-d8684f24f6fd,19-11-1996,US,USD,self-employed,$268878.49,HNI,Divorced,NY,New York City,United States,9/28/2021,Male
+62d86429-983c-4140-8780-d4b7f7ac32af,28-10-2001,US,USD,employee,$371703.58,HNI,Widowed,WA,Spokane,United States,1/17/2021,Male
+9ee02bbe-192b-4582-ae5c-df5b5d5b96fd,24-10-1991,US,USD,,$169589.51,HNI,Separated,NY,Brooklyn,United States,07-10-2021,Male
+1468c986-7416-41b3-b66f-26c48f099cf4,09-04-1992,US,USD,worker,$350797.56,standard,Widowed,NH,Portsmouth,United States,11-06-2021,Male
+c0175246-0ac0-4b1e-a8b6-76b2a01a44c2,04-10-1992,US,USD,self-employed,$308475.38,HNI,Married,OK,Edmond,United States,4/30/2021,Female
+f096d32e-d3dc-433e-bcff-5b2fa8ad6d19,17-03-1992,US,USD,worker,$365383.56,basic,Separated,DC,Washington,United States,2/23/2021,Male
+d96e6c6a-0229-4575-bbb0-6a721244564b,17-11-2000,US,USD,self-employed,$215034.75,standard,Separated,GA,Atlanta,United States,11/13/2021,Male
+aa323f05-1bc0-4669-a98b-68a47b8afe9a,29-08-1996,US,USD,employee,$169861.42,basic,Widowed,PA,Pittsburgh,United States,10/16/2021,Female
+e3d65537-4463-40f2-9a1b-4da65c5b2d5f,26-01-1997,US,USD,employee,$138162.60,basic,Divorced,NY,Bronx,United States,11/13/2021,Male
+56ecbfa3-c87c-49a4-9689-719c196e0402,31-03-1993,US,USD,employee,$176648.30,basic,Widowed,IN,Fort Wayne,United States,09-09-2021,Male
+46a45743-92c1-40fd-848a-0fa8b47ee69a,31-10-1991,US,USD,worker,$379632.47,standard,Widowed,SC,Columbia,United States,3/20/2021,Male
+6f0dbeb1-bb3b-4c54-8122-5596acda9a43,21-11-1992,,,self-employed,$255531.60,basic,Single,NJ,Newark,United States,02-03-2021,Male
+f3e2970e-ed90-4940-b8a0-03432ceed8cb,27-01-1990,US,USD,employee,$173694.07,standard,Divorced,NV,Las Vegas,United States,07-02-2021,Male
+83a8fa49-6633-455d-ac52-7c6511d60f19,23-12-1997,US,USD,self-employed,,basic,Married,VA,Manassas,United States,5/14/2021,Female
+7332a9b7-7e0b-4372-b65c-e172de8290d1,04-10-2000,US,USD,self-employed,$227425.84,standard,Divorced,IN,Evansville,United States,12-05-2020,Female
+6bd7afee-0691-474a-8193-67b5e01d5a31,30-04-1995,US,USD,self-employed,$111182.06,standard,Single,NY,Yonkers,United States,06-03-2021,Male
+caff87b4-8b04-46cd-9fee-134c4ed67b9d,16-09-1999,US,USD,,$309997.42,HNI,Widowed,TX,Amarillo,United States,12/24/2020,Female
+d657dd48-9615-435e-9888-03b10a239877,03-12-1999,US,USD,self-employed,$162898.11,HNI,Married,WI,Milwaukee,United States,6/14/2021,Male
+672d8063-cc07-4c1f-a8f3-08d3d8a81e86,29-07-1995,US,USD,,$211254.26,standard,Divorced,TX,Huntsville,United States,02-11-2021,Male
+3c4d8b92-6667-4273-93a6-698be8f0ac6e,04-03-1995,US,USD,employee,$264779.86,standard,Single,TX,Fort Worth,United States,9/27/2021,Male
+d73c7d25-e88a-4706-be2d-a207d141bd2e,20-10-1993,US,USD,,$329240.94,standard,Separated,IN,South Bend,United States,12/23/2020,Male
+04c71251-8951-4c0b-be57-9ea3db2f7ea5,13-10-1996,US,USD,employee,$130302.69,HNI,Separated,OH,Canton,United States,9/30/2021,Male
+2f13075c-8b74-4a51-913c-c0fb7298fe67,28-07-2002,US,USD,worker,$143357.99,HNI,Married,CA,Sunnyvale,United States,11/21/2021,Female
+014a6c66-70bd-4efa-9115-b263ceceac90,24-10-1994,US,USD,worker,$308588.45,basic,Widowed,NM,Albuquerque,United States,9/25/2021,Male
+8857f07a-9225-4b98-835e-54b729cfc4ac,30-04-1995,US,USD,worker,$103545.73,HNI,Widowed,CA,San Diego,United States,04-07-2021,Male
+9f06d0a3-7662-4b91-8a73-36cdd6b1e0bd,23-06-1991,US,USD,,$206888.01,standard,Divorced,VA,Alexandria,United States,11-08-2021,Male
+cb304e9c-4441-410e-bc5b-8057684df7c6,20-02-1992,US,USD,self-employed,$254800.30,HNI,Married,NJ,Camden,United States,11-07-2021,Female
+12bd4063-7021-4255-9232-471ffb9f21ea,05-02-1992,US,USD,self-employed,,standard,Separated,MI,Muskegon,United States,09-09-2021,Male
+37ed2446-96c2-494a-9750-957880168df5,24-08-1997,US,USD,worker,$397417.87,standard,Single,OK,Oklahoma City,United States,3/29/2021,Male
+7d1eef3b-68bd-404b-b8f8-2db328ed8d65,09-06-1999,US,USD,self-employed,$106709.33,standard,Widowed,NY,Great Neck,United States,12/21/2020,Male
+567455be-b555-46d1-84dc-015e4a5c770c,04-10-1996,US,USD,employee,$157343.64,basic,Widowed,CA,Sacramento,United States,7/19/2021,Male
+26369dd5-0c4d-4b09-8215-4e8c0dd9f9ef,06-04-1990,US,USD,employee,$342315.97,basic,Separated,OH,Akron,United States,07-04-2021,Female
+964b7139-ed31-4cc7-8fc6-5049daa47db4,08-09-1999,US,USD,employee,$179723.52,basic,Married,NV,Las Vegas,United States,8/17/2021,Male
+690df4db-15a6-4ae3-af17-77d371c491b7,17-04-1991,US,USD,self-employed,$236072.17,basic,Single,IL,Springfield,United States,10/17/2021,Male
+f199903f-0c29-4cf2-b57f-0b78288d99a6,29-01-1991,US,USD,self-employed,$175078.86,standard,Married,NY,New York City,United States,6/21/2021,Male
+6c189e07-281a-483d-9bd1-215f9e1ec43c,03-02-1995,US,USD,worker,$315634.97,HNI,Single,PA,Pittsburgh,United States,4/27/2021,Male
+17d3d834-3fdf-416d-af0d-d59727a7f0de,08-11-1994,US,USD,employee,$193410.47,,Divorced,CA,Torrance,United States,9/13/2021,Male
+930d8c84-e325-41ed-ba3c-7d39871d82c6,31-05-1996,US,USD,self-employed,$159653.42,HNI,Widowed,FL,Lehigh Acres,United States,10-10-2021,Male
+2d5d9e13-4ad1-4c50-b27a-1128d1d1ca60,01-04-1990,US,USD,employee,$120364.41,HNI,Separated,IN,South Bend,United States,6/21/2021,Male
+3f10d093-08db-4395-84d8-2ede6d210b03,03-07-1992,US,USD,employee,$284274.40,standard,Married,IL,Peoria,United States,08-08-2021,Male
+50bc1ce3-2c5e-4705-b33c-080efa4f2835,14-06-1996,US,USD,worker,$343197.29,standard,Single,CA,Los Angeles,United States,8/20/2021,Male
+f70bfafb-9cd4-45e3-bd4e-1041fff99c9b,24-04-1991,US,USD,,$172801.78,basic,Separated,VA,Sterling,United States,09-01-2021,Male
+01cef5f3-1e38-4f45-b518-8db3ef259372,15-02-2002,US,USD,worker,$366328.74,HNI,Married,IA,Des Moines,United States,08-08-2021,Male
+39bfb503-e5df-4cba-935e-088b64690e44,09-03-1995,US,USD,self-employed,$183068.13,standard,Divorced,NY,Brooklyn,United States,3/30/2021,Female
+854cda68-13bc-474f-aa47-fb31dde5fe0e,15-10-1997,US,USD,worker,$372746.74,HNI,Married,CA,Santa Monica,United States,11/18/2021,Female
+1fbb2fb0-53f8-4874-a39f-89af2a7cf485,26-05-1995,US,USD,employee,$346579.80,HNI,Separated,CA,Los Angeles,United States,12/16/2020,Male
+85a80328-733f-4661-a47c-7e40c8c676c5,27-06-1996,US,USD,self-employed,$290106.19,HNI,Married,FL,Miami,United States,10/30/2021,Male
+5d1d4922-5680-4d55-9633-7dbc2f09d65b,03-05-1992,US,USD,self-employed,$266004.05,standard,Single,PA,Erie,United States,03-08-2021,Male
+5af77889-67e2-4daf-9967-626daf67843a,04-11-1999,US,USD,worker,$241308.72,standard,Separated,MN,Monticello,United States,05-01-2021,Female
+9f137cb2-4aec-4e55-852a-86bcdf843065,16-11-1995,US,USD,self-employed,$331247.86,HNI,Widowed,AL,Huntsville,United States,2/13/2021,Female
+d8eb74e0-7f43-44c2-b369-7f825d6ea567,16-01-1991,US,USD,worker,$376181.71,basic,Married,FL,Fort Myers,United States,3/21/2021,Female
+c9cb1c88-04d8-4b7a-a8b5-312f36dd1413,03-01-1998,US,USD,worker,$318244.11,HNI,Married,UT,Salt Lake City,United States,04-12-2021,Male
+8258b3e0-d89f-4267-a07d-1796abc924a0,08-11-1992,US,USD,worker,,basic,Separated,NY,Buffalo,United States,10/20/2021,Male
+161291d2-2d67-4656-a357-48eb2a57a86e,10-10-1998,US,USD,,$210728.60,basic,Divorced,FL,Sarasota,United States,1/27/2021,Male
+6e6aa49f-b4fb-4101-ac77-dc98f52092f1,28-02-1990,US,USD,employee,$101473.29,HNI,Single,AL,Birmingham,United States,3/28/2021,Male
+df5ecbbf-7a0d-44d7-b62f-377da4b31744,24-12-1993,US,USD,employee,$297240.48,HNI,Divorced,NE,Omaha,United States,3/17/2021,Male
+81414ba7-be10-4a96-a43e-ba7fd9c26190,30-03-1990,US,USD,worker,$330786.81,standard,Divorced,FL,Lakeland,United States,1/17/2021,Male
+635da373-3e2e-4f2c-8081-9dc35b2eb7c9,25-06-1994,US,USD,self-employed,$288436.45,HNI,Single,KS,Shawnee Mission,United States,10-09-2021,Female
+a2ce5025-ba93-4797-9ee2-78b57f51e1b8,08-11-1998,US,USD,employee,$149757.10,standard,Widowed,CA,San Jose,United States,12/29/2020,Male
+2efbfa25-fbe5-40f6-855f-90f7deb86618,16-02-2000,US,USD,self-employed,$248637.57,basic,Widowed,CT,Hartford,United States,09-03-2021,Male
+e0adff07-6662-40c2-843a-e977163ad2bc,14-08-1991,US,USD,employee,$134816.12,standard,Single,CA,Fresno,United States,4/20/2021,Male
+7aa8db48-a9b3-4ee9-9c7c-138bf846d3a4,04-10-2000,US,USD,self-employed,$325143.97,HNI,Divorced,AL,Tuscaloosa,United States,9/26/2021,Male
+03fa0d01-ecad-4764-8430-999185104ad3,18-08-1995,US,USD,employee,$120098.28,HNI,Married,SC,Columbia,United States,12-03-2020,Male
+31664942-c743-41e4-a80e-84398884b5b7,24-10-1991,US,USD,employee,$165121.19,standard,Divorced,CA,Stockton,United States,2/20/2021,Female
+05cbb71c-b1ed-445e-93a8-c7dad7918c44,23-06-1999,US,USD,self-employed,$323111.18,standard,Married,OH,Dayton,United States,12/13/2020,Male
+3d1ed056-3ba7-47f2-8f1b-1db89ad96e25,11-08-2002,US,USD,self-employed,$273613.60,HNI,Married,NC,Wilmington,United States,09-10-2021,Male
+20f5ea3e-bdcd-4793-88b3-0439c2cc6cea,07-06-2001,US,USD,worker,$317648.27,standard,Single,FL,Hialeah,United States,07-06-2021,Male
+96c70bc7-c45c-48f0-aaef-776598d38a04,12-04-1990,US,USD,employee,$350316.05,HNI,Married,WV,Charleston,United States,11-01-2021,Male
+d2bf6343-32cc-4a62-b0db-3ee84d63dbff,15-09-1990,US,USD,worker,$333335.47,standard,Married,WI,Milwaukee,United States,06-05-2021,Male
+8a732b11-6a9d-4e3e-b649-cbc99fdbc211,12-01-1991,US,USD,employee,$181720.38,basic,Widowed,VA,Richmond,United States,10/18/2021,Male
+2dcf3888-1ab6-4f18-8f00-5e907809b3b9,17-11-2002,US,USD,self-employed,$180993.44,standard,Single,ID,Boise,United States,6/13/2021,Male
+dd3498b2-4e65-44df-81e8-29d522c0d71a,19-08-1994,US,USD,self-employed,$262147.43,HNI,Married,MD,Hagerstown,United States,12/13/2020,Male
+c87065be-7007-4eec-93ac-b94c3aca79c6,01-11-1994,US,USD,self-employed,$120636.08,basic,Single,MO,Kansas City,United States,07-03-2021,Male
+2d168746-6bb9-493c-b52f-dd8009da4492,13-06-1993,US,USD,worker,$195966.36,standard,Single,GA,Macon,United States,8/20/2021,Male
+9e8cd5f0-2b5e-4af6-b8a8-776d00a069d0,05-03-1994,US,USD,employee,$367247.74,HNI,Separated,WA,Yakima,United States,10-02-2021,Male
+81da3421-8afc-44c7-b9bb-17dc1e631a3e,13-09-2000,US,USD,employee,$173915.08,basic,Single,TX,Arlington,United States,4/17/2021,Female
+70c5235b-f2ab-471e-96f0-6ad9bc96eb10,21-04-2001,US,USD,worker,$357444.42,standard,Divorced,KS,Kansas City,United States,04-07-2021,Male
+0fdfe056-9b8b-4491-805f-271345493fb5,14-07-1991,US,USD,worker,$101363.14,standard,Widowed,WI,Madison,United States,8/16/2021,Female
+3fb792d5-3ed8-47b2-bcdb-41ef49ce7390,07-10-1993,US,USD,self-employed,$300906.14,HNI,Divorced,CO,Denver,United States,2/13/2021,Male
+59ebdce5-254f-42cd-bfe4-9047ed632155,04-09-1998,US,USD,worker,$374007.73,basic,Divorced,CT,New Haven,United States,5/16/2021,Male
+e75b5e2c-19a3-44ec-aaa1-1a97fc96144b,23-03-1990,US,USD,worker,$195631.15,standard,Divorced,FL,Lakeland,United States,9/20/2021,Male
+e3604056-cefb-4c85-8d94-132bc26c4277,18-09-1997,US,USD,worker,$202596.88,standard,Single,CA,Sacramento,United States,6/13/2021,Male
+d56ea8cd-0ed1-4670-9418-469e38176be9,06-07-1991,US,USD,worker,$156990.99,basic,Widowed,PA,Erie,United States,9/20/2021,Male
+a345e19b-32c9-46c0-842f-94d9acb9be83,29-03-1996,US,USD,self-employed,$335548.77,standard,Divorced,GA,Duluth,United States,1/29/2021,Male
+5916bb5b-4ca2-4a5b-a865-708048c1663a,05-09-1994,US,USD,,$371209.45,basic,Separated,NJ,Trenton,United States,10/21/2021,Male
+8c4c8189-bc64-4010-ba7a-b4194f58581c,21-10-1992,US,USD,self-employed,$299517.33,HNI,Single,FL,Lake Worth,United States,04-02-2021,Male
+1bfef472-face-466c-9605-a79b41aaed1f,09-11-2000,US,USD,employee,$366838.13,basic,Separated,LA,Baton Rouge,United States,11-01-2021,Female
+3a1d6722-7bd6-4675-9c4f-ee4bd10142d8,12-11-1991,US,USD,,$167807.00,basic,Divorced,FL,Orlando,United States,6/19/2021,Male
+595da13a-4508-47ee-baeb-3789ab890d34,07-02-1993,US,USD,employee,$158894.59,basic,Widowed,SC,Charleston,United States,1/16/2021,Male
+b420f747-a74d-4cd2-aec5-6fbc3e9c6ceb,08-06-1999,US,USD,self-employed,$267553.78,HNI,Divorced,CA,Riverside,United States,08-09-2021,Male
+63e028c3-5e99-420f-898a-88ac8887eb3a,14-08-1990,US,USD,employee,$247045.53,basic,Separated,CA,San Jose,United States,06-08-2021,Male
+4f719829-d9fb-4def-b7a9-6b591ff349a7,07-12-1993,US,USD,self-employed,$282980.63,HNI,Single,VA,Roanoke,United States,1/21/2021,Male
+e2e477f2-7441-475a-a153-e9f535bb61c0,21-10-1998,US,USD,employee,$129952.04,basic,Married,PA,York,United States,03-04-2021,Female
+7accd302-97a4-41e9-9f3f-dc7c29ba9c46,29-01-1990,US,USD,worker,$376641.56,HNI,Separated,DC,Washington,United States,12/29/2020,Male
+d74d4e12-941d-4fa1-9b36-0c2353c874b9,02-11-2001,US,USD,worker,,basic,Married,NC,Charlotte,United States,2/22/2021,Male
+bbd68f1e-3e22-4606-aedf-08312b8529bb,18-01-1992,US,USD,self-employed,$237275.29,standard,Separated,TN,Kingsport,United States,01-05-2021,Male
+a5b57b82-cb64-4d31-ad20-49796c4d0a2f,18-03-1996,US,USD,employee,$235451.74,standard,Widowed,FL,Tampa,United States,11-04-2021,Male
+50af3257-0603-451b-b8cd-b69cc28aca58,22-06-1999,US,USD,self-employed,$199865.69,basic,Married,TX,Houston,United States,1/16/2021,Female
+d2af1397-4c7b-49fa-8653-9786aea8f194,05-09-2001,US,USD,self-employed,$204450.35,HNI,Separated,OK,Edmond,United States,6/26/2021,Male
+e3e61461-c69e-4120-8aa1-66ac75c7b80e,22-02-1999,US,USD,employee,$147487.33,HNI,Widowed,PA,Lancaster,United States,12/20/2020,Female
+8e87f247-13dc-460c-aaeb-c375b27ad858,20-04-1991,US,USD,worker,$178549.30,HNI,Divorced,CA,Whittier,United States,3/18/2021,Male
+74d8bf7e-7ace-4b95-bcdb-db3456f76402,08-12-2001,US,USD,,$142112.97,standard,Divorced,MO,Saint Louis,United States,03-01-2021,Male
+cb9953ed-7180-49a5-9f14-507a1e1a3751,24-06-1996,US,USD,worker,$284895.52,basic,Married,SD,Sioux Falls,United States,2/15/2021,Male
+ae99ffaf-cb43-4af1-b0cc-e7488e078cbf,10-03-1993,US,USD,employee,$339538.42,basic,Widowed,MD,Silver Spring,United States,01-04-2021,Male
+81a3a176-be1d-428d-80ea-506cda7ee9c4,05-02-2000,US,USD,,$329207.09,standard,Separated,TX,Waco,United States,10/20/2021,Male
+491b59fe-c2c3-4a0a-a1ca-fae577768474,11-02-1993,US,USD,employee,$374415.03,basic,Married,MO,Kansas City,United States,1/17/2021,Male
+dfc6ca7e-e971-486e-ba26-47fc2ecdb6a4,26-11-1991,US,USD,employee,$354578.20,basic,Single,VA,Virginia Beach,United States,06-12-2021,Male
+335ef0db-ead9-4af7-bbcb-9804bd005349,01-12-2001,US,USD,self-employed,$348642.59,HNI,Separated,NY,Jamaica,United States,04-01-2021,Male
+c127b94c-a584-4c01-a06d-416026f35f2b,04-05-1994,US,USD,worker,$373667.66,HNI,Widowed,NJ,New Brunswick,United States,8/28/2021,Male
+a5f7257d-5ac0-4060-8391-172da1809886,08-07-1996,US,USD,employee,$288508.57,standard,Divorced,WA,Spokane,United States,8/31/2021,Male
+d14626cd-991d-424b-86d1-e30896aa3db5,22-06-2001,US,USD,self-employed,$180085.96,standard,Widowed,VA,Hampton,United States,05-04-2021,Male
+cb626201-ea9d-43bf-ad2b-9624b095e472,09-05-2002,US,USD,self-employed,$252435.37,HNI,Widowed,CA,Chico,United States,04-04-2021,Male
+f42a87fc-fc2f-4996-90b9-d0faad9dc4c6,25-03-1991,,,employee,$328448.48,standard,Widowed,CA,Sacramento,United States,11-06-2021,Male
+6d0ace85-0583-4b47-84eb-ba8356aed6f2,29-08-2000,US,USD,employee,$240079.76,HNI,Widowed,AZ,Glendale,United States,12/21/2020,Male
+6f4f03ea-26c2-4f6c-9e55-63021712e6b6,16-04-1999,US,USD,employee,$130979.74,HNI,Divorced,IL,Springfield,United States,04-10-2021,Male
+f8c59c3f-616a-4571-8a95-d81a98d46590,28-06-1991,US,USD,employee,$258316.92,standard,Single,SC,Charleston,United States,01-09-2021,Male
+22425d89-e3b8-4f09-b405-1888f19da583,16-02-1992,US,USD,employee,$241224.84,standard,Separated,MA,Boston,United States,1/29/2021,Male
+4bd7fda6-4a46-47c8-bf9e-b326431ad599,02-02-1999,US,USD,employee,$214554.41,standard,Separated,DC,Washington,United States,11/26/2020,Male
+9faaf5ec-5e75-4edd-897d-bdb7b9c97802,21-03-1997,US,USD,employee,$222885.12,standard,Single,FL,Cape Coral,United States,10/19/2021,Male
+b37002c3-da85-47c0-b3ef-1cc9857f5c72,23-03-1995,US,USD,self-employed,$220475.29,standard,Divorced,FL,Orlando,United States,12-10-2020,Male
+4671982b-826d-44da-ac82-90ab54cfaf13,12-05-1993,US,USD,employee,$118220.60,standard,Married,CO,Denver,United States,04-12-2021,Male
+4c8906a6-8058-4ad5-8223-2805e11dbc7f,03-06-1992,US,USD,employee,$268794.01,basic,Married,NY,Brooklyn,United States,6/24/2021,Male
+e619f504-ad20-41ed-b7be-956f0d501281,23-06-1990,US,USD,employee,$129029.47,basic,Married,IN,Lafayette,United States,08-10-2021,Female
+c0baf791-3e4f-4b8a-8872-d8e86113ae27,11-05-1994,US,USD,worker,$388428.38,standard,Widowed,FL,Fort Myers,United States,8/14/2021,Female
+c5512954-4930-4405-8b31-1076a9cc75b6,30-10-1998,US,USD,employee,,standard,Married,FL,Tampa,United States,4/14/2021,Male
+262de8c4-2b6d-4710-8378-a1ecb40437f0,27-06-1997,US,USD,worker,$113990.67,HNI,Widowed,VA,Norfolk,United States,9/14/2021,Male
+77570e8b-b51d-4282-95d3-e259add1ba00,03-02-1999,US,USD,self-employed,$224944.84,HNI,Married,VA,Richmond,United States,09-04-2021,Female
+1375071a-efcd-4823-bab2-25f558497b41,16-05-1999,US,USD,employee,$228598.66,standard,Single,NY,Albany,United States,11-04-2021,Female
+c26ed144-d430-43c4-a388-3ca3edb2b556,21-10-2000,US,USD,worker,$364869.46,HNI,Divorced,MO,Saint Louis,United States,01-12-2021,Male
+6879b5cf-845b-4137-9f5d-7e151ea562ae,22-06-1998,US,USD,employee,$220843.27,basic,Divorced,FL,Tallahassee,United States,5/17/2021,Male
+03862bb5-ade4-4a43-8a9a-e18fdc3b4dbd,28-10-1997,US,USD,worker,$371554.89,HNI,Separated,FL,Jacksonville,United States,09-11-2021,Female
+fa446fe7-887b-497b-a2e0-a9770f1d02be,17-06-1995,US,USD,,$366111.08,HNI,Widowed,TX,San Antonio,United States,09-10-2021,Female
+bc7e9a20-c13c-4cc3-8444-131ca7c8e617,20-11-1990,US,USD,employee,$202644.76,basic,Separated,UT,Salt Lake City,United States,10/31/2021,Male
+c06429fb-5910-4b70-b97d-382472cf87b4,08-02-1990,US,USD,self-employed,$263369.00,basic,Widowed,CA,Pasadena,United States,12/26/2020,Male
+0325fd66-26dd-4bbb-bbeb-d2febc1c7966,19-06-1998,US,USD,self-employed,$379059.46,basic,Single,CA,Riverside,United States,04-01-2021,Female
+47048d9c-5118-4c87-a1b8-1fafb511963b,10-09-1990,US,USD,worker,$374367.31,basic,Single,MS,Columbus,United States,12-09-2020,Male
+e45223aa-ac9d-404c-8ff0-56c2e863a1b2,16-12-1991,US,USD,employee,$197136.73,standard,Married,FL,Port Charlotte,United States,06-09-2021,Female
+a11dd930-1985-419c-a2a2-23454fdcdb21,17-01-1994,US,USD,self-employed,$223648.73,basic,Separated,MS,Biloxi,United States,1/14/2021,Male
+feef1053-6e8a-4d50-ac3b-aaaad099e983,23-03-1990,US,USD,worker,$133062.58,HNI,Separated,IA,Des Moines,United States,06-08-2021,Male
+024a3f06-4beb-4b36-9e9b-d7bac329ce4f,28-07-1996,US,USD,employee,$347745.56,HNI,Divorced,MA,Boston,United States,10/15/2021,Male
+0596fe2b-b1b7-4006-b6d5-715b14f82e9f,08-03-1999,US,USD,employee,$126009.98,basic,Separated,TX,Midland,United States,12/22/2020,Female
+928029f9-0580-4cd2-b3d7-9c20a2aff802,24-06-1996,US,USD,worker,$255309.92,standard,Single,TX,El Paso,United States,4/16/2021,Male
+743b465c-92b7-4005-966c-0cee1b7b7f31,06-01-1994,US,USD,worker,$195151.12,standard,Married,TX,El Paso,United States,07-01-2021,Male
+c11589b0-7520-4189-8246-f8a95459791d,18-07-1994,US,USD,self-employed,$145263.17,HNI,Married,CT,New Haven,United States,1/26/2021,Male
+40c6c0f6-9f06-4982-b701-a9da04377447,13-04-2001,US,USD,self-employed,$358062.50,HNI,Widowed,OK,Norman,United States,9/21/2021,Male
+38b4ef58-d733-45d1-a54c-6a28c81d1313,12-07-1998,US,USD,self-employed,$324471.69,basic,Separated,NC,Greensboro,United States,1/13/2021,Male
+c6fbfd02-0039-40f7-bec5-8a8388a61ff6,05-09-2002,US,USD,employee,$180635.04,basic,Widowed,DE,Newark,United States,06-02-2021,Male
+ab5eb12d-f8ed-4a0c-a806-522f39296341,13-08-1991,US,USD,self-employed,$183378.85,basic,Single,NC,Charlotte,United States,3/17/2021,Female
+bc946f7a-b10e-4b5a-a664-e332c2701859,26-01-1993,US,USD,employee,$375877.54,HNI,Widowed,DC,Washington,United States,01-05-2021,Male
+78366891-c018-4b3f-a548-768c8a73d660,13-10-1995,US,USD,self-employed,$391802.07,,Separated,CA,Escondido,United States,09-06-2021,Male
+63a9de7f-a555-4572-a66e-16faa0925ed7,20-01-1994,US,USD,worker,$118122.71,HNI,Separated,FL,West Palm Beach,United States,01-08-2021,Male
+814177a0-73e2-4174-be6f-2a37159beda7,01-08-2000,US,USD,worker,$333897.60,basic,Married,NY,New York City,United States,2/23/2021,Male
+2ee2bb43-2c02-45b6-be6e-545bf0deda43,28-06-1998,US,USD,worker,$131419.32,standard,Single,CO,Denver,United States,05-12-2021,Male
+c40b58c8-4f98-4c6b-a1b8-30866e4dd31d,24-08-1991,US,USD,employee,$104265.16,basic,Married,OH,Columbus,United States,12/24/2020,Male
+9900666e-3233-443b-b62b-bcbc3e5b2696,11-12-1999,US,USD,self-employed,$289258.09,HNI,Widowed,NE,Omaha,United States,5/16/2021,Male
+986dadfa-3dbb-473e-a591-478b19208a89,28-12-1998,US,USD,self-employed,$377811.35,basic,Divorced,DC,Washington,United States,3/24/2021,Male
+63d4df28-b7bf-487a-9c81-f1343a4d65e6,04-04-1994,US,USD,employee,$181094.33,HNI,Single,NJ,Newark,United States,1/27/2021,Male
+d445a0fb-84a2-42ca-8288-2c07c87b32ab,25-10-1993,US,USD,self-employed,$372251.13,basic,Separated,NV,Las Vegas,United States,3/30/2021,Male
+83e529e2-a1ec-4cc1-a16f-dceba31ac28a,20-10-1999,US,USD,employee,$202554.59,HNI,Widowed,AL,Birmingham,United States,1/26/2021,Female
+4560ddfa-c5d1-4397-bb56-2a53abe7e124,26-05-2001,US,USD,self-employed,$289057.70,standard,Divorced,IL,Rockford,United States,08-09-2021,Male
+2ba1d4b3-373e-4ce5-9546-5a0642b34d0c,29-12-1993,US,USD,employee,$186078.48,standard,Single,NY,New York City,United States,06-11-2021,Female
+d2ebeac6-af9f-468f-ae3f-94faea668e21,25-05-1990,US,USD,self-employed,$193719.45,basic,Separated,LA,Baton Rouge,United States,07-10-2021,Female
+36274e02-7d3e-4e52-8fd3-aa5319daf41c,24-11-2000,US,USD,worker,$302190.34,standard,Divorced,DC,Washington,United States,11/15/2021,Male
+f02b2a33-67fd-4264-a747-54b46a875961,08-06-1991,US,USD,employee,$137382.83,HNI,Single,AR,Little Rock,United States,08-03-2021,Male
+77ba4e01-3c4d-4cf9-9932-a124613d3a58,07-02-1999,US,USD,worker,$161958.52,HNI,Separated,AL,Montgomery,United States,6/14/2021,Female
+6f8d19a9-d74a-48dd-8ee8-ebcad9b17d4c,31-01-1995,US,USD,self-employed,$115730.03,HNI,Separated,FL,Orlando,United States,2/16/2021,Male
+f5c2e987-8191-4268-9e54-73cd1ff3ae6b,04-06-1995,US,USD,worker,$316034.12,basic,Widowed,NY,Jamaica,United States,3/17/2021,Male
+ad023a92-e4a4-46d7-aa4e-9fc967512262,15-02-1998,US,USD,employee,$251560.50,standard,Married,OK,Tulsa,United States,01-04-2021,Male
+3f71fff9-7299-4794-8633-5fd9ba6b58d8,31-05-2000,,,self-employed,$369479.90,HNI,Single,OK,Tulsa,United States,12-08-2020,Male
+219d0154-3898-4c4e-8ad8-abf92d0d3574,19-04-1992,US,USD,self-employed,$223543.61,basic,Single,TX,Corpus Christi,United States,3/19/2021,Male
+199b2c85-d57c-4e52-804c-c5ea1c34a902,08-10-1993,US,USD,employee,$200748.50,HNI,Widowed,TX,El Paso,United States,10-10-2021,Male
+2a988327-a367-4611-9d2c-d46a14fdaf32,21-11-1991,US,USD,self-employed,$132952.17,HNI,Separated,TX,Dallas,United States,6/22/2021,Male
+0d3978ca-538c-4877-bbab-f02c37b9f581,18-06-2001,US,USD,self-employed,,basic,Single,TX,Odessa,United States,8/14/2021,Male
+9f6210ef-34fa-478b-b82a-192a005156b9,26-03-1997,US,USD,self-employed,$258866.34,HNI,Divorced,NC,Raleigh,United States,07-06-2021,Female
+002ecc96-e757-499d-8a97-6620054134c7,25-01-1995,US,USD,self-employed,$234127.94,basic,Single,NV,Las Vegas,United States,10/27/2021,Male
+04b12be9-c322-4e1d-965e-6aafb889665b,13-10-1994,US,USD,employee,$342380.77,basic,Single,AZ,Phoenix,United States,5/29/2021,Female
+6cc36292-4b60-4781-a83d-65228ece670b,12-02-1991,US,USD,employee,$343503.22,standard,Widowed,FL,Boca Raton,United States,2/24/2021,Male
+aad6f233-ba50-4176-ba41-848e0310f418,18-06-2000,US,USD,employee,$301280.22,standard,Divorced,GA,Norcross,United States,10/28/2021,Male
+8be801e5-7d7c-4875-b358-f4c161ee29f8,11-08-1991,US,USD,employee,$306138.23,basic,Married,IL,East Saint Louis,United States,1/24/2021,Male
+c047eb33-9568-4e0d-bcef-c152e7296b0b,13-08-2001,US,USD,worker,$302398.79,standard,Separated,SC,Beaufort,United States,04-09-2021,Male
+4ecae63d-3215-4edc-8852-8fdafd2e1771,15-04-1991,US,USD,worker,$282082.36,HNI,Widowed,FL,Orlando,United States,12-03-2020,Female
+480eb0d3-dd8d-4835-9128-b2f08693a620,06-01-1991,US,USD,self-employed,$198975.33,HNI,Single,KS,Topeka,United States,7/18/2021,Male
+f861cc1b-1c79-45cc-abdc-a2db495628ac,22-12-2000,US,USD,worker,$293344.59,standard,Divorced,IN,Fort Wayne,United States,8/15/2021,Male
+5067dd2e-c1eb-4536-bbff-de7300f7053d,18-07-1993,US,USD,employee,$181456.00,standard,Married,MA,Worcester,United States,2/20/2021,Male
+d325d401-2518-43e8-9217-4f9f3b159307,12-08-1999,US,USD,self-employed,$129994.82,basic,Widowed,IL,Chicago,United States,6/30/2021,Male
+ca9e70dc-9fa6-4730-8d4d-66eccd26a396,16-01-1997,US,USD,self-employed,$196000.41,standard,Widowed,MI,Detroit,United States,4/19/2021,Female
+eefa6618-ebe5-41f4-98c4-3fee2a4c367b,01-03-1993,US,USD,employee,$238527.68,HNI,Divorced,TX,Houston,United States,4/14/2021,Male
+88de8dfe-1f85-426a-a0d2-a8c86f44ed3a,10-07-1990,US,USD,self-employed,$122763.20,basic,Widowed,TN,Knoxville,United States,5/16/2021,Male
+f3c0be49-8ce3-4bbf-8955-04f25ed8b8c8,23-03-1999,US,USD,self-employed,$231777.39,basic,Divorced,NY,Buffalo,United States,12/30/2020,Male
+30f5e9f2-a34a-45ad-8d1f-372a1ecfd39d,05-10-2002,US,USD,employee,$128688.59,basic,Widowed,NE,Lincoln,United States,09-09-2021,Male
+50cec12f-6c8f-47ac-997d-a9499cf16307,21-01-1993,US,USD,worker,$301482.96,basic,Separated,WI,Madison,United States,12-01-2020,Female
+2a493c2f-c8a5-4acc-b021-c669b2d8093a,28-09-1996,US,USD,worker,$224358.15,HNI,Married,VA,Charlottesville,United States,4/21/2021,Female
+e2e3de42-6b59-4bd0-9a8b-5b3b1447c1b3,04-09-2002,US,USD,self-employed,$143817.97,basic,Widowed,VA,Arlington,United States,9/19/2021,Male
+ef2bd95b-22c4-4088-87f3-7f94cf959baf,23-07-1991,US,USD,self-employed,$226223.00,basic,Separated,MD,Annapolis,United States,7/25/2021,Male
+076cb218-4559-4b9e-ab34-ec61ad033467,20-02-1992,US,USD,self-employed,$307221.92,HNI,Separated,PA,Philadelphia,United States,10/22/2021,Female
+4710c0f6-c6c0-4dae-be83-ad679b3b84bd,15-09-1998,US,USD,worker,$151106.71,basic,Single,KY,Louisville,United States,11/16/2021,Female
+39a625ac-f3ad-4f43-8d62-0ca9d8b94412,28-04-1999,US,USD,self-employed,$272316.86,standard,Divorced,MD,Baltimore,United States,01-01-2021,Male
+e19fcf63-26b4-410e-b9ea-13d8943931ad,25-12-1992,US,USD,self-employed,$350422.92,HNI,Divorced,SD,Sioux Falls,United States,08-11-2021,Male
+32df9712-183d-4e6e-841e-9808a2ce7bfd,20-08-1998,US,USD,,$239352.39,basic,Widowed,IN,Evansville,United States,1/19/2021,Male
+57d09541-fd3c-4712-97a3-ff3e3e519e78,01-12-1997,US,USD,employee,$264909.41,basic,Married,NC,Gastonia,United States,02-12-2021,Female
+2e2198e1-6e22-4a5e-b4eb-e4338609f539,24-03-1995,US,USD,worker,$118517.00,basic,Divorced,TX,Katy,United States,09-06-2021,Male
+580f4dff-9baa-49f3-aed9-b3937dc33e64,10-09-1991,US,USD,worker,$167020.76,basic,Separated,CO,Arvada,United States,7/21/2021,Male
+3b55a4f8-8aa9-4e6b-ab46-ce3d4da1198a,18-11-1997,US,USD,employee,$338865.25,basic,Married,NY,Syracuse,United States,08-06-2021,Male
+2284b6f1-3c31-4ac7-ae24-e9ba3863d2f6,05-08-2002,US,USD,worker,$189278.85,standard,Single,FL,Largo,United States,5/19/2021,Female
+0096a71a-f945-40b0-bd0b-27af7bdc2719,11-01-1994,US,USD,employee,$310195.97,HNI,Widowed,VA,Richmond,United States,10-10-2021,Male
+055314d4-e527-45b9-9bfd-aaca57939b90,16-10-1991,US,USD,self-employed,$307702.49,basic,Single,AZ,Phoenix,United States,11/16/2021,Male
+3bee1fad-ed8b-4f02-a946-2d3201db872a,16-02-1996,US,USD,worker,$362500.27,basic,Separated,SD,Sioux Falls,United States,07-02-2021,Male
+913b2b99-88be-402f-9807-024b33eadfa1,21-01-1995,US,USD,employee,$202123.47,basic,Single,FL,Fort Lauderdale,United States,1/31/2021,Male
+005eae69-a120-4e38-b2cf-aa43b7542135,30-01-1994,US,USD,self-employed,$232663.12,basic,Separated,TX,Houston,United States,05-06-2021,Male
+2acdc18a-2f2c-4c32-b4f3-a033b7c98915,30-12-1998,US,USD,self-employed,$161151.75,HNI,Married,OK,Oklahoma City,United States,10/19/2021,Male
+c00304e1-af40-447e-b181-fccfda890f93,15-04-1999,US,USD,self-employed,$195374.00,HNI,Widowed,TX,Corpus Christi,United States,3/17/2021,Male
+84f564d8-2097-45d6-bc7e-944ab3ac53c5,25-09-1994,US,USD,self-employed,$249058.71,standard,Divorced,OK,Tulsa,United States,8/13/2021,Male
+54b839d0-1b83-4fb5-b6b6-c12c9ce2a06f,07-08-1997,US,USD,worker,$389553.03,HNI,Divorced,TX,Fort Worth,United States,8/26/2021,Female
+e063b6b2-d46d-4647-ae2d-ef8785a1f645,06-06-1991,US,USD,self-employed,$357627.34,,Single,LA,New Orleans,United States,01-01-2021,Male
+ba3d70df-de2a-4981-9f3d-b0110252feae,22-10-1998,US,USD,employee,$377921.87,basic,Divorced,TN,Kingsport,United States,11-08-2021,Male
+544c4557-afbf-47dc-b898-4210097c4161,21-02-1996,US,USD,self-employed,$111584.15,basic,Divorced,IN,Fort Wayne,United States,4/20/2021,Male
+8392f2c5-d123-45da-afce-ba955b705be9,28-07-2001,US,USD,self-employed,$301950.57,HNI,Widowed,OH,Akron,United States,6/24/2021,Female
+b234121b-9289-4a16-aba3-6f20ea6d0091,16-03-2002,US,USD,,$372575.18,HNI,Widowed,CO,Denver,United States,9/29/2021,Female
+ae6d3716-929a-4dc1-a12f-b119c0bef1c4,24-03-1994,US,USD,worker,$200025.67,basic,Divorced,TX,Irving,United States,09-03-2021,Male
+d0277f1d-6f0b-4a57-bf10-fdda691925d1,18-03-2002,US,USD,employee,$324727.49,standard,Separated,IL,Chicago,United States,6/21/2021,Male
+614e367c-1a0d-4653-b11c-eef320aa0dbf,30-08-1992,US,USD,employee,$213298.56,standard,Divorced,VA,Newport News,United States,09-08-2021,Female
+c9073c73-25ed-40b4-b202-f0a163bf104d,04-09-1991,US,USD,employee,$327902.73,HNI,Widowed,PA,Philadelphia,United States,01-12-2021,Female
+d175d1fc-fdde-45e7-b441-409c9d6feb78,01-07-1996,US,USD,self-employed,$318406.17,basic,Married,TX,Houston,United States,5/21/2021,Female
+1f291c30-de26-46b7-89a8-017f14aca73f,05-07-1993,US,USD,,$281629.68,HNI,Separated,ID,Boise,United States,11-01-2021,Male
+5b854efd-2e0b-48cb-b235-a5a297b6a424,20-04-1992,US,USD,worker,$271225.45,standard,Widowed,TX,Mesquite,United States,08-03-2021,Male
+47bf59a8-9125-4759-98a9-8684c7398760,12-03-1990,US,USD,employee,$309526.75,basic,Married,ID,Pocatello,United States,09-08-2021,Male
+6f4bfed6-8323-4c44-83a6-8c24a2e4c1a6,29-08-1995,US,USD,employee,$171294.05,basic,Single,AZ,Tucson,United States,2/28/2021,Female
+1ac9310e-85d2-4d40-9bf5-1085105d72c3,01-01-1996,US,USD,self-employed,$363476.35,HNI,Married,CA,Lancaster,United States,11-12-2021,Male
+9b54c1cc-7924-4596-b464-3a9743f2fc5e,08-11-1998,US,USD,self-employed,$289182.23,standard,Separated,DC,Washington,United States,03-11-2021,Male
+989fa30c-d651-40cf-a0be-e6d5d9efb6e8,13-11-1993,US,USD,self-employed,$341767.07,HNI,Married,GA,Gainesville,United States,12-02-2020,Male
+0479f81d-8b45-4072-a451-4b4493e3c262,21-10-1993,US,USD,worker,,basic,Single,SC,Greenville,United States,04-05-2021,Male
+73d43e80-a3e5-4e3b-8915-4d92049a5d5a,01-09-1994,US,USD,employee,$335177.39,basic,Separated,WA,Tacoma,United States,10-10-2021,Male
+054bbfb1-2877-4574-9138-d6e35229336b,10-01-1998,US,USD,worker,$180682.21,standard,Separated,IL,Springfield,United States,2/19/2021,Male
+8c504ed1-c68e-4006-950d-5e81bfa7c005,05-10-1992,US,USD,employee,$318530.84,HNI,Divorced,DC,Washington,United States,08-02-2021,Male
+5b63ce23-59e6-4273-bf48-71414e93e3e3,09-07-2002,US,USD,worker,$119230.03,standard,Married,MO,Kansas City,United States,06-01-2021,Female
+ea94715e-0354-4a3c-a37f-ea20d3f8ebe7,17-06-1993,US,USD,,$184222.45,standard,Single,DC,Washington,United States,09-03-2021,Male
+ca7f063b-2db6-4ba2-af2d-be71b08cd339,19-11-1999,US,USD,employee,$345863.86,basic,Widowed,FL,Fort Lauderdale,United States,11-03-2021,Male
+0b4da6cb-d787-4b0d-9595-6405584fb6f7,16-07-1993,,,worker,$218556.23,standard,Single,TN,Knoxville,United States,10/28/2021,Male
+3c1fd154-b8f2-4cc7-8d0b-95181b5cd338,20-02-1991,US,USD,employee,$317051.57,standard,Married,OH,Columbus,United States,5/15/2021,Male
+f861fb97-1684-49bf-a992-e1af42b64e2a,28-10-1996,US,USD,self-employed,$319348.11,HNI,Single,VA,Richmond,United States,10-01-2021,Male
+f829c5cc-5554-4a23-af85-55bb18e8e693,14-02-1999,US,USD,worker,$125799.55,standard,Married,TX,Corpus Christi,United States,12-05-2020,Female
+1abb3fc6-b9cd-440a-a8d7-4fbbdc43bbfe,03-11-1997,US,USD,worker,$268776.51,basic,Married,NM,Albuquerque,United States,6/15/2021,Male
+7ffead28-b64e-4e62-a5fb-6e50f417b026,20-06-1990,US,USD,self-employed,$234647.59,basic,Widowed,TX,Lubbock,United States,12/15/2020,Male
+668ccd76-f614-4d69-be77-92ed5d431efa,07-03-1994,US,USD,worker,,HNI,Separated,OK,Oklahoma City,United States,3/29/2021,Male
+c4f3ba9d-5edf-4817-8bfe-e8bcff75dacf,20-08-1997,US,USD,employee,$335553.66,HNI,Widowed,VA,Virginia Beach,United States,08-09-2021,Male
+dcbd8438-1bc0-4cc6-964a-0ff3a68f3fcf,02-12-2000,US,USD,employee,$340912.59,basic,Widowed,CA,Los Angeles,United States,10/28/2021,Female
+b58e7806-b982-4c53-81eb-ab4c2bb7b6f7,05-06-1993,US,USD,self-employed,$395361.82,HNI,Divorced,OR,Portland,United States,02-06-2021,Female
+4efb72b1-9107-49c8-b4ab-5c3299369fd2,27-11-1994,US,USD,employee,$196564.79,standard,Divorced,NY,New York City,United States,01-01-2021,Female
+12cbeae3-b18c-4bd2-a069-9bcbdc666c5e,21-06-1992,US,USD,self-employed,$229517.11,standard,Married,OH,Youngstown,United States,12/31/2020,Male
+c08b9b13-bab7-48d7-8092-2185ebbdc948,28-03-1992,US,USD,worker,$323430.12,basic,Single,FL,Naples,United States,1/16/2021,Male
+1ebaecd6-ca9c-4c4b-9a8b-600b12b75dc5,18-06-2000,US,USD,employee,$128300.99,standard,Single,AR,Little Rock,United States,01-10-2021,Male
+5eb168f0-e36f-4c73-81c1-558b9fbd6085,07-09-1998,US,USD,,$317739.29,basic,Widowed,IA,Cedar Rapids,United States,01-12-2021,Male
+b0acd334-ecde-4385-b0fc-43fb5c6347f9,06-09-1997,US,USD,employee,$122772.15,HNI,Divorced,CO,Colorado Springs,United States,12/18/2020,Female
+8f369ffe-93c7-4581-8f2e-2f27cb1cee29,06-09-1997,US,USD,self-employed,$350433.42,standard,Single,SC,Columbia,United States,2/25/2021,Male
+e1161bce-8ec2-4360-9ed7-ca4f2f386309,08-05-1991,US,USD,worker,$141012.60,basic,Separated,CT,Stamford,United States,12/29/2020,Male
+08839b95-759f-4bb9-b06c-005bddf5b51b,30-05-1995,US,USD,worker,$387720.74,HNI,Married,CA,Inglewood,United States,3/26/2021,Male
+653563ac-e5e3-403c-80bc-e8e0a47785c4,23-07-1990,US,USD,employee,$296516.00,basic,Married,IL,Schaumburg,United States,7/19/2021,Male
+20eecc8e-0a5e-4ae9-8fe6-6d314db3693f,09-05-1991,,,,$328955.58,standard,Divorced,MI,Detroit,United States,1/14/2021,Male
+e81c3e81-f193-4e8b-901b-1936f5b558f2,05-01-1999,US,USD,employee,$128108.74,standard,Divorced,NC,Charlotte,United States,04-10-2021,Male
+99e1e0a0-1c43-4b43-aabd-c11a77714519,19-03-1995,US,USD,employee,$207439.47,HNI,Married,TX,Galveston,United States,03-03-2021,Female
+05b5df4c-cef8-4991-89b1-8581daa2c09b,04-09-1996,US,USD,worker,$111847.84,HNI,Separated,UT,Salt Lake City,United States,08-04-2021,Male
+2aa15f69-bd0c-43a4-a44f-12f1505695b7,18-08-1991,US,USD,employee,$351989.78,standard,Married,NY,Hicksville,United States,8/20/2021,Male
+1367e4d3-9f0e-43d4-ad15-2b7a38c2fe34,05-11-1991,US,USD,worker,,basic,Widowed,VA,Norfolk,United States,05-04-2021,Female
+9da3bbbe-34dd-46b8-ac4d-47b82cce27e0,04-12-2000,US,USD,employee,$371524.02,basic,Divorced,CA,San Diego,United States,4/17/2021,Male
+7fd520e5-1893-455f-9ef0-8807803bde41,25-04-1990,,,self-employed,$266975.02,HNI,Single,OR,Salem,United States,12/23/2020,Male
+94f50894-357c-423a-99ad-e95457719799,12-09-1998,US,USD,employee,,basic,Widowed,NC,Durham,United States,11/18/2021,Female
+43d15a96-c147-443d-9844-39785b0efb27,18-08-1998,US,USD,,$350844.46,standard,Widowed,IL,Springfield,United States,7/30/2021,Male
+c2fc2626-6154-437f-8305-ecd1d88c1ca2,25-01-1998,US,USD,self-employed,$192960.85,basic,Widowed,SC,Columbia,United States,12/25/2020,Male
+bee91b66-3076-419b-ba94-bc53799caf96,28-03-1991,US,USD,worker,$340250.20,basic,Married,VA,Roanoke,United States,5/28/2021,Male
+62d60776-0214-4366-9285-df3b9d321142,12-07-1994,US,USD,worker,$297545.48,HNI,Widowed,MA,Newton,United States,07-12-2021,Male
+7f8aef65-1f13-4288-a507-75ec4f422e06,25-04-2001,US,USD,worker,$302584.79,HNI,Separated,TX,Houston,United States,11/19/2021,Male
+61048067-b585-479f-8a82-fdebdf8eb5d3,07-06-1996,US,USD,employee,$136682.11,HNI,Separated,AZ,Phoenix,United States,3/13/2021,Male
+0ca9b55f-0395-49a6-94af-653b2e830496,10-12-1999,US,USD,self-employed,$287063.59,HNI,Separated,FL,Daytona Beach,United States,6/19/2021,Male
+e0d8f2f8-d054-4c48-b620-da3bc2ac41b3,23-02-1991,US,USD,worker,$111478.07,standard,Single,GA,Atlanta,United States,11/23/2021,Female
+405d7fc4-cf96-4956-b47f-e37a2f53f264,27-02-1991,US,USD,self-employed,$262589.35,basic,Single,TX,Austin,United States,10/21/2021,Male
+76c9ee6c-1c85-4ad5-a305-41a521ae153b,02-08-1994,US,USD,self-employed,$242936.51,basic,Married,TX,San Antonio,United States,7/20/2021,Male
+a8a3e7ea-37ce-4953-8fb8-3fc177553abc,23-03-1997,US,USD,self-employed,$325617.45,basic,Separated,CA,San Bernardino,United States,2/16/2021,Male
+675ec581-f8b1-48a0-baf3-66982154df0b,28-01-2002,US,USD,worker,$233748.55,HNI,Single,NC,Fayetteville,United States,1/16/2021,Male
+e4ec39d5-0934-45c5-93ef-25cede2b464a,14-06-1992,US,USD,self-employed,$160778.66,standard,Single,TX,Corpus Christi,United States,3/14/2021,Female
+1db5b918-be57-44e7-9094-a559cac70e0d,25-05-1991,US,USD,self-employed,$175133.72,standard,Divorced,TX,Midland,United States,09-09-2021,Male
+dbeab2ff-f62c-4b8b-b349-a127caa336b1,19-06-2002,US,USD,self-employed,$306404.92,standard,Divorced,NY,Staten Island,United States,08-12-2021,Female
+db593d14-c89f-420f-888d-d78ef8e7fc58,03-03-1990,US,USD,employee,,basic,Widowed,CA,Sacramento,United States,3/19/2021,Male
+68e16f71-c2ac-4307-82d8-48ee540dda74,21-08-1995,US,USD,employee,$196432.10,HNI,Married,PA,Philadelphia,United States,05-06-2021,Male
+f64f6c34-353f-4338-8475-bbdbbaf564f6,04-02-1999,US,USD,employee,$378281.11,HNI,Widowed,MN,Minneapolis,United States,6/18/2021,Male
+f08a48ae-5565-4cf3-86f9-9dce5c50086d,15-10-1996,US,USD,self-employed,$356285.33,HNI,Married,SC,Columbia,United States,3/28/2021,Male
+1a27335d-a6a7-43a2-8047-1d3718b49950,18-11-1996,US,USD,worker,$136726.12,HNI,Married,MA,Boston,United States,6/27/2021,Male
+d44d2713-8a36-4afb-bf87-96c7a6faea2a,26-11-1992,US,USD,employee,$111675.22,basic,Married,VA,Newport News,United States,05-04-2021,Male
+0dc2478d-bdcd-4d1d-a680-0834df736ea8,03-05-2002,US,USD,self-employed,$208963.79,HNI,Divorced,PA,Pittsburgh,United States,09-10-2021,Female
+666aaa6e-7389-4db8-bba8-7e4faee2b5dd,12-05-1991,US,USD,self-employed,$314621.49,basic,Single,UT,Provo,United States,9/28/2021,Male
+0b20f2c8-c51e-4642-973d-4894d0e7eebd,15-09-2002,US,USD,self-employed,$396422.26,basic,Single,NC,Winston Salem,United States,06-02-2021,Male
+e8153835-9ec7-4ef7-8f28-510ae3cb6b9f,31-07-1991,US,USD,worker,$303700.55,standard,Separated,CO,Aurora,United States,07-03-2021,Female
+0f5cdbb8-75be-4150-836c-b7c4950a954b,04-12-1995,US,USD,employee,$151141.57,basic,Divorced,VA,Newport News,United States,5/13/2021,Male
+24efa992-ca00-417c-97bb-22a085c58cf6,21-03-1996,US,USD,employee,$367174.77,standard,Widowed,FL,Pensacola,United States,1/26/2021,Female
+ea1c4b98-c305-4a67-ba7a-e529eee6c0e6,12-05-1993,US,USD,worker,$335252.03,basic,Divorced,TX,Houston,United States,6/28/2021,Male
+4e0028ba-6680-4cc5-b8bd-5b887a00e376,06-12-2000,US,USD,employee,$316119.49,standard,Widowed,AL,Birmingham,United States,4/26/2021,Male
+531c0178-13fb-433f-a3b8-01ac5764fb63,05-04-1993,US,USD,employee,$123741.45,basic,Separated,PA,Pittsburgh,United States,5/26/2021,Male
+a4aee222-dcb3-45dc-ba01-7169a1130ec3,29-11-1996,US,USD,employee,$108307.20,HNI,Divorced,UT,Salt Lake City,United States,7/17/2021,Male
+bec957ae-e054-46a1-b594-144637bfa289,15-08-1992,US,USD,worker,$108773.51,,Widowed,FL,Fort Myers,United States,3/27/2021,Male
+460914eb-b7d1-4369-9b43-841a885822af,17-07-2001,US,USD,worker,$220086.64,HNI,Married,OH,Cincinnati,United States,1/22/2021,Male
+22c87b20-4826-4ccf-88de-46849e100bc7,16-06-1997,US,USD,employee,$124395.77,standard,Separated,NJ,Newark,United States,11/19/2021,Male
+59dded99-1e30-4de0-9c8c-1be5b1f2a196,07-11-1996,US,USD,self-employed,$219793.68,HNI,Single,IN,Indianapolis,United States,01-08-2021,Male
+3177ae7d-3e8f-405f-915c-aa216ad2b6b4,16-10-1998,US,USD,worker,$199996.64,basic,Widowed,GA,Marietta,United States,04-02-2021,Male
+43c5eb4c-fc3a-4e28-9990-70d67f1e1066,17-11-1995,US,USD,self-employed,$325238.68,basic,Married,OH,Cincinnati,United States,7/16/2021,Male
+f2bce082-ce23-4708-8b16-8dd459e15a8b,17-01-1998,US,USD,,$246539.24,HNI,Single,IL,Chicago,United States,08-03-2021,Male
+4868bbb9-b100-404e-9942-bed464ff63a4,07-10-1993,US,USD,worker,$103302.28,standard,Divorced,WV,Charleston,United States,12-01-2020,Male
+e6b4fc10-0b13-4382-b827-86875c658abf,19-08-1994,US,USD,employee,$231057.93,basic,Married,IL,Rockford,United States,11-10-2021,Female
+575b4cac-1023-4163-9ec1-9448a76d16b5,19-04-1996,US,USD,employee,$190741.75,standard,Widowed,CA,Anaheim,United States,4/29/2021,Male
+61d47adb-725c-4a4a-9f7b-89f29aece290,02-05-2001,US,USD,self-employed,$194800.94,standard,Married,VA,Fredericksburg,United States,02-12-2021,Male
+9e29322e-2e89-4fd9-bfdd-61e4434ac11b,29-03-1996,US,USD,self-employed,,basic,Single,CA,Hayward,United States,10-09-2021,Female
+9c496974-4412-489f-a369-59d969aaae40,17-11-1990,US,USD,worker,$320282.49,basic,Widowed,DE,Wilmington,United States,4/18/2021,Male
+8e243cde-8d32-4463-b768-9ccd4e4ad598,24-05-2001,US,USD,employee,$153849.59,basic,Married,KY,Louisville,United States,08-10-2021,Male
+962d231c-2dd2-4090-a44b-3715d74455c2,07-01-1993,US,USD,self-employed,$306966.71,HNI,Widowed,NY,Rochester,United States,01-04-2021,Male
+d52317e3-ddef-4606-89a3-1a3f6b6cd68f,19-06-1996,US,USD,worker,$246049.54,HNI,Widowed,TX,Houston,United States,04-06-2021,Male
+c8509fd9-9ed0-4304-944a-2f75470f4f45,02-02-2002,US,USD,,$148937.31,HNI,Married,CA,Sacramento,United States,04-11-2021,Male
+38dfab65-6a5a-4a37-9641-f39135c7fb0d,30-05-1998,US,USD,self-employed,$294152.90,HNI,Single,VA,Arlington,United States,9/13/2021,Male
+056c0769-e41b-455f-8781-f6dd25925eef,17-10-1994,US,USD,self-employed,$105049.65,standard,Single,CA,Orange,United States,05-01-2021,Male
+fcdc2161-c9d4-454a-a9be-830737d1b39a,12-03-1993,US,USD,worker,$202927.25,HNI,Divorced,KS,Topeka,United States,9/20/2021,Male
+3a2402df-8079-4c4a-b221-fc2b1b9336f5,19-03-1994,US,USD,employee,$269625.19,HNI,Single,MN,Saint Paul,United States,04-11-2021,Female
+c8d6ac72-7cc6-4d7a-a1d7-00a070ad1d4c,10-06-1993,US,USD,,$151321.79,HNI,Single,TX,San Antonio,United States,7/19/2021,Female
+51e28c08-6da7-445a-bbca-1cc9cfb2b261,31-03-2002,US,USD,worker,$177274.89,HNI,Single,OK,Oklahoma City,United States,10/15/2021,Male
+27eb6de4-a17e-46a4-9d8b-abd08486bea2,20-12-1991,US,USD,employee,$269926.38,standard,Separated,TN,Nashville,United States,2/13/2021,Male
+93f64eab-8cd8-4a6b-b8c3-65993fcd45a4,19-05-2000,US,USD,employee,$350851.55,basic,Single,CA,San Jose,United States,01-05-2021,Male
+a3d74177-5c17-4c69-919d-a77aab3746d4,09-11-2000,US,USD,self-employed,$325274.77,basic,Divorced,UT,Ogden,United States,9/20/2021,Male
+87a0b022-002c-45ec-8b68-3793aaf09613,09-12-1995,US,USD,,$159033.26,standard,Single,NJ,Trenton,United States,11-03-2021,Male
+0f02a521-4c8a-46c8-a62f-ca588d788624,18-11-2000,US,USD,self-employed,$175937.18,HNI,Married,NY,Brooklyn,United States,7/22/2021,Female
+4b9c550c-19f1-487e-8b72-60bb765fab2e,19-10-1995,US,USD,self-employed,$181696.43,basic,Single,PA,Harrisburg,United States,12/22/2020,Male
+e28de66f-0966-4a8d-97be-0a3c4c17d930,11-10-2000,US,USD,,$351540.65,standard,Widowed,CA,Escondido,United States,2/15/2021,Male
+24184b7a-96bd-40a3-80c6-ea326621c513,14-12-1991,US,USD,self-employed,$394368.61,standard,Single,TN,Nashville,United States,12-11-2020,Male
+b9182d24-e288-41b2-a111-b021498ad130,10-04-1992,US,USD,worker,,HNI,Married,DC,Washington,United States,12/16/2020,Female
+918762c9-61ee-4402-b4f5-383ca6f12b55,05-02-2000,US,USD,employee,$191882.94,HNI,Divorced,CA,Concord,United States,8/27/2021,Female
+b5becf5d-08cd-4c5f-9012-13370c6657c1,21-08-1995,US,USD,worker,$375539.26,basic,Single,TX,Dallas,United States,1/24/2021,Male
+f92f2bbf-9f41-41c4-b210-5d55004938f3,18-05-1997,US,USD,self-employed,$391021.81,basic,Single,AL,Montgomery,United States,10-07-2021,Female
+3c867fcf-c8e4-4f28-97f5-3cb095182cb0,12-12-1994,US,USD,employee,$284099.65,HNI,Separated,CA,Irvine,United States,6/29/2021,Female
+1ba68b6d-056e-4a8f-89ea-1260b739160f,29-05-1997,US,USD,worker,$131018.11,basic,Divorced,IL,Naperville,United States,5/13/2021,Male
+7f24bdee-f3e5-4b63-a5b8-b7146720bf67,06-09-1996,US,USD,self-employed,$267390.86,HNI,Divorced,MT,Missoula,United States,08-01-2021,Male
+d70b070a-f57b-4a45-b84c-9b4d2c5ec261,03-12-1995,US,USD,worker,$294731.48,HNI,Divorced,CA,Oakland,United States,4/21/2021,Male
+04631bd0-4a51-4c9f-ba51-0a6d2591bbe6,06-04-1991,US,USD,worker,$187103.72,standard,Single,FL,Sarasota,United States,01-11-2021,Female
+48c51cec-e911-48bb-9b5b-9cea95b161c6,31-05-1993,US,USD,self-employed,$206974.46,standard,Widowed,OH,Cleveland,United States,12/22/2020,Female
+ad0d60a2-c313-4e93-90b1-11d5484a9f4c,04-03-1999,,,worker,$217017.17,HNI,Separated,CT,Stamford,United States,11-11-2021,Male
+ed7b3563-cc67-4b1c-bce9-465caf70779f,13-09-1995,US,USD,self-employed,$356764.70,standard,Separated,NY,Brooklyn,United States,03-05-2021,Male
+952be3f7-1947-4b23-832f-3f157416d466,19-05-1994,US,USD,worker,$235689.46,HNI,Married,OK,Tulsa,United States,04-08-2021,Male
+f858d34e-eafe-4dd1-9471-e96fc992f845,10-10-1991,US,USD,employee,$364619.94,HNI,Divorced,NY,New York City,United States,12/28/2020,Male
+ad99d65b-bd6f-4e6c-baed-64b141638e0c,19-09-1994,US,USD,employee,$228837.69,basic,Divorced,PA,Pittsburgh,United States,12/19/2020,Male
+51ca1250-0487-4921-9158-ba2372db8b49,11-09-1998,US,USD,employee,$366524.30,HNI,Separated,FL,Jacksonville,United States,04-10-2021,Female
+ff1068d6-10e5-4abe-88c4-d223f9ea473a,13-07-1994,US,USD,worker,$258436.44,basic,Widowed,TX,San Antonio,United States,10/26/2021,Female
+742ac1de-837f-4816-9b79-ae8ba1a1c630,26-01-1990,US,USD,employee,$194542.51,HNI,Divorced,MI,Lansing,United States,10/18/2021,Male
+20b28231-9c73-43ef-8be6-50df70145428,11-03-1996,US,USD,worker,$274639.09,HNI,Separated,MD,Rockville,United States,09-11-2021,Female
+4a9a921a-58eb-4f83-abca-beda3417da67,18-09-1995,US,USD,employee,$332360.66,basic,Widowed,WA,Bellevue,United States,8/21/2021,Female
+9902f37f-4e60-4d39-8b07-6c352b33117e,23-11-1994,US,USD,worker,$361394.93,basic,Widowed,FL,Pensacola,United States,12/23/2020,Male
+115923ad-0096-48e1-9520-d264f9aa17a2,17-08-1992,US,USD,self-employed,$306828.51,basic,Divorced,IN,Fort Wayne,United States,5/17/2021,Male
+4d13b3a7-21fe-43db-8296-4c81aaa73ff2,14-10-1995,US,USD,worker,$264623.07,basic,Divorced,TX,El Paso,United States,6/15/2021,Female
+dacde245-1098-4a9e-b3ca-c95009c5abd6,13-05-1993,US,USD,worker,$165603.78,HNI,Widowed,DC,Washington,United States,11-02-2021,Male
+7e547f0d-752c-401f-8f8d-13fc257e1bb9,11-03-1990,US,USD,worker,$113453.89,basic,Single,NJ,Paterson,United States,5/23/2021,Male
+1784c87f-f8c0-4ab1-b2c4-d7bb5b60d374,27-01-1996,US,USD,employee,$301264.96,HNI,Widowed,NE,Lincoln,United States,02-11-2021,Male
+eb4d7153-f0c5-4dd1-8cb4-2913e5e97d01,19-07-1993,US,USD,,$313331.78,standard,Separated,GA,Duluth,United States,10/25/2021,Male
+a2459eae-816c-49c1-bc2f-d77ae6d48d66,28-07-1991,US,USD,worker,$304482.53,HNI,Divorced,IL,Peoria,United States,2/18/2021,Male
+e86cdec1-c90e-4f97-8cde-a611a56781dc,30-10-2002,US,USD,employee,$172196.56,,Single,FL,Jacksonville,United States,4/22/2021,Male
+65da517b-845f-4747-8100-5087a299a119,24-07-1997,US,USD,self-employed,$374908.90,standard,Divorced,OR,Portland,United States,3/25/2021,Male
+17adedb3-0bbc-40b9-bb79-83db7d8af290,29-01-1994,US,USD,employee,$230919.74,basic,Separated,TN,Memphis,United States,10-02-2021,Female
+75fc1270-fded-4906-a31c-85fe1293345d,03-05-2002,US,USD,worker,$137660.57,HNI,Married,TX,Corpus Christi,United States,06-09-2021,Male
+0bf8e691-dce2-48f1-9af1-f767d0c0c877,20-03-1994,US,USD,employee,$112497.56,basic,Separated,PA,Levittown,United States,6/14/2021,Male
+6b6c2846-6fc9-4a30-b775-a5d95c2976b2,17-09-1994,US,USD,worker,,HNI,Separated,TX,Houston,United States,10/18/2021,Male
+67976e29-bc43-4dd8-a1de-2e5e967c0de5,02-09-2001,US,USD,worker,$124594.46,standard,Single,KS,Topeka,United States,05-01-2021,Male
+d74519e3-aa30-4991-99fc-909c42134af5,21-08-1992,US,USD,employee,$235950.27,HNI,Married,MN,Saint Cloud,United States,11-07-2021,Male
+999bcdc5-c9e0-406f-b457-1c0a054443fb,06-08-1991,US,USD,employee,$399981.88,HNI,Separated,CA,Inglewood,United States,06-05-2021,Male
+5a9b038e-9e41-4d4d-a703-a38c18d43fd3,24-04-1999,US,USD,employee,$108855.38,standard,Separated,NV,Henderson,United States,6/27/2021,Male
+46a900c5-ddd2-4606-8247-b5ce5cf1dbe4,03-10-1999,US,USD,worker,$108628.50,basic,Separated,CA,Torrance,United States,6/22/2021,Female
+ffd98427-2188-441c-9174-b26aeef0c89f,24-03-1997,US,USD,worker,$135376.52,standard,Separated,TX,Houston,United States,5/27/2021,Female
+30cefcca-6b4d-45b7-bf45-8ee4f80a46c7,01-08-1994,US,USD,employee,$315466.26,HNI,Widowed,MN,Saint Paul,United States,9/24/2021,Male
+c6cb6e26-ceff-4045-8d0b-5ae60fc270f0,21-02-1991,US,USD,worker,$126161.47,basic,Married,AL,Mobile,United States,1/23/2021,Male
+8c953e79-865e-4b76-874f-3bd803a6e0b4,26-06-1992,US,USD,employee,$356167.57,HNI,Separated,FL,Hialeah,United States,10-08-2021,Male
+4e1ac050-47ca-448e-b947-37f60811b89c,20-01-2002,US,USD,self-employed,$366747.83,basic,Divorced,OK,Tulsa,United States,12-05-2020,Male
+92f3e192-9f75-42f1-9457-57ed0b1633f8,27-12-2000,US,USD,self-employed,$129146.75,basic,Divorced,FL,Miami Beach,United States,11/28/2020,Male
+b6eec182-eb3a-4857-ac3e-ad048fe81dd6,25-04-1990,US,USD,self-employed,$294406.20,standard,Widowed,NY,New York City,United States,02-03-2021,Male
+c0de392f-f755-4406-9433-b1aaf2cc2086,13-05-1994,US,USD,worker,$289864.57,standard,Married,WA,Everett,United States,01-10-2021,Female
+47e129d8-9e0f-4444-baee-47ca3893da83,12-07-1995,US,USD,worker,,standard,Married,NY,Buffalo,United States,05-12-2021,Female
+a1967f76-2b27-47e2-8eed-0a86d6f0649c,27-08-1994,US,USD,self-employed,$337214.59,standard,Widowed,OR,Portland,United States,11-02-2021,Male
+1842c64d-d42b-44a2-be8a-b079ec067cd5,25-11-1990,US,USD,self-employed,$326424.59,basic,Divorced,LA,Lafayette,United States,09-06-2021,Male
+c048087a-3b00-45a5-bffc-24545fb70f2b,02-08-1997,US,USD,worker,$138459.82,HNI,Widowed,TX,Fort Worth,United States,03-06-2021,Male
+a6ffacb7-d90a-4131-80e7-3adbef1a060f,06-10-2001,US,USD,self-employed,$322085.55,HNI,Single,DC,Washington,United States,9/25/2021,Male
+2cc0fbba-8ad7-4c7f-900f-2baec638208e,17-12-1995,US,USD,worker,,standard,Single,NY,New York City,United States,11/22/2021,Male
+b2cf9400-1f70-4253-bc6b-3935805e723d,01-02-1996,US,USD,employee,$147451.68,standard,Separated,OH,Cincinnati,United States,4/15/2021,Male
+2be77e99-dd12-4662-bff3-d7d4a9c2972e,18-02-2000,US,USD,self-employed,$374253.25,standard,Separated,TX,Tyler,United States,2/16/2021,Female
+d0ed60b2-a665-422c-bac0-0ed9e6bf7174,17-09-1992,US,USD,self-employed,$338827.98,HNI,Single,MI,Detroit,United States,6/22/2021,Male
+50059d54-3766-4d49-83b8-10131b92da70,24-07-1999,US,USD,worker,$143806.22,standard,Single,OH,Columbus,United States,3/28/2021,Male
+d5e400f3-9098-4f62-a6e8-e873c951560c,04-03-2002,US,USD,self-employed,,standard,Married,AL,Montgomery,United States,03-07-2021,Male
+e0cc82ed-40c2-4633-90e7-758ae58904b1,30-08-1990,US,USD,worker,$156444.98,basic,Divorced,TX,Lubbock,United States,01-05-2021,Male
+d4c1dc6d-7d00-4d8f-ae56-693b1548459a,17-03-2001,US,USD,employee,$390090.93,basic,Widowed,GA,Columbus,United States,10-03-2021,Male
+128bc5ae-bac9-45bb-8bf2-37ef0fd35090,20-02-1990,US,USD,self-employed,$206583.77,basic,Single,CA,Burbank,United States,09-03-2021,Male
+f8f0ffa5-c6f7-4dd3-b19f-6a97ebae4925,30-07-1993,US,USD,,$322979.50,basic,Separated,CO,Colorado Springs,United States,10/18/2021,Male
+49d053d7-c2d8-494b-bb09-3c5ee900fc18,05-08-1994,US,USD,employee,$135593.11,basic,Separated,DC,Washington,United States,12-03-2020,Male
+5504827b-65b8-4d0d-9493-02576c74725e,18-02-1991,US,USD,self-employed,$310051.19,HNI,Single,TN,Kingsport,United States,02-09-2021,Female
+97e3c1d7-b0d2-48c9-809a-6a2b3d0c5126,28-02-1995,US,USD,employee,$325906.59,standard,Widowed,TX,Corpus Christi,United States,12/26/2020,Female
+b996c7c9-c71b-4c6f-b916-ec62a9521a54,18-02-2001,US,USD,worker,$112737.63,HNI,Divorced,NC,Charlotte,United States,7/23/2021,Male
+bb6865ca-0260-4662-9d36-748c46c1192c,25-11-1996,US,USD,worker,$262703.36,standard,Separated,FL,Orlando,United States,06-01-2021,Female
+46478aa0-ac3c-43b6-9dac-0cd21bab85a1,17-04-2000,US,USD,worker,$262624.40,HNI,Divorced,NY,Rochester,United States,2/27/2021,Male
+51420338-9aa7-4822-b8e5-6fb0345e8194,22-03-1997,US,USD,employee,$184886.93,standard,Widowed,WA,Spokane,United States,9/23/2021,Female
+c046c179-78cb-4f4a-8b99-bdff6028ca31,21-12-2000,,,employee,$281071.89,standard,Married,FL,Sarasota,United States,8/28/2021,Male
+87af0ea0-31f0-4a61-b406-9aa5ce1d3a9f,25-02-1998,US,USD,employee,$197426.88,basic,Widowed,DC,Washington,United States,11/19/2021,Male
+a3a03679-2a4b-4167-a8fd-c6fabf87439a,22-01-2000,US,USD,self-employed,$287404.58,basic,Single,IL,Decatur,United States,5/21/2021,Male
+79e5e8d5-7d14-4d19-8244-0a0122d44686,17-06-2001,US,USD,worker,$163581.61,HNI,Divorced,SC,Columbia,United States,4/22/2021,Male
+4a7dc4f6-7ef7-4c99-91e3-69d7489e6ebd,25-11-1994,US,USD,worker,$278115.80,standard,Separated,UT,Sandy,United States,04-02-2021,Male
+ce39940c-d13c-42c4-bf1b-bad0cacc5818,22-03-2002,US,USD,employee,$125130.83,HNI,Married,CT,Hartford,United States,05-01-2021,Male
+6e355cab-922a-4d0e-9903-a2762266eec2,19-09-1992,US,USD,employee,$179612.59,HNI,Married,CO,Denver,United States,01-02-2021,Male
+7b2d60f4-c536-4ead-8768-4f163f89dbef,04-03-1990,US,USD,worker,$350244.76,standard,Divorced,DC,Washington,United States,4/28/2021,Male
+0dabec02-e96f-4046-9493-ba1d2e220a3b,04-08-1992,US,USD,employee,$301149.62,HNI,Widowed,SC,Charleston,United States,12-04-2020,Female
+836e1f73-aee8-4888-a372-0be96aea2b3c,12-07-1990,US,USD,worker,$365445.35,HNI,Single,PA,Reading,United States,11-12-2021,Female
+8ef4c949-713a-434c-b4cc-d27f6c78444e,09-08-1990,US,USD,worker,$186553.56,standard,Widowed,NY,Jamaica,United States,12/27/2020,Male
+0688d3df-bb6d-4f5f-ba58-d3e0d503e9e3,07-05-1992,US,USD,self-employed,$362247.51,standard,Separated,NC,Durham,United States,2/23/2021,Male
+40864a32-1656-4213-84a9-1a3fa387eafc,19-10-2002,US,USD,worker,$119329.92,HNI,Married,NY,New York City,United States,04-09-2021,Male
+0dbd2823-3b1a-4b4f-8c8c-e6d054b38571,26-04-1997,US,USD,employee,$111728.16,standard,Separated,FL,Pompano Beach,United States,7/26/2021,Male
+0c8c53c8-d14d-44d8-9c83-bdf605dbffdf,19-07-2001,US,USD,,,HNI,Single,LA,Baton Rouge,United States,1/25/2021,Male
+4cb1b2ea-0d6b-460a-b033-8eb7e88d1dfc,14-02-1998,US,USD,self-employed,$140838.41,standard,Divorced,IL,Springfield,United States,12/15/2020,Male
+5424f2c1-db49-4739-ac0f-b365c5904a75,15-09-1995,US,USD,employee,$363451.84,standard,Separated,TX,Dallas,United States,12/13/2020,Female
+a47998bb-83ae-4985-aa50-5e025311fe19,28-03-1994,US,USD,employee,$265651.22,standard,Widowed,AZ,Scottsdale,United States,5/15/2021,Male
+9372e1cc-2957-4fdd-accf-95c0afa72217,12-03-1994,US,USD,employee,,standard,Widowed,NV,Las Vegas,United States,9/17/2021,Male
+97d749ec-6159-49a7-a57d-d3a09531c2a5,20-03-1991,US,USD,self-employed,$163497.70,standard,Separated,DC,Washington,United States,12/23/2020,Male
+9dac450f-a66a-414c-8d1b-70f2c032fafc,19-06-1999,US,USD,employee,$237587.45,HNI,Married,CT,Waterbury,United States,06-07-2021,Male
+fef56a7b-d7f1-4151-a821-2df1dd3f7a5d,23-10-1999,US,USD,employee,$399876.27,HNI,Widowed,OH,Columbus,United States,12-03-2020,Male
+3002bd58-51d8-4408-9d40-4a459eb93f51,20-12-2000,,,worker,$393856.37,basic,Married,SC,Columbia,United States,08-10-2021,Male
+2749fd08-1907-4f79-b55d-ccd37a62754b,23-06-1993,US,USD,self-employed,,basic,Separated,NC,Charlotte,United States,12-01-2020,Female
+e6672f31-5a10-4e7e-9d12-a816a15d0ecd,26-07-1998,US,USD,worker,$214228.05,standard,Divorced,NY,Buffalo,United States,11/26/2020,Male
+947fdc33-243c-434f-a626-976bbf310d69,24-08-1998,US,USD,self-employed,$377103.01,HNI,Separated,MO,Saint Louis,United States,05-10-2021,Male
+ffe45544-c3c2-4c9d-b426-0994aa36acc5,03-12-1992,US,USD,worker,$314711.37,standard,Widowed,KY,Louisville,United States,11-07-2021,Male
+b938e161-4f4a-4a72-b37e-95d37052b23b,12-06-1996,US,USD,worker,$334216.21,basic,Divorced,MO,Kansas City,United States,1/30/2021,Female
+35892e57-728a-475e-9f02-e9c11825003f,24-05-1994,US,USD,employee,$314066.96,standard,Divorced,OH,Toledo,United States,4/16/2021,Male
+2b08fe5d-68e8-4283-bb36-b871f6694e18,01-02-1992,US,USD,self-employed,$257610.59,HNI,Separated,NY,Staten Island,United States,01-01-2021,Female
+48f5c39e-1026-49c8-a248-252682d6c5dc,14-11-1996,US,USD,worker,$344176.99,standard,Separated,KS,Wichita,United States,8/18/2021,Male
+0f333d8f-60e5-4482-9b06-ae381c66218e,13-08-1991,US,USD,worker,$128473.23,standard,Widowed,VA,Reston,United States,11/21/2021,Male
+b252d469-adfb-48b3-add4-0e19ba4fbd96,05-08-1999,US,USD,employee,$163558.82,HNI,Single,IN,Evansville,United States,07-06-2021,Male
+3bbb5548-fcaa-46aa-9b2b-6d4e65f16a94,17-01-1993,US,USD,employee,$157077.30,basic,Divorced,CO,Colorado Springs,United States,3/18/2021,Male
+3401cfe1-23e0-436f-a8e2-5cbef4c11e89,06-11-1991,US,USD,employee,$302438.29,HNI,Married,CA,Torrance,United States,08-04-2021,Male
+7728acbf-dcb3-4a0a-83bd-34a8ce065752,09-07-2001,US,USD,employee,$335992.08,HNI,Separated,VA,Ashburn,United States,7/16/2021,Female
+1e2f38dc-dcab-4222-adf3-1e163510dd09,11-04-1994,US,USD,worker,$287791.47,standard,Separated,WA,Seattle,United States,12/15/2020,Male
+09899594-67db-43a2-85a9-9ac334e9e965,17-12-1997,US,USD,employee,$123928.89,HNI,Married,MO,Kansas City,United States,4/20/2021,Male
+54de8b65-c470-486d-b0d0-2da0eefea984,16-03-2002,US,USD,worker,$116866.43,standard,Widowed,MO,Saint Louis,United States,08-10-2021,Female
+bab9647b-a785-45de-ae34-2efb349e0a73,26-02-1995,US,USD,worker,$177792.53,HNI,Separated,TX,Dallas,United States,2/13/2021,Female
+d2955b97-5f16-47c6-9cad-a6167bd73a8e,24-06-2002,US,USD,worker,$118948.98,basic,Widowed,CA,Fresno,United States,7/23/2021,Male
+8375c0aa-4872-405c-8d78-d32525e17ecf,24-04-1993,US,USD,self-employed,$395904.50,HNI,Single,WV,Huntington,United States,8/16/2021,Male
+fed74172-766f-4848-b9fe-28715f120d90,13-11-1997,US,USD,worker,$210115.26,standard,Separated,NY,Bronx,United States,10/30/2021,Female
+c600bad0-892d-4ca5-929d-2be69ff8198a,28-11-1993,US,USD,worker,$138000.12,HNI,Divorced,CO,Denver,United States,5/14/2021,Female
+8c1d3fb6-ae25-4095-b4be-255bd80969e6,07-09-1992,US,USD,self-employed,$278859.58,HNI,Divorced,CA,Los Angeles,United States,03-11-2021,Male
+68bd60bd-c947-479d-bdd3-135ed8e4bc8f,03-01-1995,US,USD,employee,$213907.40,HNI,Single,CA,Los Angeles,United States,03-03-2021,Male
+7968328a-5ea4-4546-b885-226f88a547cd,11-09-1995,US,USD,,$285960.74,standard,Married,PA,Harrisburg,United States,11/23/2021,Female
+1d0d11bd-27d0-495f-8b48-3998f96dfd38,02-03-1994,US,USD,self-employed,$119971.60,basic,Divorced,KY,Lexington,United States,8/20/2021,Male
+7da5d764-ca0a-4b43-8399-0c854c65ffb6,01-08-2000,US,USD,employee,$109553.18,HNI,Divorced,CT,Stamford,United States,4/29/2021,Female
+aff3dea7-145b-45ac-a1a1-939d7e83c316,17-02-2000,US,USD,self-employed,$327231.96,HNI,Separated,NY,Staten Island,United States,02-02-2021,Male
+5ac11478-8446-4dda-9382-902de78a1caa,23-10-2001,US,USD,employee,$395210.85,HNI,Single,FL,Saint Petersburg,United States,12/27/2020,Female
+e1efa2b1-ea07-4157-ad93-65345c34ec12,15-08-1995,US,USD,employee,$102410.43,,Divorced,TX,Houston,United States,7/29/2021,Male
+e92fdd5d-f302-4caa-988c-5056d91021e1,16-11-1992,US,USD,self-employed,$190672.48,standard,Divorced,LA,Baton Rouge,United States,12-06-2020,Male
+c23d0dfe-92fa-492b-acb3-6589cc1cb0bd,19-01-2000,US,USD,employee,$270558.69,standard,Widowed,IN,Indianapolis,United States,03-11-2021,Male
+0fb4951b-ee53-4de9-9c4a-940f7c9675d1,14-06-1992,US,USD,employee,,HNI,Separated,MO,Kansas City,United States,02-05-2021,Female
+5571342f-1306-4d3b-ac7a-de33332358a5,07-12-1997,US,USD,employee,$288591.62,standard,Single,NJ,Trenton,United States,6/29/2021,Male
+82742dad-d530-41ab-b7d0-10d2835b2d46,11-07-1998,US,USD,worker,$340450.09,standard,Widowed,PA,Scranton,United States,3/17/2021,Female
+5d22e6fc-149f-4ec3-8967-3ca7c4ab1e54,24-07-1996,US,USD,employee,$390398.28,HNI,Divorced,CO,Denver,United States,05-09-2021,Male
+214fa2d3-83a8-4f65-be9c-623ef7d03f56,30-08-2001,US,USD,worker,$160858.00,HNI,Divorced,NY,Brooklyn,United States,10-04-2021,Male
+c6e030cf-bb46-44c4-97f5-ff64f8a3bf92,23-10-2001,US,USD,self-employed,$320937.66,standard,Widowed,SC,Spartanburg,United States,10/18/2021,Male
+72422fe8-0273-49dd-a574-60f294c47241,26-09-2001,US,USD,worker,$117706.25,HNI,Married,OH,Columbus,United States,9/18/2021,Male
+9219b970-930e-40a1-a0c8-f5cc5411581b,06-10-2000,US,USD,self-employed,$137656.05,standard,Divorced,WI,Madison,United States,12/28/2020,Male
+8585a63a-fcdb-4ded-a8aa-cfae2256013b,22-03-1991,US,USD,self-employed,$299943.79,HNI,Separated,NC,Charlotte,United States,3/29/2021,Male
+a6a73696-fe60-49e4-82dd-4030f4e96ff6,14-10-1991,US,USD,employee,$332604.21,basic,Widowed,IL,Joliet,United States,12/29/2020,Male
+e6c5406b-7b31-4774-8d00-322770d69d07,07-01-1993,US,USD,self-employed,$254389.52,HNI,Married,AL,Montgomery,United States,4/25/2021,Female
+2773b689-3347-4cc6-8cd7-70c9b5d46807,12-01-1991,US,USD,employee,$349788.36,standard,Divorced,MO,Springfield,United States,05-04-2021,Male
+668129f1-bc22-40f3-ae47-c34f52d86ec6,13-08-2001,US,USD,worker,$261522.99,standard,Separated,OK,Tulsa,United States,09-06-2021,Male
+b2559366-2ad4-4110-be5c-be7b40d8387f,21-02-2000,US,USD,self-employed,$366478.09,basic,Married,CA,San Diego,United States,2/22/2021,Male
+e637c51f-4971-446c-8f91-135334547a0f,31-07-2001,US,USD,worker,$374661.72,HNI,Divorced,WV,Charleston,United States,10/25/2021,Male
+da8b5d4d-c472-48c9-8c34-12c0663addef,25-11-1993,US,USD,employee,$159515.19,standard,Separated,FL,Sarasota,United States,8/27/2021,Female
+6f4665fe-dd6f-41ca-b2fb-343a7ce6c333,24-05-1994,US,USD,self-employed,$362022.16,HNI,Divorced,GA,Macon,United States,05-08-2021,Male
+011bad88-3bff-46bb-aba4-e99e5412a3f9,18-11-1994,US,USD,self-employed,$233538.12,standard,Widowed,GA,Atlanta,United States,1/30/2021,Female
+e6c793e9-d535-459d-9052-abc7446127c5,12-08-2000,US,USD,worker,$142298.89,HNI,Widowed,TX,Houston,United States,1/22/2021,Male
+06433e83-0ae7-4019-bdbc-34e5a732f0fa,14-07-1996,US,USD,self-employed,$361449.29,HNI,Separated,IL,Peoria,United States,9/16/2021,Male
+80bf2a3a-420f-4553-85d1-b80e252e6820,10-05-1992,,,employee,$327436.63,basic,Married,MO,Springfield,United States,07-03-2021,Male
+0dd1d628-9a0f-484b-a238-2063798055df,27-02-2002,US,USD,self-employed,$327901.32,standard,Single,MA,Springfield,United States,08-09-2021,Male
+c2dafdad-3ccb-4ce2-8fa9-f689fd20fe46,31-07-2001,US,USD,employee,$244528.55,standard,Widowed,NY,Bronx,United States,8/22/2021,Male
+11499052-b1b7-4f54-91b0-16a28cb11c5e,25-07-1998,US,USD,worker,$326484.78,HNI,Married,MI,Detroit,United States,06-08-2021,Female
+330c0e7d-2938-4836-8144-61ab183f6618,11-01-1995,US,USD,self-employed,$352100.46,standard,Separated,TX,Houston,United States,6/16/2021,Male
+b8233ecb-3851-4db2-8814-79ddb3f21d1c,17-04-1997,US,USD,employee,$284513.16,HNI,Separated,FL,Tampa,United States,04-03-2021,Male
+55e3f425-084f-480f-b1b9-1dbde9dbacfe,17-04-1992,US,USD,self-employed,$378888.68,standard,Single,DC,Washington,United States,4/17/2021,Female
+bef84097-2244-4fd5-8a10-a1e9f3d1a48c,20-09-1997,US,USD,worker,$365911.85,standard,Divorced,AL,Birmingham,United States,6/17/2021,Male
+573bcaaa-83da-40f5-8523-72beb4b1d14c,13-04-1997,US,USD,self-employed,,standard,Married,CA,Fullerton,United States,3/29/2021,Male
+1384a3df-b966-4d53-9e3b-98e8b0c4914d,13-01-1991,,,employee,$396699.97,HNI,Divorced,AL,Mobile,United States,4/19/2021,Male
+80c2c91c-ccf5-48e0-bd8d-4a88b62aa7a9,27-02-1997,US,USD,worker,$339839.37,standard,Single,CO,Boulder,United States,1/14/2021,Female
+b1a6e00d-8faa-4c68-99c0-c5a518d71cc0,09-06-1991,US,USD,worker,$213450.02,HNI,Widowed,VA,Ashburn,United States,01-04-2021,Male
+3c3d1062-245a-4f80-894e-854d967a4cd3,15-06-2000,US,USD,self-employed,$326037.23,standard,Divorced,WV,Huntington,United States,1/24/2021,Female
+2b59bcc7-749e-4fca-b61d-53ba36562d16,23-08-1997,US,USD,worker,$242801.34,basic,Single,TX,Odessa,United States,12-05-2020,Female
+7e1ebc9f-f7bf-4254-9a6c-6fc068b30c4e,19-08-1998,US,USD,employee,,standard,Divorced,TN,Memphis,United States,7/30/2021,Male
+c12075b4-2721-4aef-a6ac-c440f3b7bccd,25-08-1992,US,USD,,$325460.05,standard,Separated,WV,Charleston,United States,04-02-2021,Male
+e48f0a32-eb37-4ab1-853f-c9bd03f8d49a,27-11-1998,US,USD,self-employed,$146636.92,standard,Divorced,TX,Dallas,United States,02-11-2021,Male
+2b96b4c6-bd6a-401d-b277-9139885529fc,25-07-1993,US,USD,worker,$352660.97,HNI,Married,WA,Seattle,United States,09-12-2021,Male
+aa9ea39c-c871-4f30-84ee-31b855787d23,21-05-2000,US,USD,self-employed,$149885.41,basic,Separated,TN,Chattanooga,United States,03-06-2021,Male
+d932ac56-2346-45e8-a5f7-875e840e6d73,06-06-1999,US,USD,self-employed,$278170.14,standard,Single,GA,Atlanta,United States,5/25/2021,Female
+4b4bbce5-a485-4d7e-9789-96b6bb3438c8,07-07-1999,US,USD,worker,$265405.34,standard,Single,WI,Madison,United States,2/27/2021,Male
+d536baa7-4bd6-48ab-a955-292e229dce03,16-12-1996,US,USD,,$323545.78,standard,Single,DC,Washington,United States,11/18/2021,Male
+0a705872-74ec-4689-a382-50d2314282cc,15-10-2001,US,USD,employee,$160103.62,standard,Separated,NC,Charlotte,United States,11/28/2020,Female
+6e96901f-9aa7-48c9-a504-520964c29f41,27-10-1992,US,USD,worker,$369234.94,standard,Single,MA,Woburn,United States,10-12-2021,Male
+1c311758-84d3-4fad-a18b-a93d9df0663d,26-05-1992,US,USD,self-employed,$352310.41,basic,Single,KY,Louisville,United States,3/26/2021,Male
+42880505-48f6-42a8-a9ed-75ce5e9de90a,15-03-1994,US,USD,employee,$393414.63,HNI,Widowed,NC,Winston Salem,United States,2/18/2021,Male
+da339aec-481a-4aeb-8ec7-07853c099315,31-01-2001,US,USD,self-employed,$332812.25,HNI,Married,MN,Saint Paul,United States,10/17/2021,Male
+aff337a5-5538-4cd5-a3da-68e727cd65c7,02-07-1994,US,USD,worker,$239053.98,standard,Divorced,VA,Arlington,United States,3/25/2021,Male
+1458d000-5b0a-451f-8b58-a5b52e26b43a,17-12-1995,US,USD,worker,$276024.44,HNI,Divorced,GA,Atlanta,United States,2/19/2021,Female
+4da8b5d8-a09c-49d0-8ad3-ff0194806d5a,09-10-2001,US,USD,self-employed,$345161.28,HNI,Single,PA,Philadelphia,United States,6/28/2021,Male
+46c80376-2891-4b89-a12f-1315288918db,26-06-2001,,,worker,$154970.09,standard,Separated,DE,Newark,United States,9/28/2021,Male
+07ab93af-f602-44b2-8b9a-00065cee0dac,13-09-1993,US,USD,worker,$350640.18,HNI,Divorced,FL,Orlando,United States,10/31/2021,Male
